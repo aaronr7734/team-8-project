@@ -47,4 +47,4 @@ Next meeting:
 
 * Complete sections of the deliverable
 * Set up improvements
-* Get started on building the website (ex: setting up the server)
+* Decide on infrastructure we want to use
