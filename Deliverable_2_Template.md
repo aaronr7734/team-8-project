@@ -75,15 +75,24 @@ Make a numbered list of non-functional requirements that are important for your 
 
 [Links to an external site.](https://ieeexplore.ieee.org/document/8559686)
 
+
+
 Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.
 
 
+
+ - Have a link that will be connected to the outside website that inputs the actual discout, so that the user dose not have to start over in the outside website.
+ - Make sure that only one college student can habe one only account.
 ### 5. Minimum Viable Product (<span style="text-decoration:underline;">Everyone</span>)
 
 What will be your MVP? Which features are you going to validate? How?
 
 Grading criteria (2 points): Describe what would be considered the Minimal Viable Product and how it will be tested (e.g., via implementation, prototyping, Wizard of Woz, etc.). Make clear what you are going to validate. The MVP should be coherent with the previous sections.
 
+
+
+
+The MVP will be just the website. With no log in at the beginning of the website. The product will just be a webiste will all the discouts for college students.
 
 ### 6. Use cases (<span style="text-decoration:underline;">CJ and Jess</span>)
 
@@ -97,6 +106,69 @@ After each use case description, add a sketch of the corresponding user interfac
 
 Grading criteria (8 points): Follow the template to describe the use cases. Present an interface sketch for each use case. Describe the use case as a dialog between the user and the system. Do not use UI language in the description of the use case.
 
+Use Case: Browsing Onto Website 
+Actor: User (College Student)
+Trigger: User Decides to click website link
+Pre-condition: User must be aware of website
+Post-condion: User is browsing website
+Success Scenario:
+	1. They are looking for discounted item
+	2. They look for discounted items on search engine
+	3. They find a link to a webiste
+
+
+User Case: Creating an Account
+Actor: User(College Student)
+Tigger: Want to be able to leave reviews
+Pre-condition: User must have found a discount they liked
+Post-condtion: User is able to log in and promote other discounts
+Success Scenario: 
+	1. User uese website and like a discount
+	2. They want to promote it to show validity but they must leave a comment to do that
+	3. In order to leave a comment, they must create an account
+	4. The account is created
+
+User Case: Logging user into system
+Actor: User(College Student)
+Trigger: User decdies to log into the system 
+Pre-Condition: User must be in the system
+Post-Condtion: User is logged into the system
+Success Scenario:
+	1. Username is taken by the system
+	2. The password is taken by the system
+	3. The user is logged into the system
+
+User Case: Acquiring the discount
+Actor: User(College Student)
+Tigger: User descides to click discount link
+Pre-condition: User must look for that discount link
+Post-condition: User must want that discount
+Suscces Scenario:
+	1. They must want the discount
+	2. The user is taken to the other website
+	3. User found a discount they like
+
+
+User Case: Checking the System
+Actor: Admin System
+Tigger: The admin system makes sure the discounts are up to date
+Pre-condition: The discount is out of date
+Post-condition: The discount is taken down, and it updated
+Success Scenario:
+	1. The website is still running
+	2. Outdated discounts are taken down
+	3. Admin make sure that everything is okay
+
+User Case: Verifying your a college student
+Actor: User(College Student)
+Trigger: User makes sure that you are a college student
+Pre-Condition: User must be a college student 
+Post-Condition: User logs in as college student
+Success Scenario:
+	1. Gets the college discounts
+	2. Putting thier college email in 
+	3. Verifies that they go to that school
+
 
 ### 7. User stories (<span style="text-decoration:underline;">Everyone</span>)
 
@@ -106,6 +178,12 @@ Establish a priority level for each user story and estimate how many hours each 
 
 Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.
 
+
+
+
+
+As a freshman college student, I want to be able to find easy discounts, so that I can have an easy transistion into college.
+As a college student who is on a scholarship, I want to be able to find discounts, so that I can use my grant money in an affordable way. 
 
 ### 8. Issue Tracker (<span style="text-decoration:underline;">Everyone</span>)
 
