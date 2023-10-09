@@ -13,6 +13,7 @@
 - Aaron Ramirez (Minute Taker)
 
 **Missing Participants:** None
+
 **Project Repo:** [Student Discountz](https://github.com/aaronr7734/team-8-project)
 
 ## Summary of Activities
