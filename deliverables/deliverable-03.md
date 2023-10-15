@@ -14,4 +14,4 @@ Behind the scenes, **Admins** have the power to ***add*** or ***remove*** **disc
 
 
 ## Part 2: UML diagram
-![Student Discountz UML](./assets/deliverable-03/studentUML.png)
+![Student Discountz UML](./assets/deliverable-03/studentNewUML.png)
