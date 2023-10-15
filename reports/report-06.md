@@ -36,7 +36,7 @@ For this week, I downloaded Django and ReactJS in order to set up what I needed 
 
 2. Project Retrospective
 
-**Appreciations**: Chase did an amazing job drawing the UML diagram and helping the team shape the deliverable.
+**Appreciations**: Chase did an amazing job edited the UML diagram and helped Aaron update the description of the model.
 
 **Successes**: We are on track to meeting our goals and the communication has improved.
 
