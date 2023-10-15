@@ -37,9 +37,14 @@ For this week, I downloaded Django and ReactJS in order to set up what I needed 
 2. Project Retrospective
 
 **Appreciations**: Chase did an amazing job drawing the UML diagram and helping the team shape the deliverable.
+
 **Successes**: We are on track to meeting our goals and the communication has improved.
-**Failures**: It was difficult to make some decisions
+
+**Failures**: It was difficult to make some decisions.
+
 **Barriers**: Discussing and setting up the frameworks is taking longer than expected.
+
 **What should we do next time**: I think we could use ClickUp to be more organized with tasks and where we are in the process.
+
    
 3. Next Steps
