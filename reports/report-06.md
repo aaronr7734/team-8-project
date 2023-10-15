@@ -28,31 +28,57 @@ Project repo: team-8-project
 
 **Aaron**:
 
-In Tuesday's meeting, we collectively refined our vision for the project, leading me to draft a thorough system description. During Thursday's follow-up session, I assisted the team in dissecting my system description and contributed to the logistics of generating our class diagram. Updates were made to classes not initially detailed in my system description; I documented these changes and forwarded them to Chase. With my feedback, Chase amended the text to correspond with our newly revised class diagram. My appreciation this week is directed toward Chase for adeptly navigating my occasionally disorganized notes. Lastly, owing to an accidentally incorrect domain purchase I made last week, we are rebranding our group to StudentDiscountz.
+In Tuesday's meeting, we collectively refined our vision for the project, leading me to draft a thorough system description. During Thursday's follow-up session, I assisted the team in dissecting my system description and contributed to the logistics of generating our class diagram. Updates were made to classes not initially detailed in my system description; I documented these changes and forwarded them to Chase. With my feedback, Chase amended the text to correspond with our newly revised class diagram.  
 
 **Elizabeth**:
 
-For this week, I downloaded Django and ReactJS in order to set up what I needed to jump start the beginning of the coding process. During the meeting, I participated in the creation of the UML diagrams and establishing each part of functionality on the website. Though we didn't start coding this week, I discussed with team about the different frameworks we wanted to use. This includes ReactJS, Django, Backbone, and Bootstrap. I also touched base on how the front page is going to be designed, which has helped our project become more crystallized.
+For this week, I downloaded Django and ReactJS in order to set up what I needed to jump-start the beginning of the coding process. During the meeting, I participated in the creation of the UML diagrams and establishing each part of the functionality on the website. Though we didn't start coding this week, I discussed with the team about the different frameworks we wanted to use. This includes ReactJS, Django, Backbone, and Bootstrap. I also touched base on how the front page is going to be designed, which has helped our project become more crystallized.
 
 **Ceanna**
-This week, I was in charge of the UML diagram. In our meeting, we sat down and talked about how the diagram looked. As we were talking about the UML diagram I input it into the computer. I used the drawio program. I was in talks with Chase and Aaron to make sure that if we had any changes to the UML diagram, I would change it. I set up the slides for the presentation that is next week. With coding, I downloaded a couple of programs so that we could start coding as soon as possible. The programs are Django and ReactJS. I played around with ReactJS to see how it works.
+This week, I was in charge of creating the UML diagram. In our meeting, we sat down drew on the whiteboard, and talked about how the diagram should look throughout the meeting. As we were talking about the UML diagram I was simultaneously drawing the diagram on my laptop using the Drawio program. I communicated with Chase and Aaron to make sure that we were on the same page about any changes to the UML diagram, so I could update it. Once the meeting was over, I set up the slides for the presentation so we could start preparing for next week. As for coding this week, I downloaded a couple of programs so that we could start coding as soon as possible. Those programs were Django and ReactJS and I played around with them to see how they work so I can get a better idea before we start coding.
 
 2. Project Retrospective
 
-**Appreciations**: Chase did an amazing job edited the UML diagram and helped Aaron update the description of the model.
-Jennie for taking charge this week, and making sure that we had a goal this week, and hitting the mark.
+**Appreciations**: 
+   Elizabeth's Thoughts: Ceanna did an amazing job editing the UML diagram and helped Aaron and Chase update the description of the model.
+   Ceanna's Thoughts: Jennie for taking charge this week, making sure that we had a goal this week, and hitting the mark.
+   Aaron's Thoughts: My appreciation this week is directed toward Chase for adeptly navigating my occasionally disorganized notes.
+   Chase's Thoughts:
+   Jessica's Thoughts:
+   Jennie's Thoughts:
 
-**Successes**: We are on track to meeting our goals and the communication has improved.
-We as a group are using github more this week.
+**Successes**: 
+   Elizabeth's Thoughts: We are on track to meeting our goals and the communication has improved.
+   Ceanna's Thoughts: We as a group are using GitHub more this week.
+   Aaron's Thoughts:
+   Chase's Thoughts:
+   Jessica's Thoughts:
+   Jennie's Thoughts:
 
-**Failures**: It was difficult to make some decisions.
-Django and ReactJS had a hard time downloading on some people's computers.
+**Failures**: 
+   Elizabeth's Thoughts: It was difficult to make some decisions.
+   Ceanna's Thoughts: Django and ReactJS had a hard time downloading on some people's computers.
+   Aaron's Thoughts: Owing to an accidentally incorrect domain purchase I made last week, we are rebranding our group to StudentDiscountz.
+   Chase's Thoughts:
+   Jessica's Thoughts:
+   Jennie's Thoughts:
 
 
-**Barriers**: Discussing and setting up the frameworks is taking longer than expected.
-Having a hard time working around GitHub, and making sure that we do not have any merger errors. 
+**Barriers**: 
+   Elizabeth's Thoughts: Discussing and setting up the frameworks is taking longer than expected.
+   Ceanna's Thoughts: Having a hard time working around GitHub, and making sure that we do not have any merger errors. 
+   Aaron's Thoughts:
+   Chase's Thoughts:
+   Jessica's Thoughts:
+   Jennie's Thoughts:
 
-**What should we do next time**: I think we could use ClickUp to be more organized with tasks and where we are in the process. We should talk more about how we are going to break the code for next week.
+**What should we do next time**: 
+   Elizabeth's Thoughts: I think we could use ClickUp to be more organized with tasks and where we are in the process. 
+   Ceanna's Thoughts: We should talk more about how we are going to break the code for next week.
+   Aaron's Thoughts:
+   Chase's Thoughts:
+   Jessica's Thoughts:
+   Jennie's Thoughts:
 
    
 3. Next Steps
