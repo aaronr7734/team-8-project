@@ -15,4 +15,4 @@ Behind the scenes, **Admins** have the power to ***activate*** or ***deactivate*
 To save their favorites for another time, **Students** can create **Bookmarks** using the *name* and *URL* of the business, which get stored in their user profile for future reference. **Notifications** are generated automatically based on *user preferences* and are sent via *email* to keep **Students** informed.
 
 ## Part 2: UML diagram
-![Student Discountz UML](./assets/deliverable-03/StudentUML.png)
+![Student Discountz UML](./assets/deliverable-03/studentUML.png)
