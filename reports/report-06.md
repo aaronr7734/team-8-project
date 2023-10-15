@@ -41,43 +41,93 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
 
 **Appreciations**: 
    Elizabeth's Thoughts: Ceanna did an amazing job editing the UML diagram and helped Aaron and Chase update the description of the model.
+
+   
    Ceanna's Thoughts: Jennie for taking charge this week, making sure that we had a goal this week, and hitting the mark.
+
+   
    Aaron's Thoughts: My appreciation this week is directed toward Chase for adeptly navigating my occasionally disorganized notes.
+
+   
    Chase's Thoughts:
+
+   
    Jessica's Thoughts:
+
+   
    Jennie's Thoughts:
 
 **Successes**: 
    Elizabeth's Thoughts: We are on track to meeting our goals and the communication has improved.
+
+   
    Ceanna's Thoughts: We as a group are using GitHub more this week.
+
+   
    Aaron's Thoughts:
+
+   
    Chase's Thoughts:
+
+   
    Jessica's Thoughts:
+
+   
    Jennie's Thoughts:
 
 **Failures**: 
    Elizabeth's Thoughts: It was difficult to make some decisions.
+
+   
    Ceanna's Thoughts: Django and ReactJS had a hard time downloading on some people's computers.
+
+   
    Aaron's Thoughts: Owing to an accidentally incorrect domain purchase I made last week, we are rebranding our group to StudentDiscountz.
+
+   
    Chase's Thoughts:
+
+   
    Jessica's Thoughts:
+
+   
    Jennie's Thoughts:
 
 
 **Barriers**: 
    Elizabeth's Thoughts: Discussing and setting up the frameworks is taking longer than expected.
+
+   
    Ceanna's Thoughts: Having a hard time working around GitHub, and making sure that we do not have any merger errors. 
+
+   
    Aaron's Thoughts:
+
+   
    Chase's Thoughts:
+
+   
    Jessica's Thoughts:
+
+   
    Jennie's Thoughts:
 
 **What should we do next time**: 
    Elizabeth's Thoughts: I think we could use ClickUp to be more organized with tasks and where we are in the process. 
+
+   
    Ceanna's Thoughts: We should talk more about how we are going to break the code for next week.
+
+   
    Aaron's Thoughts:
+
+   
    Chase's Thoughts:
+
+   
    Jessica's Thoughts:
+
+   
    Jennie's Thoughts:
 
    
