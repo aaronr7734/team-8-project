@@ -39,6 +39,10 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
 
 **Jessica**
 This week, I was able to meet with the team to create the diagrams as well as create a webpage template for our Presentation on Wednesday. I also download Django and react so we can start the necessary coding process for the following week. It was important to get the webpage template done so we can have a visual aspect to show for the midterm presentation, hence why that was my main focus this week aside from contrubuting to the new deliverable and trying to reformat the way we do report to accurately work as a team.
+
+**Chase**
+This week I helped create the diagram for the second part of the deliverable, as well as updated the markdown for the first part of the deliverable. I also helped plan the new agenda, discussed future meetings, and developed an idea for the group presentation. On top of this, I did some research on our decided frameworks to get a better understanding of how they work.
+
 2. Project Retrospective
 
 **Appreciations**: 
@@ -51,7 +55,7 @@ This week, I was able to meet with the team to create the diagrams as well as cr
    Aaron's Thoughts: My appreciation this week is directed toward Chase for adeptly navigating my occasionally disorganized notes.
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: I appreciate Aaron for helping me modify the deliverable. I also appreciate Ceanna for helping me with the daigram, and Jennie for keeping us organized.
 
    
    Jessica's Thoughts: Ceanna and Chase did a great job this week working on sorting out the diagram
@@ -69,7 +73,7 @@ This week, I was able to meet with the team to create the diagrams as well as cr
    Aaron's Thoughts:
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: I think our group is properly utilizing github and is communicating better.
 
    
    Jessica's Thoughts: We were finally able to establish a solid base for communication on how reports and deliverables should be done
@@ -87,7 +91,7 @@ This week, I was able to meet with the team to create the diagrams as well as cr
    Aaron's Thoughts: Owing to an accidentally incorrect domain purchase I made last week, we are rebranding our group to StudentDiscountz.
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: I had a hard time getting some frameworks to install.
 
    
    Jessica's Thoughts: We had a deadline of 12:00pm for all the things due for the team which I failed to reach
@@ -106,7 +110,7 @@ This week, I was able to meet with the team to create the diagrams as well as cr
    Aaron's Thoughts:
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: Understanding how to use certain frameworks is proving to be a little challenging.
 
    
    Jessica's Thoughts: Learning how to use Adobe Illustrator for the webpage design, and ultimately switching to html and css
@@ -124,7 +128,7 @@ This week, I was able to meet with the team to create the diagrams as well as cr
    Aaron's Thoughts:
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: I believe we should discuss how we are going to split up the code and the presentation for next week.
 
    
    Jessica's Thoughts: Officially start the website and learn to use github better for the project
