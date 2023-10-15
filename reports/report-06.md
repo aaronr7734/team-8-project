@@ -35,5 +35,11 @@ In Tuesday's meeting, we collectively refined our vision for the project, leadin
 For this week, I downloaded Django and ReactJS in order to set up what I needed to jump start the beginning of the coding process. During the meeting, I participated in the creation of the UML diagrams and establishing each part of functionality on the website. Though we didn't start coding this week, I discussed with team about the different frameworks we wanted to use. This includes ReactJS, Django, Backbone, and Bootstrap. I also touched base on how the front page is going to be designed, which has helped our project become more crystallized.
 
 2. Project Retrospective
+
+**Appreciations**: Chase did an amazing job drawing the UML diagram and helping the team shape the deliverable.
+**Successes**: We are on track to meeting our goals and the communication has improved.
+**Failures**: It was difficult to make some decisions
+**Barriers**: Discussing and setting up the frameworks is taking longer than expected.
+**What should we do next time**: I think we could use ClickUp to be more organized with tasks and where we are in the process.
    
 3. Next Steps
