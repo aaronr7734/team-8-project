@@ -1,4 +1,4 @@
-# Team Project - D.2 Requirements
+# Team Project - D.3 Requirements
 
 **Team:** 8 - StudentDiscountz
 
