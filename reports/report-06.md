@@ -20,7 +20,7 @@ Elizabeth (Minute taker)
 
 Missing Participants: None 
 
-Project repo: team-8-project
+Project repo: [Team-8-Project](https://github.com/aaronr7734/team-8-project "Our Repository")
 
 
 
@@ -70,7 +70,7 @@ This week I helped create the diagram for the second part of the deliverable, as
    Ceanna's Thoughts: We as a group are using GitHub more this week.
 
    
-   Aaron's Thoughts:
+   Aaron's Thoughts: Communication has improved. We all have a much better idea of what's going on.
 
    
    Chase's Thoughts: I think our group is properly utilizing github and is communicating better.
@@ -88,7 +88,7 @@ This week I helped create the diagram for the second part of the deliverable, as
    Ceanna's Thoughts: Django and ReactJS had a hard time downloading on some people's computers.
 
    
-   Aaron's Thoughts: Owing to an accidentally incorrect domain purchase I made last week, we are rebranding our group to StudentDiscountz.
+   Aaron's Thoughts: I bought the domain name studentdiscountz last week rather than collegediscountz, so we're changing our name.
 
    
    Chase's Thoughts: I had a hard time getting some frameworks to install.
@@ -107,7 +107,7 @@ This week I helped create the diagram for the second part of the deliverable, as
    Ceanna's Thoughts: Having a hard time working around GitHub, and making sure that we do not have any merger errors. 
 
    
-   Aaron's Thoughts:
+   Aaron's Thoughts: Markdown is still not being used enough.
 
    
    Chase's Thoughts: Understanding how to use certain frameworks is proving to be a little challenging.
@@ -125,7 +125,7 @@ This week I helped create the diagram for the second part of the deliverable, as
    Ceanna's Thoughts: We should talk more about how we are going to break the code for next week.
 
    
-   Aaron's Thoughts:
+   Aaron's Thoughts: More Markdown, more Github, and we need to look ahead to our MVP that's due on the 29th.
 
    
    Chase's Thoughts: I believe we should discuss how we are going to split up the code and the presentation for next week.
