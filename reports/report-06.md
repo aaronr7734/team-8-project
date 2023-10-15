@@ -37,6 +37,8 @@ For this week, I downloaded Django and ReactJS in order to set up what I needed 
 **Ceanna**
 This week, I was in charge of creating the UML diagram. In our meeting, we sat down drew on the whiteboard, and talked about how the diagram should look throughout the meeting. As we were talking about the UML diagram I was simultaneously drawing the diagram on my laptop using the Drawio program. I communicated with Chase and Aaron to make sure that we were on the same page about any changes to the UML diagram, so I could update it. Once the meeting was over, I set up the slides for the presentation so we could start preparing for next week. As for coding this week, I downloaded a couple of programs so that we could start coding as soon as possible. Those programs were Django and ReactJS and I played around with them to see how they work so I can get a better idea before we start coding.
 
+**Jessica**
+This week, I was able to meet with the team to create the diagrams as well as create a webpage template for our Presentation on Wednesday. I also download Django and react so we can start the necessary coding process for the following week. It was important to get the webpage template done so we can have a visual aspect to show for the midterm presentation, hence why that was my main focus this week aside from contrubuting to the new deliverable and trying to reformat the way we do report to accurately work as a team.
 2. Project Retrospective
 
 **Appreciations**: 
@@ -52,7 +54,7 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
    Chase's Thoughts:
 
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: Ceanna and Chase did a great job this week working on sorting out the diagram
 
    
    Jennie's Thoughts:
@@ -70,7 +72,7 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
    Chase's Thoughts:
 
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: We were finally able to establish a solid base for communication on how reports and deliverables should be done
 
    
    Jennie's Thoughts:
@@ -88,7 +90,7 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
    Chase's Thoughts:
 
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: We had a deadline of 12:00pm for all the things due for the team which I failed to reach
 
    
    Jennie's Thoughts:
@@ -107,7 +109,7 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
    Chase's Thoughts:
 
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: Learning how to use Adobe Illustrator for the webpage design, and ultimately switching to html and css
 
    
    Jennie's Thoughts:
@@ -125,7 +127,7 @@ This week, I was in charge of creating the UML diagram. In our meeting, we sat d
    Chase's Thoughts:
 
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: Officially start the website and learn to use github better for the project
 
    
    Jennie's Thoughts:
