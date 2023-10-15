@@ -1,4 +1,4 @@
-# Team Project - D.3 Requirements
+# Team Project - D.3 Analysis
 
 **Team:** 8 - StudentDiscountz
 
@@ -13,5 +13,5 @@ Navigating scattered and unreliable **student** **discounts** is a time-consumin
 Behind the scenes, **Admins** have the power to ***add*** or ***remove*** **discounts**, ensuring only the most relevant and functional offers are available. They also provide **discounts**, complete with *links* to websites, that get shown to **Students**. **admins** can also **send notifications** or make *announcements* to **Students**, keeping them in the loop about the latest deals or updates.
 
 
-## Part 2: UML diagram
+## Model
 ![Student Discountz UML](./assets/deliverable-03/studentNewUML.png)
