@@ -14,4 +14,4 @@ Behind the scenes, **Admins** have the power to ***add*** or ***remove*** **disc
 
 
 ## Model
-![Student Discountz UML](./assets/deliverable-03/studentSecUML.png)
+![Student Discountz UML](./assets/deliverable-03/studentDiz.png)
