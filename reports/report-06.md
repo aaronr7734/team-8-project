@@ -8,7 +8,7 @@
 
 Aaron (Moral Support)
 
-Ceanna (Diagram Maker)
+Ceanna (Quality Assurance)
 
 Jessica (Minute taker)
 
