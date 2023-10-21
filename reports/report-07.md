@@ -40,6 +40,7 @@ Elizabeth (Minute taker)
 
 ### **Chase**
 
+This week I primarily focused on the midterm presention and getting started with the code for the project. I also helped write the report, plan our next meeting, and began work on the next deliverable. On top of this, I wrote slides for the presentation and worked with elizabeth to present the functional requirements and diagram slides. As for coding for the next deliverable, We decided to start by adding backend code to the front page. I installed and began working with our final backend framework (django), and began coding functional links to other pages to the site.
 
 ### **Jennie**
 
@@ -59,7 +60,7 @@ This week
    Aaron's Thoughts: 
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I appreciate Ceanna for doing a lot of heaving lifting on the agenda and I also appreciate Jessica for designing our home page.
    
    
    Jessica's Thoughts: 
@@ -79,7 +80,7 @@ This week
    Aaron's Thoughts: 
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I think everyone did great on the presentation and believe that we are making good progress in terms of the next deliverable.
 
    
    Jessica's Thoughts: 
@@ -99,7 +100,7 @@ This week
    Aaron's Thoughts: 
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I think this week had more successes than failures. However, we did struggle to get the presentation together. That being said, we pulled it off!
 
    
    Jessica's Thoughts: 
@@ -119,7 +120,7 @@ This week
    Aaron's Thoughts: 
    
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I believe adapting to the frameworks and backend coding of the project will be a little difficult.
    
    
    Jessica's Thoughts: 
@@ -139,7 +140,7 @@ This week
    Aaron's Thoughts:
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I think it would be best if we checked everyone's code progress and planned the next meeting around that.
    
    
    Jessica's Thoughts: 
