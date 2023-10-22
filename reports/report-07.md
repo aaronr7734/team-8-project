@@ -38,6 +38,7 @@ it for the class with Chase. I also attended Thursday's meeting in which I parti
 For this week, I worked on the UML Class diagram. We got feedback before our presenatation. It was my job to fix the lines and add the association for each class. I made sure that the diagram was ready to present for the midterm presntation. I spoke about the admin side on the diagram for the presentation. The next meeting that we had, I was incharge of the notes. I made sure to take details notes for the group. I also created a homework document that I sent to Jennie to finalize the homework. It was a way for each of us to see what we need to do next. We are not sure of what framework we still what to use, so I did some research about frameworks. I conclued that we should use bootstap for front end and Django for back end.
 
 ### **Jessica**:
+This week I downloaded react and updated the main page template. This week we were also all able to finish the midterm presentation. I was in charge of the user story slide and I went ahead and finilized that. We decided our roles for the code this week so the Backend team and I were trying to figure out what needed to be done with the frontend of the team. I also went ahead and created the code folder on the gitbub so we can get the code portion started for the project.
 
 
 ### **Chase**:
@@ -66,7 +67,7 @@ This week
    Chase's Thoughts: I appreciate Ceanna for doing a lot of heaving lifting on the agenda and I also appreciate Jessica for designing our home page.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I appreciate Chase for being able to discuss the backend plans and also appreciate Jennie for being an organized manager. 
    
    
    Jennie's Thoughts: I appreciate Ceanna and Elizabeth for creating and adjusting the diagrams for this week's presentation.
@@ -86,7 +87,7 @@ This week
    Chase's Thoughts: I think everyone did great on the presentation and believe that we are making good progress in terms of the next deliverable.
 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think this week everyone did great on the presentation and finishing everything on time. 
 
    
    Jennie's Thoughts: We had a great presentation and accomplished the goal of maintaining the time and not going over or under on it.
@@ -106,7 +107,7 @@ This week
    Chase's Thoughts: I think this week had more successes than failures. However, we did struggle to get the presentation together. That being said, we pulled it off!
 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: During the presentation I stuttered on my last bullet point because of my lack of practice.
 
    
    Jennie's Thoughts: I believe the only failure we had this week was knowing how to start the presentation. Since we knew what we wanted to do throughout the presentation but had a rocky start.
@@ -126,7 +127,7 @@ This week
    Chase's Thoughts: I believe adapting to the frameworks and backend coding of the project will be a little difficult.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: Trying to just start the project seems like a big barrier to start with because there seems to be so much going on.
 
    
    Jennie's Thoughts: A real barrier for this week is just maintaining our timeline since everything has been assigned but I need to make sure we are able to work with that. 
@@ -146,7 +147,7 @@ This week
    Chase's Thoughts: I think it would be best if we checked everyone's code progress and planned the next meeting around that.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think I could have practiced the presentation a bit more to prevent the mess up I had
 
    
    Jennie's Thoughts: I think that we could have done more rehearsal time just to have less jitters when it came to our presentation.
