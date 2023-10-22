@@ -31,6 +31,8 @@ Elizabeth (Minute taker)
 
 ### **Elizabeth**:
 
+For this week, I mainly focused on the midterm presentation in which I created a UML Use Case Diagram reflecting our project so far and helped interpret
+it for the class with Chase. I also attended Thursday's meeting in which I participated in discussing our previous deliverable and how we are going to split up the sections and complete the next one according to the requirements. I started to work on the next deliverable according to what was assigned to me and looked at the rest of the deliverable to make sure I understood what this deliverable needed. Since I have been recently assigned as a frontend developer for our project, I completed a home screen sketch to get a better idea of what design would best intertwine with it functionalities. I also edited the README file on our GitHub to better reflect our project currently and better format it.
 
 ### **Ceanna**:
 
@@ -53,8 +55,7 @@ This week
 
 ### **Appreciations**: 
 
-   Elizabeth's Thoughts: 
-
+   Elizabeth's Thoughts: I appreciate Chase for his help on the diagram and actively participating in last week's meeting.
    
    Ceanna's Thoughts: 
 
@@ -73,7 +74,7 @@ This week
 
 ### **Successes**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: The presentation was a huge success all around and the next deliverable is coming along nicely. 
 
    
    Ceanna's Thoughts: 
@@ -93,7 +94,7 @@ This week
 
 ### **Failures**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: The beginning of the presentation was a moment where we were all unprepared for, but we made up for it as we continued the presentation. Overall, there were not many failures this week.
 
    
    Ceanna's Thoughts: 
@@ -113,7 +114,7 @@ This week
 
 ### **Barriers**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: A barrier this week happened to be that we're taking a little longer than usual to start coding.
 
    
    Ceanna's Thoughts: 
@@ -133,7 +134,7 @@ This week
    
 ### **What should we do next time**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: I think that we could share our code for next meeting just so we can have a clear idea of the progress made.
 
    
    Ceanna's Thoughts: 
