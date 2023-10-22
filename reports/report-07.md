@@ -8,7 +8,7 @@
 
 Aaron (Moral Support)
 
-Ceanna (Quality Assurance)
+Ceanna (Quality Assurance) 
 
 Jessica (Minute taker)
 
@@ -35,7 +35,7 @@ For this week, I mainly focused on the midterm presentation in which I created a
 it for the class with Chase. I also attended Thursday's meeting in which I participated in discussing our previous deliverable and how we are going to split up the sections and complete the next one according to the requirements. I started to work on the next deliverable according to what was assigned to me and looked at the rest of the deliverable to make sure I understood what this deliverable needed. Since I have been recently assigned as a frontend developer for our project, I completed a home screen sketch to get a better idea of what design would best intertwine with it functionalities. I also edited the README file on our GitHub to better reflect our project currently and better format it.
 
 ### **Ceanna**:
-
+For this week, I worked on the UML Class diagram. We got feedback before our presenatation. It was my job to fix the lines and add the association for each class. I made sure that the diagram was ready to present for the midterm presntation. I spoke about the admin side on the diagram for the presentation. The next meeting that we had, I was incharge of the notes. I made sure to take details notes for the group. I also created a homework document that I sent to Jennie to finalize the homework. It was a way for each of us to see what we need to do next. We are not sure of what framework we still what to use, so I did some research about frameworks. I conclued that we should use bootstap for front end and Django for back end.
 
 ### **Jessica**:
 
@@ -57,7 +57,7 @@ This week
 
    Elizabeth's Thoughts: I appreciate Chase for his help on the diagram and actively participating in last week's meeting.
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: I appreciate Elizabeth creating the Class User Case diagram. It came out perfect.
 
    
    Aaron's Thoughts: 
@@ -77,7 +77,7 @@ This week
    Elizabeth's Thoughts: The presentation was a huge success all around and the next deliverable is coming along nicely. 
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We successed coming together as a team. I feel that we have a good plan for the next week.
 
    
    Aaron's Thoughts: 
@@ -97,7 +97,7 @@ This week
    Elizabeth's Thoughts: The beginning of the presentation was a moment where we were all unprepared for, but we made up for it as we continued the presentation. Overall, there were not many failures this week.
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: Making sure that we follow through with the deadlines that create for our own use.
 
    
    Aaron's Thoughts: 
@@ -117,7 +117,7 @@ This week
    Elizabeth's Thoughts: A barrier this week happened to be that we're taking a little longer than usual to start coding.
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: I think that barrier that we might have will be what we code next week. We need to make sure that we know exacty what each of use decide to code.
 
    
    Aaron's Thoughts: 
@@ -137,7 +137,7 @@ This week
    Elizabeth's Thoughts: I think that we could share our code for next meeting just so we can have a clear idea of the progress made.
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: I think we should take to the backend and frontend groups before the meeting ended, so that we can firgure out a more conise plan.
 
    
    Aaron's Thoughts:
