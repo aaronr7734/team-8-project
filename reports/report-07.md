@@ -22,12 +22,11 @@ Elizabeth (Minute taker)
 
 **Project Repo:** [Team-8-Project](https://github.com/aaronr7734/team-8-project "Our Repository")
 
-
-
 ## 1. Summary of Activities
 
 ### **Aaron**:
 
+This week, I created and presented the problem statement slide for our team's presentation. I also conducted research on development frameworks to aid in our final decision-making. On the studentsdiscountz.org server, I set up user accounts for all team members and implemented a solution to provide them access to the Django virtual environment I had previously established. Lastly, I spent time building a practice Django project, following web-based tutorials to understand models and the REST framework.
 
 ### **Elizabeth**:
 
@@ -61,7 +60,7 @@ This week
    Ceanna's Thoughts: I appreciate Elizabeth creating the Class User Case diagram. It came out perfect.
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: Appreciate Ceanna for creating and organizing this week's agenda.
 
    
    Chase's Thoughts: I appreciate Ceanna for doing a lot of heaving lifting on the agenda and I also appreciate Jessica for designing our home page.
@@ -81,7 +80,7 @@ This week
    Ceanna's Thoughts: We successed coming together as a team. I feel that we have a good plan for the next week.
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: We did a pretty good job on the presentation! Communication is improving and we're finally getting a handle on things.
 
    
    Chase's Thoughts: I think everyone did great on the presentation and believe that we are making good progress in terms of the next deliverable.
@@ -101,7 +100,7 @@ This week
    Ceanna's Thoughts: Making sure that we follow through with the deadlines that create for our own use.
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: We're not completely decided on frameworks. We should have come to these decisions a week ago so we could've had the full two-wek period to work on our MVP.
 
    
    Chase's Thoughts: I think this week had more successes than failures. However, we did struggle to get the presentation together. That being said, we pulled it off!
@@ -121,7 +120,7 @@ This week
    Ceanna's Thoughts: I think that barrier that we might have will be what we code next week. We need to make sure that we know exacty what each of use decide to code.
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: We have so much to learn and not much time to learn it in.
    
    
    Chase's Thoughts: I believe adapting to the frameworks and backend coding of the project will be a little difficult.
@@ -141,7 +140,7 @@ This week
    Ceanna's Thoughts: I think we should take to the backend and frontend groups before the meeting ended, so that we can firgure out a more conise plan.
 
    
-   Aaron's Thoughts:
+   Aaron's Thoughts: We need to spend a lot more time rehearsing next time we have a presentation.
 
    
    Chase's Thoughts: I think it would be best if we checked everyone's code progress and planned the next meeting around that.
