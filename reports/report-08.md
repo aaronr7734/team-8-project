@@ -111,7 +111,7 @@ Elizabeth (Minute taker)
    Jennie's Thoughts: 
 
    
-### **What should we do next time**: 
+### **What should we try next time**: 
 
    Elizabeth's Thoughts: 
    
