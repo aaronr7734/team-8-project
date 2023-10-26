@@ -47,3 +47,6 @@ Temporary Items
 
 # Misc
 *.pdf
+
+# no node!
+node_modules/
