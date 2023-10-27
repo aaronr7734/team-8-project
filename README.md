@@ -6,10 +6,12 @@ Visit the website at <link to website>
 
 # Built With 
 *Django - web framework used
+
 *JavaScript - used with Django
 
 # Contributing
 Please read our <Contributing.md> and our <CodeofConduct.md> for details on our code of conduct, to add any contributions, etc. 
+
 (will fill in with CONTRIBUTING.MD)
 
 # Versioning
@@ -17,14 +19,21 @@ We use SemVer for versioning, so visit <repository link> to view all our version
 
 # Authors
 Aaron Ramirez - [aaronr7734](https://github.com/aaronr7734)
+
 Jennie Butch - [JEN5812](https://github.com/JEN5812)
+
 Elizabeth Knight - [plii32](https://github.com/plii32)
+
 Ceanna Jarrett - [cjj01](https://github.com/cjj01)
+
 Jessica Maldonado - [jmo366](https://github.com/jmo366)
+
 Chase Babb - [cmb2333](https://github.com/cmb2333)
 
 # License
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/aaronr7734/team-8-project/blob/main/LICENSE)
+This project is licensed under the GNU General Public License v3.0. 
+
+See [LICENSE](https://github.com/aaronr7734/team-8-project/blob/main/LICENSE)
 
 # Acknowledgments
 *some random person being acknowledged.
