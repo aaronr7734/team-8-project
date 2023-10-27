@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    discountz_app,
+    "discountz_app",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

@@ -1,4 +1,3 @@
-from django.core.exceptions import ValidationError
 """
 validator.py
 
@@ -6,6 +5,7 @@ This module contains custom validators for the discountz app.
 More will be added as time permits.
 """
 
+from django.core.exceptions import ValidationError
 def validate_edu_email(email_address):
     """
     Validates that the provided email address ends in .edu.
@@ -39,4 +39,3 @@ def validate_only_letters(value):
     """
     if not value.isalpha():
         raise ValidationError('String must contain only letters')
-
