@@ -12,13 +12,23 @@
             display: flex;
             flex-direction: column;
         }
-
-        header {
+        /*this is the top of the website, the header*/
+        .headerTop {
             background-color: #003366;
             color: #fff;
-            padding: 1rem;
-            text-align: center;
+            padding: 10px;
+            
+            
         }
+        .box-header{
+            width: 500px;
+            height: 20px;
+            padding: 50px;
+            border: 5px solid white;
+            text-align: center;
+            margin: auto;
+        }
+        
 
         nav {
             background-color: #0054a5; 
@@ -70,6 +80,30 @@
             width: 100%;
             box-sizing: border-box;
         }
+        /*box of logo size*/
+        .img-logo{
+           
+            border: 1px;
+            padding: 5px;
+            margin: 20px;
+            width: 200px;
+          
+            background-color: #003366;
+            color: #fff;
+            
+        }
+        /*sign up box*/
+        .sign-up{
+            border: 1px;
+            padding: 5px;
+            margin: 10px;
+            width: 150px;
+            background-color: #003366;
+            color: #fff;
+            float: right;
+            
+        }
+        
 
         section {
             padding: 2rem;
@@ -85,9 +119,22 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>StudentDiscountz</h1>
-        <p>Your go-to place for exclusive student discounts!</p>
+    <header class="headerTop">
+        <!---->
+        <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
+
+        <a class="sign-up" href="SignUpPage.html">Sign Up</a>
+        <div>
+            <a class="sign-up" href="LoginPage.html">Log In</a>
+        </div>
+       
+        <h1 class="box-header">StudentDiscountz</h1>
+        
+        
+       
+        <!--link for bootstap-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </header>
 
     <nav>
@@ -138,6 +185,9 @@
     <footer>
         <p>&copy; 2023 StudentDiscountz. All rights reserved.</p>
     </footer>
+    <!--Bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 </body>
 </html>
 
