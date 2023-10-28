@@ -35,6 +35,6 @@ Examples of unacceptable behavior include:
 
 ## Attribution
 
-- This Code of Conduct is adapted from the [Contributor Convenant]('https://www.contributor-covenant.org/') version 4.1
+- This Code of Conduct is adapted from the [Contributor Convenant](https://www.contributor-covenant.org) version 4.1
 
 
