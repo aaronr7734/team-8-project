@@ -10,7 +10,7 @@ Visit the website at (link to website)
 *JavaScript - used with Django
 
 # Contributing
-Please read our [CONTRIBUTING.md]('https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md') and our [CODE_OF_CONDUCT.md]('https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md') for details on our code of conduct, to add any contributions, etc. 
+Please read our [CONTRIBUTING.md](https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md) and our [CODE_OF_CONDUCT.md](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct, to add any contributions, etc. 
 
 # Versioning
 We use SemVer for versioning.
