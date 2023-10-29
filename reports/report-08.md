@@ -28,7 +28,7 @@ Elizabeth (Minute taker)
 
 
 ### **Elizabeth**:
-
+For this week, I worked on the home page of the website incorporating the agreed sketch into my code. I created a filter button that filters based on major for right now, a search bar that is next to the filter button and a 'can't find what you need?' button. While I was in the process of implementing code for the section of the website, I worked on the README.md file that also needed the CODE_OF_CONDUCT.md file and the CONTRIBUTING.md file. After I created those three files according to the templates that were provided, I also worked on the Implementation Requirements section, in which I came up with 3 implementations that the requirements and associated pull request that we implemented for this release. At Tuesday's meeting, I made sure to download BootStrap once we knew that's a framework we wanted to use and I made sure that my local machine was up to date with GitHub and the new frameworks. At Thursday's meeting, we talked about what each member needed to do for the deliverable, report, and the home page. 
 
 ### **Ceanna**:
 This week, I worked on the front-end side of the website and created a sketch of how the website would look like. For the deliverable, I worked on the Introduction section and the adopted technologies section where I talked about what frameworks/languages we’re going to use. A couple of things that I am having trouble with are my commits, and how my name in GitHub is my full name and not my user name. At  Tuesday’s meeting, Jess helped me figure out my GitHub so that it could work properly. During the meeting, we finally decided to use Bootstrap for the framework after some careful consideration. As soon as it was confirmed that we were using BootStrap, I downloaded the rest of the necessary framework in the meeting. After we had our discussion about frameworks sorted out, we talked about the design of the home page and voted on what design would suit the concept of college discounts. Once we found out how we wanted the home page to look as a whole, me and the rest of the frontend team broke up the homepage into sections to work on. I was in charge of the header, in which I added the Nau logo, the name, and two buttons on the right for the signup and login. As I started to incorporate BootStrap into my code, I found out that I need to have certain links that need to be in the code in order for it to work. 
@@ -49,7 +49,7 @@ This week after adding functionality to the links, I worked on the team implemen
 
 ### **Appreciations**: 
 
-   Elizabeth's Thoughts:
+   Elizabeth's Thoughts: I appreciate Jennie for keeping the team on track and making sure that the website format reflects what we talked about. 
    
    Ceanna's Thoughts: I appreciate Jessica for figuring out my GitHub problem. I also appreciate Aaron for working on the IPA and the server.
 
@@ -63,7 +63,7 @@ This week after adding functionality to the links, I worked on the team implemen
 
 ### **Successes**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: This week, we are able to start coding and finally get started on what we wanted the website to look like and do.
    
    Ceanna's Thoughts: We were able to get the code this week onto the website. I can see our idea coming to life. We are working as a team, and communicating everything that we talk about. 
 
@@ -82,7 +82,7 @@ This week after adding functionality to the links, I worked on the team implemen
 
 ### **Failures**: 
 
-   Elizabeth's Thoughts:
+   Elizabeth's Thoughts: Following our meeting on Thursday, I found that our communication was lacking, which caused some confusion. We had to redo certain parts of the code, and it appeared that we didn't stick to the initial plan or design. I'm hopeful that in the future, we can improve our team communication and collaborate more effectively to avoid making decisions that weren't previously agreed upon.
    
    Ceanna's Thoughts: I was working in git bash, and my username was my full name for the longest time. GitHub did not see that it was me for the longest time. Now I figured out how to move about GitHub better now. 
 
@@ -99,7 +99,7 @@ This week after adding functionality to the links, I worked on the team implemen
 
 ### **Barriers**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: We were not on the same page about code and it was hard to tell who was doing what on the frontend side. The collaboration with backend was also kind of rough. 
 
    Ceanna's Thoughts: So when we code only one person can work on the front end of the website at a time so that we do not mess up other people's code. We are waiting for people to finish the code.
    
@@ -114,7 +114,7 @@ This week after adding functionality to the links, I worked on the team implemen
    
 ### **What should we try next time**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: Next time, we should be more clear on who is doing what and we should keep to our word. 
    
    Ceanna's Thoughts: When are talking about code, and how to split it up into groups. I feel that we should time it out for a couple of more days. So that we are not so overwhelmed for the next week to come.
    
