@@ -79,7 +79,7 @@ nav {
    
     border: 1px;
     padding: 5px;
-    margin: 20px;
+    margin: 5px;
     width: 200px;
   
     background-color: #003366;
@@ -90,11 +90,13 @@ nav {
 .sign-up{
     border: 1px;
     padding: 5px;
-    margin: 10px;
+    margin: 5px;
     width: 150px;
     background-color: #003366;
     color: #fff;
     float: right;
+    cursor: pointer;
+    
     
 }
 
@@ -196,4 +198,7 @@ footer {
         margin-left: 5px;
         
 
+    }
+    .signupBox{
+        text-align: center;
     }
