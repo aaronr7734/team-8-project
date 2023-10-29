@@ -9,7 +9,6 @@ structuring the way the data is stored and retrieved.
 from django.db import models
 from django.core.validators import EmailValidator
 from django.contrib.auth.models import AbstractUser, Group, Permission
-from django.contrib.auth.models import User
 from . import validator
 
 class Student(AbstractUser):
@@ -23,6 +22,12 @@ class Student(AbstractUser):
         date_joined (datetime): Date when student joined the platform.
         last_logged_in (datetime): Date when student last logged in.
         bookmarks (ManyToMany): Many-to-many relationship with the Discount model.
+        is_superuser (bool): Determines whether the student is a superuser or not.
+        groups (ManyToMany): Specifies the many-to-many relationship
+        between the Student and Group models, representing group affiliations for the student.
+        user_permissions (ManyToMany): Specifies the many-to-many relationship
+        between the Student and Permission models, representing individual permissions granted
+        to the student.
     """
     email = models.EmailField(
     validators=[EmailValidator(), validator.validate_edu_email],
@@ -31,7 +36,7 @@ class Student(AbstractUser):
     date_joined = models.DateTimeField(auto_now_add=True)
     last_logged_in = models.DateTimeField(auto_now=True)
     bookmarks = models.ManyToManyField('Discount', related_name='bookmarked_by')
-
+    is_superuser = models.BooleanField(default=False)
     groups = models.ManyToManyField(
     Group,
     verbose_name='groups',
@@ -80,7 +85,7 @@ class Discount(models.Model):
         location (CharField): The location where the discount can be redeemed (if applicable.)
         categories (ManyToMany): The categories the discount belongs to.
         date_added (DateTime) The date the discount was added to the platform.
-        added_by: (ForeignKey) The admin (Django's built-in User model) who added the discount.
+        added_by: (ForeignKey) The admin who added the discount.
     """
     
     name = models.CharField(max_length=150)
@@ -90,7 +95,7 @@ class Discount(models.Model):
     location = models.CharField(max_length=150)
     categories = models.ManyToManyField('Category', related_name='discounts')
     date_added = models.DateTimeField(auto_now_add=True)
-    added_by = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
+    added_by = models.ForeignKey(Student, on_delete=models.SET_NULL, null=True, blank=True)
 
     def get_students_who_bookmarked(self):
         """
