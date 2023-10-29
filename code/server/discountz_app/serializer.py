@@ -23,6 +23,19 @@ class StudentSerializer(serializers.ModelSerializer):
         model = Student
         fields = ["id", "first_name", "last_name", "email", "date_joined", "last_logged_in"]
 
+    def create(self, validated_data):
+        """
+        Override the default create method to populate the username field with the email address.
+        
+        Parameters:
+            validated_data (dict): The validated data from the incoming request.
+        Returns:
+            Student: The newly created Student object.
+        """
+        # Set the username field to the email address
+        validated_data['username'] = validated_data['email']
+        return Student.objects.create(**validated_data)
+
 class DiscountSerializer(serializers.ModelSerializer):
     """
     Discount Serializer
