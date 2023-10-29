@@ -38,7 +38,7 @@ This week, I worked on the front-end side of the website and created a sketch of
 This week after adding functionality to the links, I worked on the team implementation and updating the github issues. The code portion mainly included resolving the link issues that were coming from the dashboard of the home page. I was also able to create a nee spreadsheet for the group to keep the tasks organized between the group members on Google Sheets. Since I decided I was backend with the team, this week was a lot of research with Django and new API Implematations just to see what we were working with in regards to that section of the website. Also helped frontend with some formatting issues.
 
 ### **Chase**:
-
+This week I made a lot of progress on both the webstie and the deliverable. I was responsible for the look and feel, and license sections of the deliverable. I also helped Ceanna with the adopted technology section. I needed to research licenses and eventually pitched the MIT license as I thought it was the best fit. I also made sure the UI for the project was functional so I could complete the look and feel section. Albeit, we could not style all the pages to our liking. As for the website, I was responsible for creating the sign up, login, and category pages. I was also tasked with making sure each page was functional and linked properly to the homepage. Once linked, I made sure the login and sign up pages properly utilized user data to accomplish their specific objectives. On top of this, I was present for both the Tuesday and Thursday meetings and helped our team assign deadlines and plan future goals. I believe we got a lot done this week and am proud of the quality and quantity of the work that was done.
 
 ### **Jennie**:
 
@@ -51,11 +51,11 @@ This week after adding functionality to the links, I worked on the team implemen
 
    Elizabeth's Thoughts: I appreciate Jennie for keeping the team on track and making sure that the website format reflects what we talked about. 
    
-   Ceanna's Thoughts: I appreciate Jessica for figuring out my GitHub problem. I also appreciate Aaron for working on the IPA and the server.
+   Ceanna's Thoughts: I appreciate Jessica for figuring out my GitHub problem. I also appreciate Aaron for working on the API and the server.
 
    Aaron's Thoughts: 
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I appreciate Ceanna for her help on the deliverable as well as Aaron for putting a lot of work into the Django side of our project.
    
    Jessica's Thoughts:  I appreciate Aaron for helping out with the API Issues and Elizabeth and Ceanna for helping me on the deliverable portion. 
    
@@ -71,7 +71,7 @@ This week after adding functionality to the links, I worked on the team implemen
    Aaron's Thoughts: 
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: We were able to make a lot of progress in a short amount of time. Our website came together fast and we are all working together to build it piece by piece.
 
    
    Jessica's Thoughts: This week, even though it was very research heavy, being able to understand more about backend implementation was great to be able to get a kickstart out of the website.
@@ -91,6 +91,7 @@ This week after adding functionality to the links, I worked on the team implemen
 
    
    Chase's Thoughts: 
+   The last few days before the due date were hectic as we had too much to do and needed to catchup a little bit. I do not think we managed our time well enough this week and so we ended up almost biting off more than we could chew. 
    
    Jessica's Thoughts: I was absent for a meeting which felt like I slacked for a bit but was able to pick up the pace the following days.
 
@@ -105,7 +106,7 @@ This week after adding functionality to the links, I worked on the team implemen
    
    Aaron's Thoughts:
    
-   Chase's Thoughts: 
+   Chase's Thoughts: Due to the time crunch, we had all members of our group pushing and pulling the github at the same time. With everyone so busy, having to constantly check, approve, and make pull requests was a nuisance.
    
    Jessica's Thoughts: There is a learning curve when trying to figure out javascript, django and any other software that I was unfamiliar with.
    
@@ -120,7 +121,7 @@ This week after adding functionality to the links, I worked on the team implemen
    
    Aaron's Thoughts: 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: We should definitely come up with a game plan and act on that plan sooner. I think it would be best to avoid scrambling to get everything done in time.
    
    Jessica's Thoughts: I think next time, discussing the issues I was having with learning backend features to get help would have been ideal.
 
