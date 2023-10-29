@@ -1,13 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Log In</title>
+    <script src="loginJava.js"></script>
 </head>
 <body>
-    <h1>Login</h1>
+    <header class="headerTop">
+         <!---->
+         <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
+         
+         <a class="sign-up" href="SignUpPage.html">Sign Up</a>
+        <div>
+            <a class="sign-up" href="LoginPage.html">Log In</a>
+        </div>
+             
+        <h1 class="signupBox">Log In</h1>
+       
+        
+       
+    </header>
+
+</nav>
+<div class="searchfilter">
+    <div class="clicksearch">
+        <button onclick="ChosenOne()" class="filterbutton">Filters</button>
+    </div>
+    <input type="text" class="search-bar" placeholder="Search for specific discounts...">
+    
+    <div id="Filters" class="dropdown-blocks">
+      <input type="text" placeholder="Search..." id="UserInput" onkeyup="filterFunction()">
+      <div id="options">
+      <a href="#Computer Science">Computer Science</a>
+      <a href="#Art History">Art History</a>
+      <a href="#Pre-Med">Pre-Med</a>
+      <a href="#Business">Business Management</a>
+      <a href="#Psychology">Psychology</a>
+    </div>
+</div>
+
+    <button class="cantfind">Can't find what you're looking for?</button>
+
+   
+  <script>
+    /*when user clicks on it, the drop down will appear*/
+    function ChosenOne() {
+      document.getElementById("Filters").classList.toggle("show");
+    }
+  
+    /*this is where the filtering will happen*/
+    function filterFunction() {
+      var user, filter, a, element;
+      user = document.getElementById("UserInput");
+      filter = user.value.toUpperCase();
+      a = document.getElementsByTagName("a");
+      for (element = 0; element < a.length; element++) {
+        var optionValue = a[element].textContent || a[element].innerText;
+        if (optionValue.toUpperCase().indexOf(filter) > -1) {
+          a[element].style.display = "";
+        } else {
+          a[element].style.display = "none";
+        }
+      }
+    }
+  </script>
+  
+</div>
+    
 	
-	<! this will be the server side>
-    <form action="login_process.php" method="post">
+	<!--this will be the server side-->
+    <form class="signupBox" class="login_process.php" method="post">
 	
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>

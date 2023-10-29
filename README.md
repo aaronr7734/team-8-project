@@ -13,7 +13,7 @@ Visit the website at (link to website)
 Please read our [CONTRIBUTING.md](https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md) and our [CODE_OF_CONDUCT.md](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct, to add any contributions, etc. 
 
 # Versioning
-We use SemVer for versioning.
+We use SemVer for versioning. Visit our V.1.0 repository for more. [V.1.0](https://github.com/aaronr7734/team-8-project/tree/v.1.0)
 
 # Authors
 Aaron Ramirez - [aaronr7734](https://github.com/aaronr7734)
