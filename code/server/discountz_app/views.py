@@ -6,9 +6,8 @@ from rest_framework.decorators import action
 from rest_framework.authtoken.models import Token
 from rest_framework.response import Response
 from dj_rest_auth.views import LoginView
-from dj_rest_auth.registration.serializers import RegisterSerializer
 from .models import Student, Discount, Category, Notification
-from .serializer import StudentSerializer, DiscountSerializer, CategorySerializer, NotificationSerializer
+from .serializer import StudentSerializer, CustomRegisterSerializer, DiscountSerializer, CategorySerializer, NotificationSerializer
 from .permissions import IsOwnerOrReadOnly
 
 class CustomLoginView(LoginView):
@@ -31,13 +30,6 @@ class CustomLoginView(LoginView):
         }
         
         return Response(data)
-
-class CustomRegisterSerializer(RegisterSerializer):
-    """
-    Custom serializer for user registration.
-    """
-    class Meta():
-        fields = ['first_name', 'last_name', 'email', 'password']
 
 @api_view(['POST'])
 def register_view(request):

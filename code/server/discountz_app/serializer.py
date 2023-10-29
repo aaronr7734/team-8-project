@@ -36,6 +36,46 @@ class StudentSerializer(serializers.ModelSerializer):
         validated_data['username'] = validated_data['email']
         return Student.objects.create(**validated_data)
 
+class CustomRegisterSerializer(serializers.ModelSerializer):
+    """
+    Custom Register Serializer
+
+    This serializer extends the default ModelSerializer to use the custom Student model.
+    It automatically maps the email, first_name, last_name, and password fields.
+
+    Attributes:
+        None (inherits all attributes from ModelSerializer)
+    """
+    
+    class Meta:
+        """
+        Meta Class
+        
+        Specifies the model to use and the fields to be serialized.
+        """
+        model = Student  # Use Student instead of the default User
+        fields = ('email', 'first_name', 'last_name', 'password')
+        
+    def create(self, validated_data):
+        """
+        Create Method
+
+        Overrides the default create method to use Student's create_user method.
+
+        Parameters:
+            validated_data (dict): The validated data from the incoming request.
+
+        Returns:
+            Student: The newly created Student object.
+        """
+        user = Student.objects.create_user(  # Use Student.objects
+            email=validated_data['email'],
+            first_name=validated_data['first_name'],
+            last_name=validated_data['last_name'],
+            password=validated_data['password'],
+        )
+        return user
+
 class DiscountSerializer(serializers.ModelSerializer):
     """
     Discount Serializer
