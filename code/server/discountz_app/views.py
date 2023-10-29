@@ -36,7 +36,7 @@ class CustomRegisterSerializer(RegisterSerializer):
     """
     Custom serializer for user registration.
     """
-    class Meta(RegisterSerializer.Meta):
+    class Meta():
         fields = ['first_name', 'last_name', 'email', 'password']
 
 @api_view(['POST'])
