@@ -30,7 +30,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 **Implemented:** Jessica Maldonado\
 **Approved:** Ceanna Jarrett\
 **Print Screen**\
-![Homepage ](./assets/deliverable-04/Homepage.png)
+![Homepage ](./assets/deliverable-04/homepage.png)
 
 **Requirement:**  As a contributor to many projects, I want to be able to see what the Student Discountz project is about so that I can provide relevant input.\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/35)\
