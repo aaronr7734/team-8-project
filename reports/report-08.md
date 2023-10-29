@@ -35,7 +35,7 @@ This week, I worked on the front-end side of the website and created a sketch of
 
 
 ### **Jessica**:
-
+This week after adding functionality to the links, I worked on the team implementation and updating the github issues. The code portion mainly included resolving the link issues that were coming from the dashboard of the home page. I was also able to create a nee spreadsheet for the group to keep the tasks organized between the group members on Google Sheets. Since I decided I was backend with the team, this week was a lot of research with Django and new API Implematations just to see what we were working with in regards to that section of the website. Also helped frontend with some formatting issues.
 
 ### **Chase**:
 
@@ -57,7 +57,7 @@ This week, I worked on the front-end side of the website and created a sketch of
 
    Chase's Thoughts: 
    
-   Jessica's Thoughts:  
+   Jessica's Thoughts:  I appreciate Aaron for helping out with the API Issues and Elizabeth and Ceanna for helping me on the deliverable portion. 
    
    Jennie's Thoughts:
 
@@ -74,7 +74,7 @@ This week, I worked on the front-end side of the website and created a sketch of
    Chase's Thoughts:
 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: This week, even though it was very research heavy, being able to understand more about backend implementation was great to be able to get a kickstart out of the website.
 
    
    Jennie's Thoughts:
@@ -92,7 +92,7 @@ This week, I worked on the front-end side of the website and created a sketch of
    
    Chase's Thoughts: 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I was absent for a meeting which felt like I slacked for a bit but was able to pick up the pace the following days.
 
    
    Jennie's Thoughts: 
@@ -107,7 +107,7 @@ This week, I worked on the front-end side of the website and created a sketch of
    
    Chase's Thoughts: 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: There is a learning curve when trying to figure out javascript, django and any other software that I was unfamiliar with.
    
    Jennie's Thoughts: 
 
@@ -122,7 +122,7 @@ This week, I worked on the front-end side of the website and created a sketch of
    
    Chase's Thoughts: 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think next time, discussing the issues I was having with learning backend features to get help would have been ideal.
 
    Jennie's Thoughts:
    
