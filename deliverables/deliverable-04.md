@@ -6,6 +6,7 @@
 
 StudentDiscountz is a website designed for college students looking for a discount. This makes it easier for students to save money by centralizing student-specific discounts, especially from small local businesses. One of the key features of this website is the search bar. The search bar can be used so that students can search for a particular brand or deal they are looking for. Additionally, if they use the filter button they can look for a particular major that would use that type of material. Another feature of this website is to allow students to create an account so they can have a login account to narrow down what type of discounts they like. On the home page itself, students can find any discount, and even some by category. The category feature will redirect students to another page where they can find more discounts on a more materialist level like dorm room decorations or even book deals. Overall, this system is an easier way for students to find discounts on supplies they use every day.
 
+ [Text Link] (https://github.com/aaronr7734/team-8-project)
 ## Implemented Requirements (Jessica & Elizabeth)
 
 
@@ -13,6 +14,19 @@ StudentDiscountz is a website designed for college students looking for a discou
 
 
 ## Adopted Technologies (Ceanna & Chase)
+Github - We use GitHub to store code, deliverables, and reports concerning the website. GitHub allows us to build our project from the ground up by giving us the ability to individually add to the website in one centralized area.
+
+Discord - This is our main form of communication outside of GitHub. We use this to plan meetings, ask questions, assign deadlines, and overall discuss any topic that is beneficial to our website.
+
+Excel: We use an Excel spreadsheet to assign work and reference what we have done throughout the week. This allows us to form a more effective agenda and keep track of who did what.
+
+Django - This will be the backend framework that we will use. Django is a good framework for backend website development due to its ease-of-use, available tools, versatility, and development capabilities.
+
+Bootstrap- This will be the frontend framework that we will use. Bootstrap is a good framework for the frontend due to its HTML and CSS support as well as its responsive design, browser compatibility, and its accessibility.
+
+JavaScript: We will use JavaScript to help with the API. Javascript fits best given HTML and the API that is required to accomplish this task. We found that Javascript offers simple API integration while allowing for custom functionality.
+
+
 
 
 ## Learning/Training (Jennie)
