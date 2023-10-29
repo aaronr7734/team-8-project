@@ -25,6 +25,11 @@ We decided to use the MIT License for our project, Student Discountz. We favored
 
 ## Readme File (Elizabeth)
 
+[README](https://github.com/aaronr7734/team-8-project/blob/main/README.md)
+
+[CONTRIBUTING](https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md)
+
+[CODE OF CONDUCT](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md)
 
 ## Look & Feel (Chase)
 
