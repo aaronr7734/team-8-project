@@ -22,16 +22,16 @@ Welcome to the official Student Discountz repository! We appreciate your contrib
 
 ## Reporting Issues
 
-- If there is any issue regarding the code or application, please go to [Issues]('https://github.com/aaronr7734/team-8-project/issues')
+- If there is any issue regarding the code or application, please go to [Issues](https://github.com/aaronr7734/team-8-project/issues)
   
 - When sending your issue, make sure to be descriptive of what's wrong and provide steps on how to reproduce the issue.
 
 ## Code of Conduct
 
-Please follow our [CODE OF CONDUCT]('https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT')
+Please follow our [CODE OF CONDUCT](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT)
 
 ## License
 
-- By contributing, you agree that your contributions will be under the project's [LICENSE]('https://github.com/aaronr7734/team-8-project/blob/main/LICENSE')
+- By contributing, you agree that your contributions will be under the project's [LICENSE](https://github.com/aaronr7734/team-8-project/blob/main/LICENSE)
 
 - Thank you for contributing to Student Disountz!
