@@ -9,13 +9,13 @@ StudentDiscountz is a website designed for college students looking for a discou
  [Text Link] (https://github.com/aaronr7734/team-8-project)
 ## Implemented Requirements (Jessica & Elizabeth)
 
-**Requirement:** As a student, I want to be able to be informated about any flash saled going on for specific dates\
+**Requirement:** As a student, I want to be able to be informed about any flash sale going on for specific dates\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/34)\
-**Pull Reques:**: [Pull Request](https://github.com/aaronr7734/team-8-project/pull/65)\
+**Pull Request:**: [Pull Request](https://github.com/aaronr7734/team-8-project/pull/65)\
 **Implemented:** Jennie\
 **Approved:*** Elizabeth Knight
 
-**Requirement:** As a user, I want to be able navigate a website easier and find deals in an efficient manner\
+**Requirement:** As a user, I want to be able to navigate a website more easily and find deals in an efficient manner\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/36)\
 **Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/48)\
 **Implemented:** Elizabeth Knight\
@@ -46,7 +46,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 **Print Screen**\
 ![Sign Up ](./assets/deliverable-04/signup.png)
 
-**Requirement:** As college student looking for discounts, I want to be able to be redirected to the discount itself when I choose one so that I don’t have to look for it myself.\
+**Requirement:** As a college student looking for discounts, I want to be able to be redirected to the discount itself when I choose one so that I don’t have to look for it myself.\
 **Issue:**[Issue](https://github.com/aaronr7734/team-8-project/issues/33)\
 **Pull Request:**[Pull Request](https://github.com/aaronr7734/team-8-project/pull/21)\
 **Implemented:** Jessica Maldonado\
@@ -57,22 +57,22 @@ StudentDiscountz is a website designed for college students looking for a discou
 
 
 ## Adopted Technologies (Ceanna & Chase)
-Github - We use GitHub to store code, deliverables, and reports concerning the website. GitHub allows us to build our project from the ground up by giving us the ability to individually add to the website in one centralized area.
+GitHub: We use GitHub to store code, deliverables, and reports concerning the website. GitHub allows us to build our project from the ground up by giving us the ability to individually add to the website in one centralized area.
 
-Discord - This is our main form of communication outside of GitHub. We use this to plan meetings, ask questions, assign deadlines, and overall discuss any topic that is beneficial to our website.
+Discord: This is our main form of communication outside of GitHub. We use this to plan meetings, ask questions, assign deadlines, and overall discuss any topic that is beneficial to our website.
 
 Excel: We use an Excel spreadsheet to assign work and reference what we have done throughout the week. This allows us to form a more effective agenda and keep track of who did what.
 
-Django - This will be the backend framework that we will use. Django is a good framework for backend website development due to its ease-of-use, available tools, versatility, and development capabilities.
+Django: This will be the backend framework that we will use. Django is a good framework for backend website development due to its ease of use, available tools, versatility, and development capabilities.
 
-Bootstrap- This will be the frontend framework that we will use. Bootstrap is a good framework for the frontend due to its HTML and CSS support as well as its responsive design, browser compatibility, and its accessibility.
+Bootstrap: This will be the frontend framework that we will use. Bootstrap is a good framework for the front end due to its HTML and CSS support as well as its responsive design, browser compatibility, and accessibility.
 
 JavaScript: We will use JavaScript to help with the API. Javascript fits best given HTML and the API that is required to accomplish this task. We found that Javascript offers simple API integration while allowing for custom functionality.
 
 
-
-
 ## Learning/Training (Jennie)
+
+When it came to the adopted technologies, everyone had their way of providing for the team using these tools. For starters, everyone on the team used GitHub as a way to communicate our issues for this project. The team also used GitHub as a source to communicate the code that everyone was working on. We all managed to pull and merge to keep the team on the same page about how the appearance of the website should look and its functionalities. Since GitHub is our main source to communicate about our coding files and at times what we need to accomplish, when it comes to actually speaking to each other we all use Discord. The main goal of our use of Discord is to plan meetings and ask questions. Additionally, it is our key component to communicating with each other about the website like who is doing their part and if they run into an issue to tell someone about it. For our next learning aspect, we had Aaron, Chase, and Jessica also known as our back-end team, use Django for some of their coding this week. Django made it easier to code certain parts of their code this week and found it to be very useful for the tasks that were assigned to them. In a similar situation with the front-end team, Elizabeth, Jennie, and Ceanna worked with Bootstrap to make it easier to code for the HTML and CSS side of the website, where it was made easier to see what was occurring on the website. Lastly, when JavaScript was being used, Aaron used it this week to be able to help with the API. Since JavaScript offers an API integration that allows custom functionality which makes it easier for Aaron to do his task for the server and website in general. 
 
 
 ## Deployment (Aaron)
@@ -83,20 +83,20 @@ We decided to use the MIT License for our project, Student Discountz. We favored
 
 ## Readme File (Elizabeth)
 
-[README](https://github.com/aaronr7734/team-8-project/blob/main/README.md)
+[README](https://.com/aaronr7734/team-8-project/blob/main/README.md)
 
 [CONTRIBUTING](https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md)
 
 [CODE OF CONDUCT](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md)
 
 ## Look & Feel (Chase)
-For our UI, we decided to try to give our users a flexible yet thorough interface that will allow them to find various discounts through various means. A few of our functional utilities include a drop down filter by major, a search bar, and a search by category section. We believe this will give users adequate discount searching capabilities. We also included login and sign up pages that will allow users to access more selective features in the future. While our current features are functional, they are not currently looking the way we want them to and thus will be updated further at a later date.
+For our UI, we decided to try to give our users a flexible yet thorough interface that will allow them to find various discounts through various means. A few of our functional utilities include a drop-down filter by major, a search bar, and a search by category section. We believe this will give users adequate discount searching capabilities. We also included login and sign-up pages that will allow users to access more selective features in the future. While our current features are functional, they are not currently looking the way we want them to and thus will be updated further at a later date.
 ![Homepage UI](./assets/deliverable-03/HomepageUI.png)
 ![Sign up UI](./assets/deliverable-03/SignupUI.png)
 ![Login UI](./assets/deliverable-03/LoginUI.png)
 
 
 ## Lessons Learned (Jennie)
-
+We accomplished a lot with our first release, we went from nothing to a decent website. This first release may not be a complete version but it is a great starting point. We have learned a lot, especially from working on this deliverable what we need to do in the future. 
 
 ## Demo (Ceanna & Jessica)
