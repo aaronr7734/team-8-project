@@ -25,7 +25,7 @@ Elizabeth (Minute taker)
 ## 1. Summary of Activities
 
 ### **Aaron**:
-
+This week was focused on both learning and building. After diving deep into Django research, I successfully constructed the entire backend infrastructure for our Student Discountz project.  I also guided team members on JavaScript and API fundamentals. Lastly, I deployed the project on our server, setting the stage for further development and testing.
 
 ### **Elizabeth**:
 For this week, I worked on the home page of the website incorporating the agreed sketch into my code. I created a filter button that filters based on major for right now, a search bar that is next to the filter button, and a 'can't find what you need?' button. While I was in the process of implementing code for the section of the website, I worked on the README.md file that also needed the CODE_OF_CONDUCT.md file and the CONTRIBUTING.md file. After I created those three files according to the templates that were provided, I also worked on the Implementation Requirements section, in which I came up with 3 implementations that the requirements and associated pull requests that we implemented for this release. At Tuesday's meeting, I made sure to download BootStrap once we knew that it was a framework we wanted to use and I made sure that my local machine was up to date with GitHub and the new frameworks. At Thursday's meeting, we talked about what each member needed to do for the deliverable, report, and home page. 
@@ -53,7 +53,7 @@ This week, we had the main focus on coding for our website. We started the week 
    
    Ceanna's Thoughts: I appreciate Jessica for figuring out my GitHub problem. I also appreciate Aaron for working on the API and the server.
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I appreciate Elizabeth for taking over on the README and other repo documents since I failed to write those last week.
 
    Chase's Thoughts: I appreciate Ceanna for her help on the deliverable as well as Aaron for putting a lot of work into the Django side of our project.
    
@@ -68,7 +68,7 @@ This week, we had the main focus on coding for our website. We started the week 
    Ceanna's Thoughts: We were able to get the code this week onto the website. I can see our idea coming to life. We are working as a team, and communicating everything that we talk about. 
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: The team discord was really active for a good chunk of this week, which is definitely an improvement from previous weeks.
 
    
    Chase's Thoughts: We were able to make a lot of progress in a short amount of time. Our website came together fast and we are all working together to build it piece by piece.
@@ -87,8 +87,7 @@ This week, we had the main focus on coding for our website. We started the week 
    Ceanna's Thoughts: I was working in git bash, and my username was my full name for the longest time. GitHub did not see that it was me for the longest time. Now I figured out how to move about GitHub better now. 
 
    
-   Aaron's Thoughts: 
-
+   Aaron's Thoughts: The group took way too long to come to a decision about frameworks and tools. Additionally, the group collectively didn't take the time to learn django, resulting in us not being able to use Django Templates like I had hoped.
    
    Chase's Thoughts: 
    The last few days before the due date were hectic as we had too much to do and needed to catch up a little bit. I do not think we managed our time well enough this week and so we ended up almost biting off more than we could chew. 
@@ -104,7 +103,7 @@ This week, we had the main focus on coding for our website. We started the week 
 
    Ceanna's Thoughts: So when we code only one person can work on the front end of the website at a time so that we do not mess up other people's code. We are waiting for people to finish the code.
    
-   Aaron's Thoughts:
+   Aaron's Thoughts: Our team decided to create individual branches for each group member rather than for features, so a good chunk of time was spent getting code from one person's branch to another. A more concerted effort needs to be put into not just learning git, but also learning best practices.
    
    Chase's Thoughts: Due to the time crunch, we had all members of our group pushing and pulling the GitHub at the same time. With everyone so busy, having to constantly check, approve, and make pull requests was a nuisance.
    
