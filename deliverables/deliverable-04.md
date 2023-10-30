@@ -13,7 +13,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/34)\
 **Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/65)\
 **Implemented:** Jennie\
-**Approved:*** Elizabeth Knight
+**Approved:** Elizabeth Knight
 
 **Requirement:** As a user, I want to be able to navigate a website more easily and find deals in an efficient manner\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/36)\
