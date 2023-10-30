@@ -1,7 +1,7 @@
 // I only know the very basics of javascript
 // So I'm not sure if this is the best way to do this.
 document.addEventListener("DOMContentLoaded", function() {
-    const loginFormEl = document.querySelector('.login_process.php'); 
+    const loginFormEl = document.querySelector('.signupBox'); 
 
     loginFormEl.addEventListener('submit', event => {
         event.preventDefault(); 
