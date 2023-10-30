@@ -11,7 +11,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 
 **Requirement:** As a student, I want to be able to be informed about any flash sale going on for specific dates\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/34)\
-**Pull Request:**: [Pull Request](https://github.com/aaronr7734/team-8-project/pull/65)\
+**Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/65)\
 **Implemented:** Jennie\
 **Approved:*** Elizabeth Knight
 
