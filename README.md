@@ -2,7 +2,7 @@
 Student Discountz is a web-based platform designed to simplify the process of finding and accessing student discounts. With a focus on a clean design and specialized filters, Student Discountz serves as an essential tool in for any student that is on a budget. From an easy-to-navigate dashboard to customized searching options and email notifications for new discounts, our platform enhances the student savings experience. In order to ensure that users have access to deals that are most relevant to them, admins will have the power of adding and managing various discounts. Visit Student Discountz and start your journey in saving money on college student essentials.
 
 # Getting Started
-Visit the website at (link to website)
+Visit the website at [Student Discountz](https://studentdiscountz.org)
 
 # Built With 
 *Django - web framework used
