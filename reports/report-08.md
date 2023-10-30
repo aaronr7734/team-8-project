@@ -118,7 +118,7 @@ This week, we had the main focus on coding for our website. We started the week 
    
    Ceanna's Thoughts: When are talking about code, and how to split it up into groups. I feel that we should time it out for a couple of more days. So that we are not so overwhelmed for the next week to come.
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I know the most about Django, so I need to make myself more available for teammates to ask me questions.
    
    Chase's Thoughts: We should definitely come up with a game plan and act on that plan sooner. I think it would be best to avoid scrambling to get everything done in time.
    
