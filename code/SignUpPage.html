@@ -3,17 +3,17 @@
 <head >
     <link rel="stylesheet" href="style.css">
     <title>Sign Up</title>
-    <script src="signIn.js"></script>
+    <script src="signUp.js"></script>
 </head>
 <body>
     <header class="headerTop">
          <!---->
          <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
          
-         <button  class="sign-up" type="button" >Sign Up</button>
-         <div>
-            <button class="sign-up" type="button"> Log In</button>
-         </div>
+         <a class="sign-up" href="SignUpPage.html">Sign Up</a>
+        <div>
+            <a class="sign-up" href="LoginPage.html">Log In</a>
+        </div>
         <h1 class="signupBox">Sign Up</h1>
     </header>
 
@@ -63,8 +63,9 @@
       
     </div>
     
-    <form class="signupBox" class="form" action="submit_form.php" method="post">
-        <label for="first_Name">First Name:</label>
+    <form class="signupBox">
+
+        <label for="first_name">First Name:</label>
         <input type="text" id="first_name" name="first_name" required><br><br>
         
         

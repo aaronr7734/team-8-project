@@ -3,21 +3,19 @@
 <head>
     <link rel="stylesheet" href="style.css">
     <title>Log In</title>
-    <script src="loginJava.js"></script>
+    <script src="login.js"></script>
 </head>
 <body>
     <header class="headerTop">
          <!---->
          <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
          
-         <button  class="sign-up" type="button" >Sign Up</button>
-         <div>
-            <button class="sign-up" type="button"> Log In</button>
-         </div>
+         <a class="sign-up" href="SignUpPage.html">Sign Up</a>
+        <div>
+            <a class="sign-up" href="LoginPage.html">Log In</a>
+        </div>
              
         <h1 class="signupBox">Log In</h1>
-       
-        
        
     </header>
 
@@ -66,11 +64,9 @@
   </script>
   
 </div>
-    
-	
-	<!--this will be the server side-->
-    <form class="signupBox" class="login_process.php" method="post">
-	
+<form class="signupBox">
+
+	  
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>
 
