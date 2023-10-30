@@ -20,7 +20,20 @@ formEl.addEventListener('submit', event => {
             'Content-Type':'application/json'
          },
          body: JSON.stringify(data)
-    }).then(res => res.json())
-      .then(data => console.log(data))
-      .catch(error => console.log(error));
+    }).then(res => {
+        if (res.status === 201) {
+            return res.json();
+        } else {
+            return Promise.reject(res.json());
+        }
+    })
+    .then(data => {
+        alert("Account successfully created!");
+        window.location.href = "LoginPage.html";
+    })
+    .catch(errorPromise => {
+        errorPromise.then(errorData => {
+            alert(JSON.stringify(errorData));
+        });
+    });
 });
