@@ -47,8 +47,8 @@ StudentDiscountz is a website designed for college students looking for a discou
 ![Sign Up ](./assets/deliverable-04/signup.png)
 
 **Requirement:** As a college student looking for discounts, I want to be able to be redirected to the discount itself when I choose one so that I don’t have to look for it myself.\
-**Issue:**[Issue](https://github.com/aaronr7734/team-8-project/issues/33)\
-**Pull Request:**[Pull Request](https://github.com/aaronr7734/team-8-project/pull/21)\
+**Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/33)\
+**Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/21)\
 **Implemented:** Jessica Maldonado\
 **Approved:** Jessica Maldonado
 
@@ -59,7 +59,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 ## Adopted Technologies (Ceanna & Chase)
 GitHub: We use GitHub to store code, deliverables, and reports concerning the website. GitHub allows us to build our project from the ground up by giving us the ability to individually add to the website in one centralized area.
 
-Discord: This is our main form of communication outside of GitHub. We use this to plan meetings, ask questions, assign deadlines, and overall discuss any topic that is beneficial to our website.
+Discord: This is our main form of communication outside of GitHub. We use this to plan meetings, ask questions, assign deadlines, and overall discuss any beneficial topic to our website.
 
 Excel: We use an Excel spreadsheet to assign work and reference what we have done throughout the week. This allows us to form a more effective agenda and keep track of who did what.
 
@@ -90,13 +90,13 @@ We decided to use the MIT License for our project, Student Discountz. We favored
 [CODE OF CONDUCT](https://github.com/aaronr7734/team-8-project/blob/main/CODE_OF_CONDUCT.md)
 
 ## Look & Feel (Chase)
-For our UI, we decided to try to give our users a flexible yet thorough interface that will allow them to find various discounts through various means. A few of our functional utilities include a drop-down filter by major, a search bar, and a search by category section. We believe this will give users adequate discount searching capabilities. We also included login and sign-up pages that will allow users to access more selective features in the future. While our current features are functional, they are not currently looking the way we want them to and thus will be updated further at a later date.
+For our UI, we decided to give our users a flexible yet thorough interface that will allow them to find various discounts through various means. A few of our functional utilities include a drop-down filter by major, a search bar, and a search by category-section. We believe this will give users adequate discount searching capabilities. We also included login and sign-up pages that will allow users to access more selective features in the future. While our current features are functional, they are not currently looking the way we want them to and thus will be updated further at a later date.
 ![Homepage UI](./assets/deliverable-03/HomepageUI.png)
 ![Sign up UI](./assets/deliverable-03/SignupUI.png)
 ![Login UI](./assets/deliverable-03/LoginUI.png)
 
 
 ## Lessons Learned (Jennie)
-We accomplished a lot with our first release, we went from nothing to a decent website. This first release may not be a complete version but it is a great starting point. We have learned a lot, especially from working on this deliverable what we need to do in the future. 
+We accomplished a lot with our first release, we went from nothing to a decent website. This first release may not be a complete version but is a great starting point. We have learned a lot, especially from working on this deliverable what we need to do in the future. For the front-end team, we learned how to refresh ourselves on HTML and CSS coding since the whole front-end has not touched it in about a year. So it took us a minute to remember how it works and what we needed to do for the home page itself. In addition, we learned how to implement a framework into the code which is something we have not done before, and found it to be resourceful. As for the back-end team, we learned a lot more than we were expecting, Aaron worked on the server for the website which was very helpful. He then worked on the API using JavaScript which seemed to be easier to use the front-end's code that was already there to integrate with it. Not only did the back-end work on the API, Jessica and Chase managed to create links to other pages that we plan on working on in the future. In this release, we managed to at least allow the user to click and be able to go onto another page. In the next version, the other pages will look better in appearance compared to this release. Our main plan for the next release is to clean up the home page. The home page has a decent appearance right now but it can be cleaned up. We also need more detail on our other pages since they are still in the skeleton stage where we have just what we need but no real design to it. Lastly, we need to rework our code a little bit since there was no real coding standard this time around but for the next release, we want to so others can interpret the code easily and run much smoother about how front-end and back-end work together.
 
 ## Demo (Ceanna & Jessica)
