@@ -36,7 +36,7 @@ StudentDiscountz is a website designed for college students looking for a discou
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/35)\
 **Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/52)\
 **Implemented:** Elizabeth Knight\
-**Approved:** Ceanna Jarrett\
+**Approved:** Ceanna Jarrett
 
 **Requirement:** As a frequent user of the website, I want to be able to sign up for an account so I can continue my student discounts journey anytime.\
 **Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/53)\
