@@ -53,8 +53,21 @@ StudentDiscountz is a website designed for college students looking for a discou
 **Approved:** Jessica Maldonado
 
 
-## Tests (Aaron)
-
+## Tests
+Due to the project's tight timeline, our ability to conduct comprehensive automated testing was limited. For the tests that were executed, we employed the pytest framework. Moving forward, we plan to utilize pytest-django for thorough backend testing. As for the front-end, we intend to leverage Cypress, given its user-friendly graphical interface.
+The tests we performed can be found [here](https://github.com/aaronr7734/team-8-project/tree/main/code/server/discountz_app/automated_tests)
+We tested our custom [validators](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/validator.py) with [this test.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/test_validator.py)
+```bash
+pytest test_validator.py
+================================================= test session starts ==================================================
+platform darwin -- Python 3.11.5, pytest-7.4.3, pluggy-1.3.0                                                            
+rootdir: /Users/jar/repos/team-8-project/code/server/discountz_app/automated_tests                                      
+collected 4 items                                                                                                       
+                                                                                                                        
+test_validator.py ....                                                                                           [100%] 
+                                                                                                                        
+================================================== 4 passed in 0.01s ===================================================
+```
 
 ## Adopted Technologies 
 GitHub: We use GitHub to store code, deliverables, and reports concerning the website. GitHub allows us to build our project from the ground up by giving us the ability to individually add to the website in one centralized area.
@@ -74,16 +87,17 @@ JavaScript: We will use JavaScript to help with the API. Javascript fits best gi
 
 When it came to the adopted technologies, everyone had their way of providing for the team using these tools. For starters, everyone on the team used GitHub as a way to communicate our issues for this project. The team also used GitHub as a source to communicate the code that everyone was working on. We all managed to pull and merge to keep the team on the same page about how the appearance of the website should look and its functionalities. Since GitHub is our main source to communicate about our coding files and at times what we need to accomplish, when it comes to actually speaking to each other we all use Discord. The main goal of our use of Discord is to plan meetings and ask questions. Additionally, it is our key component to communicating with each other about the website like who is doing their part and if they run into an issue to tell someone about it. For our next learning aspect, we had Aaron, Chase, and Jessica also known as our back-end team, use Django for some of their coding this week. Django made it easier to code certain parts of their code this week and found it to be very useful for the tasks that were assigned to them. In a similar situation with the front-end team, Elizabeth, Jennie, and Ceanna worked with Bootstrap to make it easier to code for the HTML and CSS side of the website, where it was made easier to see what was occurring on the website. Lastly, when JavaScript was being used, Aaron used it this week to be able to help with the API. Since JavaScript offers an API integration that allows custom functionality which makes it easier for Aaron to do his task for the server and website in general. 
 
+## Deployment
+The live system is accessible at [StudentDiscountz](https://studentdiscountz.org).
 
-## Deployment (Aaron)
-
+We employed Linode as our cloud hosting provider for deploying the application. Nginx serves as our web server, and SSL certificates are managed through Certbot.
 
 ## Licensing
 We decided to use the MIT License for our project, Student Discountz. We favored the MIT License because it maintains a good balance between openness and simplicity. It offers developers and organizations the freedom to use and contribute to projects while minimizing legal and compliance concerns. We believe this to be important considering this is a class project and therefore we do not need anything fancy or overbearing.
 
 ## Readme File
 
-[README](https://.com/aaronr7734/team-8-project/blob/main/README.md)
+[README](https://github.com/aaronr7734/team-8-project/blob/main/README.md)
 
 [CONTRIBUTING](https://github.com/aaronr7734/team-8-project/blob/main/CONTRIBUTING.md)
 
