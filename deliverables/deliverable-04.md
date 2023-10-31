@@ -100,3 +100,4 @@ For our UI, we decided to try to give our users a flexible yet thorough interfac
 
 
 ## Demo (Ceanna & Jessica)
+[Demo Video](https://youtu.be/KNZdvByeW2I)
