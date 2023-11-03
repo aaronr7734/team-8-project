@@ -50,3 +50,7 @@ Temporary Items
 
 # no node!
 node_modules/
+
+# Some other stupid folders.
+__pycache__/
+.vscode/
