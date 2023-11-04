@@ -29,6 +29,7 @@ Elizabeth (Minute taker)
 ### **Elizabeth**:
 
 ### **Ceanna**:
+For this week, I wrote notes for the weekly meeting. I made sure each of us knew exactly what we needed to do for the next dielivable. I added each task in the spreadsheet for the deliverable and the report. We are on track for this week and for next week. For coding I worked on fixing the header of the homepage. I went back in, and tried to make it look exactly like the sketch that the frontend team created. Another thing that I did this week was research, I want to make sure that we know what we are doing in javascript. I have been researching bootstrap at the same time. Also I am working with Jennie on one of the UML diagram for the next deliverables.
 
 ### **Jessica**:
 
@@ -46,7 +47,8 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
    Elizabeth's Thoughts: 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: My appreciates for this week is to Jessica for leading thursday meeting, and make sure that we know what we are going for the deliverable.
+
 
    Aaron's Thoughts:
 
@@ -60,7 +62,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
    Elizabeth's Thoughts: 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We got the deliverable finished, and we have a plan for the next deliverable to go more smoothly.
 
    
    Aaron's Thoughts: 
@@ -80,7 +82,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Elizabeth's Thoughts: 
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We did not get a lot of code done, it was a lot of research that we need to do for this week. 
 
    
    Aaron's Thoughts: 
@@ -100,7 +102,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Elizabeth's Thoughts: 
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We are getting a lot of research done, and but we keep researching the wrong thing. 
 
    
    Aaron's Thoughts: 
@@ -120,7 +122,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Elizabeth's Thoughts: 
 
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: I think next week we need to make sure that we are researching and coding at the same time, so that we fall back on code.
 
    
    Aaron's Thoughts: 
