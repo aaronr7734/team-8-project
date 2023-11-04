@@ -25,6 +25,9 @@ Elizabeth (Minute taker)
 ## 1. Summary of Activities
 
 ### **Aaron**:
+This week, much of my effort has been put into Documentation. I've been looking into different automated documentation tools like Sphinx.  These tools look promising, but I'm not sure if they'll generate documentation suitable for my team's abilities, especially considering that my docstrings might be difficult for my front-end team to read through. 
+I'm also exploring the idea of writing documentation myself, but I'm not much of a writer, so I'm not sure I'll manage any better.
+Unfortunately, since this Deliverable's more visual in nature, I've been limited in how I can assist my team. I've helped them walk through the structure of the project and am leaving the actual drawing to them.
 
 ### **Elizabeth**:
 
@@ -48,7 +51,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    
    Ceanna's Thoughts: 
 
-   Aaron's Thoughts:
+   Aaron's Thoughts: Appreciate Jessica for working through the class diagram with me.
 
    Chase's Thoughts: 
    
@@ -63,7 +66,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Ceanna's Thoughts: 
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: Our team meeting this week was really productive.
 
    
    Chase's Thoughts:
@@ -83,7 +86,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Ceanna's Thoughts: 
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I think a good chunk of the group still doesn't understand the point of the API, which is on me.
 
    
    Chase's Thoughts: 
@@ -103,7 +106,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Ceanna's Thoughts: 
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I still think more time needs to be taken for research / learning the tools we're using.
 
    
    Chase's Thoughts: 
@@ -123,7 +126,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Ceanna's Thoughts: 
 
    
-   Aaron's Thoughts: 
+   Aaron's Thoughts: Nothing I haven't said already. More time needs to be taken to understand the tools we're working with. Time is being wasted because we don't know how to use these tools optimally.
 
    
    Chase's Thoughts: 
