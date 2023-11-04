@@ -34,7 +34,8 @@ Elizabeth (Minute taker)
 
 ### **Chase**:
 
-### **Jennie**: At the beginning of the week, I was able to finish up my parts for the deliverable and write up the report. Following that, I was able to help Elizabeth with pushing code in GitHub since she built around the original HTML instead of using it so I assisted her in making it one HTML file for the home page and called it homepage.html. Then, I also coded to get the home screen to look how we wanted based on the sketch we agreed on last week. I did so by making the category section smaller and then adding another box to form the hot deals section. Lastly, Ceanna and I started working on the UML diagram for the next deliverable. 
+### **Jennie**: 
+At the beginning of the week, I was able to finish up my parts for the deliverable and write up the report. Following that, I was able to help Elizabeth with pushing code in GitHub since she built around the original HTML instead of using it so I assisted her in making it one HTML file for the home page and called it homepage.html. Then, I also coded to get the home screen to look how we wanted based on the sketch we agreed on last week. I did so by making the category section smaller and then adding another box to form the hot deals section. Lastly, Ceanna and I started working on the UML diagram for the next deliverable. 
 
 
 ## 2. Project Retrospective
