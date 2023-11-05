@@ -16,7 +16,7 @@ body {
 
 .box-header{
     padding: 10px;
-    border: 10px solid white;
+    border: 5px solid white;
     text-align: center;
     margin: 0 auto;
     width: max-content;
@@ -54,36 +54,14 @@ nav {
   color: #ffeb3b;
 }
 
-.cards-container {
-    display: flex;  /* Use flexbox to align cards horizontally */
-    justify-content: space-between;  /* Space the cards apart, putting the hotdeals-card to the right */
-}
-
 .discount-card {
-  background-color: #fff;
-  width: 300px;
-  height: 100px;
-  border: 1px solid #ccc;
-  margin: 10px;
-  padding: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.hotdeals-card{
-  background-color: #fff;
-  width: 1250px;
-  height: 500px;
-
-  border: 1px solid #ccc;
-  margin: 10px;
-  padding: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.cards {
-    display: flex;  /* Use flexbox to align cards horizontally */
-    justify-content: center;  /* Center the cards horizontally */
-    gap: 20px;  /* Add some space between the cards */
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .discount-title {
@@ -125,10 +103,6 @@ nav {
     float: right;
     cursor: pointer;
     margin-right: 10px;
-    border: 5px solid white;
-    text-align: center;
-    display: block;
-    clear: both;
 }
 
 .login {
@@ -141,11 +115,24 @@ nav {
     float: right;
     cursor: pointer;
     margin-right: 10px;
-    border: 5px solid white;
-    text-align: center;
-    display: block; 
-    clear: both;
 }
+
+.login-signup-box {
+    background-color: #003366; /* Background color for the box */
+    padding: 10px; /* Padding to control the space inside the box */
+    display: flex; /* Use flexbox to align the links horizontally */
+    justify-content: space-between; /* Separate the links with space */
+}
+
+.sign-up, .login {
+    border: 1px;
+    padding: 5px;
+    width: 150px;
+    background-color: #003366;
+    color: #fff;
+    cursor: pointer;
+}
+
 
 
 /*padding : 2rem */
