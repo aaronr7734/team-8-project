@@ -29,7 +29,9 @@ This week, much of my effort has been put into Documentation. I've been looking 
 I'm also exploring the idea of writing documentation myself, but I'm not much of a writer, so I'm not sure I'll manage any better.
 Unfortunately, since this Deliverable's more visual in nature, I've been limited in how I can assist my team. I've helped them walk through the structure of the project and am leaving the actual drawing to them.
 
-### **Elizabeth**:
+### **Elizabeth**: 
+
+For this week, a lot of my attention went to fixing up code and preparing for the next deliverable. I am still in the process of making the home page more pretty to look at while still keeping to the agreed design. Since a lot of the code was messy and out of order, I decided to clean the HTML up as well. In preparation for the deliverable next week, I researched more into how Bootstrap and Django work and I found that Bootstrap is way more efficient when it came down to cleaning up our design. I am also planning on working with Chase on the sequence diagram for the deliverable, in which I am editing the diagram up to the deliverable requirements. In order to keep everyone up to date in what I'm doing, I also edited the spreadsheet to reflect what I'm doing currently. 
 
 ### **Ceanna**:
 For this week, I wrote notes for the weekly meeting. I made sure each of us knew exactly what we needed to do for the next dielivable. I added each task in the spreadsheet for the deliverable and the report. We are on track for this week and for next week. For coding I worked on fixing the header of the homepage. I went back in, and tried to make it look exactly like the sketch that the frontend team created. Another thing that I did this week was research, I want to make sure that we know what we are doing in javascript. I have been researching bootstrap at the same time. Also I am working with Jennie on one of the UML diagram for the next deliverables.
@@ -49,7 +51,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
 ### **Appreciations**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: I appreciate Jennie for doing her hardest to keep up with the team and providing input for code. 
    
    Ceanna's Thoughts: My appreciates for this week is to Jessica for leading thursday meeting, and make sure that we know what we are going for the deliverable.
 
@@ -64,7 +66,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
 ### **Successes**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: We made good progress on the next deliverable and the meeting was very productive.
    
    Ceanna's Thoughts: We got the deliverable finished, and we have a plan for the next deliverable to go more smoothly.
 
@@ -83,7 +85,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
 ### **Failures**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: There wasn't a lot of coding towards the website this week due to other responsibilities.
 
    
    Ceanna's Thoughts: We did not get a lot of code done, it was a lot of research that we need to do for this week. 
@@ -103,7 +105,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    
 ### **Barriers**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: Though we finally decided on frameworks, it's taking a while to get used to them and implementing them in our code.
 
    
    Ceanna's Thoughts: We are getting a lot of research done, and but we keep researching the wrong thing. 
@@ -123,7 +125,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
   
 ### **What Should We Try Next Time**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: I think we should decide on more suitable deadlines and maybe assign a meeting or two on figuring out how these frameworks work while working on coding the website more thoroughly.
 
    
    Ceanna's Thoughts: I think next week we need to make sure that we are researching and coding at the same time, so that we fall back on code.
