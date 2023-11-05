@@ -37,6 +37,7 @@ For this week, I wrote notes for the weekly meeting. I made sure each of us knew
 ### **Jessica**:
 
 ### **Chase**:
+This week was a little more relaxed than the last but still rather productive. We started by discussing the next deliverable at Tuesday's meeting, in which we all began working on the diagrams; namely the architecture diagram. On top of this, I helped plan further progression of backend development and progression on the project as a whole. I worked with Elizabeth on the sequence diagram for the deliverable. The process went smoothly and was completed in a timely manner. I furthered my research and testing with Django so that I may continue to get a better understanding of the framework to better contribute to the project. My understanding of Django has increased exponentially and thus I predict further backend development will continue steadily.
 
 ### **Jennie**: 
 At the beginning of the week, I was able to finish up my parts for the deliverable and write up the report. Following that, I was able to help Elizabeth with pushing code in GitHub since she built around the original HTML instead of using it so I assisted her in making it one HTML file for the home page and called it homepage.html. Then, I also coded to get the home screen to look how we wanted based on the sketch we agreed on last week. I did so by making the category section smaller and then adding another box to form the hot deals section. Lastly, Ceanna and I started working on the UML diagram for the next deliverable. 
@@ -55,7 +56,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
    Aaron's Thoughts: Appreciate Jessica for working through the class diagram with me.
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I appreciate Elizabeth for helping me with the sequence diagram and Aaron for providing me with helping Django links.
    
    Jessica's Thoughts:  
    
@@ -71,7 +72,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Aaron's Thoughts: Our team meeting this week was really productive.
 
    
-   Chase's Thoughts:
+   Chase's Thoughts: We have already made a lot of progress on the next deliverable.
 
    
    Jessica's Thoughts: 
@@ -91,7 +92,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Aaron's Thoughts: I think a good chunk of the group still doesn't understand the point of the API, which is on me.
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: The focus of this week was mainly on the next deliverable rather than the website itself, so we did not get as much code done as we would have liked.
   
    
    Jessica's Thoughts: 
@@ -111,7 +112,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Aaron's Thoughts: I still think more time needs to be taken for research / learning the tools we're using.
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: I think we need to work on catching up in terms of understanding the frameworks / tools that we are using.
   
    
    Jessica's Thoughts: 
@@ -131,7 +132,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Aaron's Thoughts: Nothing I haven't said already. More time needs to be taken to understand the tools we're working with. Time is being wasted because we don't know how to use these tools optimally.
 
    
-   Chase's Thoughts: 
+   Chase's Thoughts: We need to balance code and deliverables better. I think it would help if we were all caught up in our research.
   
    
    Jessica's Thoughts: 
