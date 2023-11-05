@@ -37,6 +37,7 @@ For this week, a lot of my attention went to fixing up code and preparing for th
 For this week, I wrote notes for the weekly meeting. I made sure each of us knew exactly what we needed to do for the next dielivable. I added each task in the spreadsheet for the deliverable and the report. We are on track for this week and for next week. For coding I worked on fixing the header of the homepage. I went back in, and tried to make it look exactly like the sketch that the frontend team created. Another thing that I did this week was research, I want to make sure that we know what we are doing in javascript. I have been researching bootstrap at the same time. Also I am working with Jennie on one of the UML diagram for the next deliverables.
 
 ### **Jessica**:
+This week was mainly setting up the research I needed to start the team on the next deliverable. We were able to set up the roles for the deliverable. I was also researching c/c++ implemntations for the website and more on Django because I wanted to get ahead with Aaron on the server side of the website. I am also looking into more class diagrams so I can able to fill my roll in the Deliverable but we were able to finish the architecture diagrams.
 
 ### **Chase**:
 This week was a little more relaxed than the last but still rather productive. We started by discussing the next deliverable at Tuesday's meeting, in which we all began working on the diagrams; namely the architecture diagram. On top of this, I helped plan further progression of backend development and progression on the project as a whole. I worked with Elizabeth on the sequence diagram for the deliverable. The process went smoothly and was completed in a timely manner. I furthered my research and testing with Django so that I may continue to get a better understanding of the framework to better contribute to the project. My understanding of Django has increased exponentially and thus I predict further backend development will continue steadily.
@@ -60,7 +61,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
 
    Chase's Thoughts: I appreciate Elizabeth for helping me with the sequence diagram and Aaron for providing me with helping Django links.
    
-   Jessica's Thoughts:  
+   Jessica's Thoughts: I appreciate Aaron for being a great help with describing what each diagram should entail
    
    Jennie's Thoughts: My appreciation this week goes to Jessica and Aaron for being able to conduct the testing on the deliverable and work on the backend of the website.
 
@@ -77,7 +78,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Chase's Thoughts: We have already made a lot of progress on the next deliverable.
 
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think this week was great in splitting up what everyone should tackle
 
    
    Jennie's Thoughts: For this week, I felt like we were successful in completing the deliverable and working on the website. I also thought it was a success to work through GitHub for the website when it came to coding.  
@@ -97,7 +98,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Chase's Thoughts: The focus of this week was mainly on the next deliverable rather than the website itself, so we did not get as much code done as we would have liked.
   
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think we spilt up the work in an inefficient manner and need to see what each part really is so no one gets more work then others.
 
    
    Jennie's Thoughts: For this week, the deliverable was a bit of a mess due to timeline constraints we had some ideas of deadlines but other classes got the best of us.
@@ -117,7 +118,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Chase's Thoughts: I think we need to work on catching up in terms of understanding the frameworks / tools that we are using.
   
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: There is a big split with understanding different topics that is taking some toll on group members 
 
    
    Jennie's Thoughts: The main barrier this week, I found to be is working with the frameworks since we are still learning them and adjusting to them as we progress with the website.
@@ -137,7 +138,7 @@ At the beginning of this week, we finished up the deliverable as a team and were
    Chase's Thoughts: We need to balance code and deliverables better. I think it would help if we were all caught up in our research.
   
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: Understanding what roles need to do what would help us get a lot more done.
 
    
    Jennie's Thoughts: I think maintaining our deadlines would help next time because we knew what we needed to do, it was more about managing the time to do it. Especially since some parts took longer than expected.
