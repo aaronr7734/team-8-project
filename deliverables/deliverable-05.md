@@ -5,18 +5,18 @@
 ## Description
 
 ## Architecture
-Monolithic Arichitecture
-![Monolithic Architecture]./assets/deliverable-05/(Architecture.pgn)
+Monolithic Arichitecture<br>
+![Monolithic Architecture](./assets/deliverable-05/Architecture.png)
 
 ## Class Diagram
 
 ## Sequence Diagram
 
 ## Design Patterns
-Adapter Design Pattern
-![Adapter]./assets/deliverable-05/(designPattern1.pgn)
-Observe
-![Observe]./assets/deliverable-05/(designPattern2.pgn)
+Adapter Design Pattern<br>
+![Adapter](./assets/deliverable-05/designPattern1.png)<br>
+Observe Design Pattern<br>
+![Observe](./assets/deliverable-05/designPattern2.png)<br>
 
 ## Design Principles
 
