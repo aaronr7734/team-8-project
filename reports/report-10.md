@@ -33,7 +33,8 @@ Elizabeth (Minute taker)
 ### **Ceanna**:
 
 
-### **Jessica**:
+### **Jessica**: 
+This week I focused on finishing the class diagram for the report that is due on Sunday. This required me to change our existing diagram from one that fits our code more better. I also began the researcg for the API and Django so I can start the code refactoring for next week. 
 
 
 ### **Chase**:
@@ -59,7 +60,7 @@ Elizabeth (Minute taker)
    Chase's Thoughts: 
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I appreciate Aaron for helping me finish the diagram this week.
    
    
    Jennie's Thoughts: 
@@ -78,7 +79,7 @@ Elizabeth (Minute taker)
    Chase's Thoughts: 
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: We finished all the diagrams earlier than I though which really helps with the deliverable times.
    
    
    Jennie's Thoughts: 
@@ -97,7 +98,7 @@ Elizabeth (Minute taker)
    Chase's Thoughts: 
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I did not code as much as I liked for this weeks progress and I am failing to updates the team spreadsheet
    
    
    Jennie's Thoughts: 
@@ -116,7 +117,7 @@ Elizabeth (Minute taker)
    Chase's Thoughts: 
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: There was a learning curve while trying to understand the class diagram while making the new one.
    
    
    Jennie's Thoughts: 
@@ -135,7 +136,7 @@ Elizabeth (Minute taker)
    Chase's Thoughts: 
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think next week we should aim to code more.
    
    
    Jennie's Thoughts: 
