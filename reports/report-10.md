@@ -38,6 +38,7 @@ This week I focused on finishing the class diagram for the report that is due on
 
 
 ### **Chase**:
+This week I was focused on getting my deliverable work done early. I decided I wanted to avoid last week's situation and get ahead on what I needed to do. I accomplished this by starting the sequence diagram early; completing the diagram itself in the beginning of the week. On top of this, I also helped design the architecture diagram and wrote the description for said architecture diagram. Once the deliverable work was done, I set out to continue working with django so that I will be better prepared for next week. I ran a few tests and found a few more online sources to further my understanding and thus prepare for the next deliverable. 
 
 
 ### **Jennie**: 
@@ -57,7 +58,7 @@ This week I focused on finishing the class diagram for the report that is due on
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I appreciate Elizabeth for helping me with the sequence diagram.
    
    
    Jessica's Thoughts: I appreciate Aaron for helping me finish the diagram this week.
@@ -76,7 +77,7 @@ This week I focused on finishing the class diagram for the report that is due on
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: We weren't pressed for time like we were this time last week. I believe this made things go a lot smoother.
    
    
    Jessica's Thoughts: We finished all the diagrams earlier than I though which really helps with the deliverable times.
@@ -95,7 +96,7 @@ This week I focused on finishing the class diagram for the report that is due on
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I don't think there was much to report in terms of failure this week, the only thing I can think of is I forgot to update the agenda / spreadsheet.
    
    
    Jessica's Thoughts: I did not code as much as I liked for this weeks progress and I am failing to updates the team spreadsheet
@@ -114,7 +115,7 @@ This week I focused on finishing the class diagram for the report that is due on
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: Certain aspects of django are harder to implement than others.
    
    
    Jessica's Thoughts: There was a learning curve while trying to understand the class diagram while making the new one.
@@ -133,7 +134,7 @@ This week I focused on finishing the class diagram for the report that is due on
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: The only thing I can think of is to stay ahead on the deliverables and code the website more.
    
    
    Jessica's Thoughts: I think next week we should aim to code more.
