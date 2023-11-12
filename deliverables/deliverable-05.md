@@ -40,10 +40,10 @@ https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app
 **Discounts** <br>
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
-**Account's Favorites** <br>
+**Discounts** <br>
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
-**Hot Deals** <br> 
+**Category** <br> 
 https://github.com/aaronr7734/team-8-project/blob/main/code//server/discountz_app/models.py
 
 ## Design Principles
