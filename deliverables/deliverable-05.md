@@ -24,27 +24,27 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 ### Design Pattern #1 - The Facade Design Pattern (Structural)
 ![Facade](./assets/deliverable-05/facade_design.png)<br>
 **Search Service** <br> 
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html 
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 **Login** <br>
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 **Sign Up** <br> 
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 **Select Deals** <br>
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 ###  Design Pattern #2 - The Observer Design Pattern (Behavioral)
 ![Observer](./assets/deliverable-05/observer_design.png)<br>
 **Discounts** <br>
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
 **Account's Favorites** <br>
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
 **Hot Deals** <br> 
-https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
+https://github.com/aaronr7734/team-8-project/blob/main/code//server/discountz_app/models.py
 
 ## Design Principles
 
