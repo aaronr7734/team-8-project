@@ -23,7 +23,7 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 
 ## Design Patterns
 ### Design Pattern #1 - The Facade Design Pattern (Structural)
-![Facade](./assets/deliverable-05/facade_design.png)<br>
+![Facade](./assets/deliverable-05/update_facade_design.png)<br>
 **Search Service** <br> 
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
@@ -37,7 +37,7 @@ https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 ###  Design Pattern #2 - The Observer Design Pattern (Behavioral)
-![Observer](./assets/deliverable-05/observer_design.png)<br>
+![Observer](./assets/deliverable-05/update_observer_design.png)<br>
 **Discounts** <br>
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
