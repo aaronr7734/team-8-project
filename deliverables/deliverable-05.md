@@ -8,14 +8,14 @@ StudentDiscountz is a web-based aggregator that centralizes Student-centric disc
 
 At the heart of StudentDiscountz, Django forms the backbone of our server-side logic, managing data models, handling requests, and processing responses. We leverage Django's robust features to serve a RESTful API, which provides a seamless interface for data interaction. This API is the channel through which student information, discount details, and user preferences are efficiently transmitted. On the front end, we utilize JavaScript, enriched with the Bootstrap framework, to create a dynamic and responsive user interface. This combination will eventually allow us to offer an intuitive and engaging experience for students.
 ## Architecture
-Monolithic Architecture<br>
+### Monolithic Architecture
 ![Monolithic Architecture](./assets/deliverable-05/Architecture.PNG) <br>
 We chose a Monolithic Architecture for its modular design; we figured this best fit our product. We decided to choose this architecture for its organized yet simplistic approach which allows us to better navigate, update, and debug our application. Each module has a clear responsibility, which simplifies unit testing and can lead to more robust software. The separation of the UI and API also allows for the possibility of different front-end implementations (web, mobile, desktop) to interact with the backend services consistently. We believe that the Monolithic architecture best reflects our design and thus was the best choice.
 
 ## Class Diagram
 
 ## Sequence Diagram
-Sequence Diagram<br>
+### Sequence Diagram
 ![Sequence Diagram](./assets/deliverable-05/sequence_diagram.png)
 For the sequence diagram, there are two actors, the user, and system, which are used to demonstrate the use case of the user trying to log in to the website and the system verifies if the user has an existing account or not. This use case is based on pre-conditions like the website is accessible, the student has internet access, and the user has the appropriate login credentials. The diagram starts with the user initiating the login by putting in their email and password. Next, the system verifies the credentials by searching through the database for an existing account. Then, if the user's account exists, the system authenticates the user, logs in the user, stores a token within the system, and the system directs the user to their personalized dashboard. If the user's account was nonexistent, the system would notify the user that their login attempt failed and prompt the user to check their credentials again. Therefore the post-conditions include the user's successful login attempt and if the login attempt failed it would display an error message. 
 
