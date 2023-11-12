@@ -22,37 +22,37 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 
 ## Design Patterns
 ### The Facade Design Pattern<br>
-![Adapter](./assets/deliverable-05/facade_design.PNG)<br>
-#### Search Service 
-search_discounts:
+![Facade](./assets/deliverable-05/facade_design.PNG)<br>
+**Search Service** <br> 
+search_discounts: <br>
 
-#### Login
-login_account:
-enter_email:
-enter_password:
+**Login** <br>
+login_account: <br>
+enter_email: <br>
+enter_password: <br>
 
-#### Sign Up 
-signup_account:
-enter_email:
-enter_password:
-enter_fname:
-enter_lname:
+**Sign Up** <br> 
+signup_account: <br>
+enter_email: <br>
+enter_password: <br>
+enter_fname: <br>
+enter_lname: <br>
 
-#### Select Deals
-select_deals:
+**Select Deals** <br>
+select_deals: <br>
 
 ### The Observer Design Pattern<br>
 ![Observe](./assets/deliverable-05/designPattern2.PNG)<br>
-#### Discounts
-attach:
-getDiscounts:
+**Discounts** <br>
+attach: <br>
+getDiscounts: <br>
 
-#### Account's Favorites
-favoriteDiscount:
-getFavDiscount:
+**Account's Favorites** <br>
+favoriteDiscount: <br>
+getFavDiscount: <br>
 
-#### Hot Deals 
-updateDiscounts:
+**Hot Deals** <br> 
+updateDiscounts: <br>
 
 ## Design Principles
 
