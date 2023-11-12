@@ -31,6 +31,8 @@ I also spent a good chunk of time trying to learn Javascript so I could provide 
 
 ### **Elizabeth**: 
 
+This week, Chase and I worked together to create the sequence diagram for the upcoming deliverable, in which we focused on the case where the user tries to login to their account. The system should behave a certain way when the user doesn't have an existing account or if the user does, they should be able to continue looking for discounts on their account. I also had a hand in deciding the architecture diagram that would better describe the structure of our system, though I ran into communications issues with one of the members in which they were uncooperative with expressing their confusion creating tension in the group. I did my best to compromise and even explained in Thursday's meeting more in depth about the diagram and how it suits our system more. I fixed up the HTML and CSS issues with the homepage as it did not look right. I also learned Bootstrap along the way in order to better our code and make it more efficient. 
+
 
 ### **Ceanna**:
 This week Jennie and I created the design pattern diagram. Her and I sat down and talked about what the best design pattern would work the best. We decided to use the structural design, adapter and the behavioral design observer. On the Tuesday meeting we all decided on the Architecture model, and then I created the diagram in drawio. I uploaded all the diagrams in the deliverable. I was in charge of notes for this week. Another thing that I did was completing the bootstrap into the code. I was working login and signing up. My main goal was to fix the format of the pages. I decided then to figure out how to use bootstrap in the code.
@@ -52,7 +54,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
 
 ### **Appreciations**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: I appreciate Jennie for helping with the diagrams and for upholding the communication on discord. 
    
    
    Ceanna's Thoughts: I appreciate Elizabeth for bringing up the idea for us to use the model for the architect, I think that this model we pick is perfect for the system. 
@@ -71,7 +73,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    
 ### **Successes**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: The diagrams were finished early. 
    
    
    Ceanna's Thoughts: We planned everything well this week, and we were able to have deliverable ready to go before sunday.
@@ -91,7 +93,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    
 ### **Failures**: 
 
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: I feel like the communication within the two teams were not very effective and the communication between frontend and backend was an absolute failure. Backend needs to work on communicating with each other more and splitting up the work more evenly so ALL members can learn the necessary skills. The frontend team needs to be more communicative on how the website should look and come to a compromise on what needs to be on the website rather than just coding things that we NEVER agreed on. We all need to learn how to compromise more as a team.
    
    
    Ceanna's Thoughts: Aaron deleted my branch by accident, but he was able to help me get my branch back. 
@@ -111,7 +113,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    
 ### **Barriers**: 
   
-   Elizabeth's Thoughts: 
+   Elizabeth's Thoughts: Other responsibilities have made it difficult to dedicate time to the website.
    
    
    Ceanna's Thoughts: There is not enough time in the days to get coding and other work done. I have things I want to get done. I feel that I need to research and code at the same time to get somewhere. 
@@ -130,13 +132,12 @@ This week I was focused on getting my deliverable work done early. I decided I w
   
 ### **What Should We Try Next Time**: 
   
-   Elizabeth's Thoughts: 
-   
+   Elizabeth's Thoughts: Backend should teach frontend about API since they emphasized that API is important for them to know but have not provided any guidance or direction on how to learn it properly. 
    
    Ceanna's Thoughts: We should set 2 hours out of the day to work on code, so that we are not rushing for code for the next deliverable.
    
 
-   Aaron's Thoughts: I don't really know what to put here, other than that as a group, we haven't really been implementing our "next time" suggestions from previous reports.
+   Aaron's Thoughts: I don't really know what to put here, other than that as a group, we haven't really been implementing our "next time" suggestions from previous reports. 
    
 
    Chase's Thoughts: The only thing I can think of is to stay ahead on the deliverables and code the website more.
