@@ -21,7 +21,7 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 
 
 ## Design Patterns
-**The Facade Design Pattern**<br>
+### The Facade Design Pattern 
 ![Facade](./assets/deliverable-05/facade_design.png)<br>
 **Search Service** <br> 
 
@@ -35,7 +35,7 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 **Select Deals** <br>
 
 
-**The Observer Design Pattern**<br>
+### The Observer Design Pattern
 ![Observe](./assets/deliverable-05/designPattern2.PNG)<br>
 **Discounts** <br>
 
