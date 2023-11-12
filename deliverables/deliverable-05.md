@@ -17,14 +17,42 @@ We chose a Monolithic Architecture for its modular design; we figured this best 
 ## Sequence Diagram
 Sequence Diagram<br>
 ![Sequence Diagram](./assets/deliverable-05/sequence_diagram.png)
-For the sequence diagram, there are two actors, the user and system, which are used to demonstrate the use case of the user trying log in to the website and the system verifies if the user has an existing account or not. This use case is based off pre-conditions like the website is accessible, the student has internet access, and the user has the appropriate login credentials. The diagram starts off with the user initiating the log in by putting in their email and password. Next, the system verifies the credentials by searching through the database for an existing account. Then, if the user's account exists, then the system authenticates the user, logs in the users, stores a token within the system, and the system directs the user to their personalized dashboard. If the user's account was nonexistent, the system would notify the user that their log in attempt failed and prompts the user to check their credentials again. Therefore the post-conditions include the user's successful log in attempt and if the log in attempt failed which would display an error message. 
+For the sequence diagram, there are two actors, the user, and system, which are used to demonstrate the use case of the user trying to log in to the website and the system verifies if the user has an existing account or not. This use case is based on pre-conditions like the website is accessible, the student has internet access, and the user has the appropriate login credentials. The diagram starts with the user initiating the login by putting in their email and password. Next, the system verifies the credentials by searching through the database for an existing account. Then, if the user's account exists, the system authenticates the user, logs in the user, stores a token within the system, and the system directs the user to their personalized dashboard. If the user's account was nonexistent, the system would notify the user that their login attempt failed and prompt the user to check their credentials again. Therefore the post-conditions include the user's successful login attempt and if the login attempt failed it would display an error message. 
 
 
 ## Design Patterns
-Adapter Design Pattern<br>
-![Adapter](./assets/deliverable-05/designPattern1.PNG)<br>
-Observe Design Pattern<br>
+### The Facade Design Pattern<br>
+![Adapter](./assets/deliverable-05/facade_design.PNG)<br>
+#### Search Service 
+search_discounts:
+
+#### Login
+login_account:
+enter_email:
+enter_password:
+
+#### Sign Up 
+signup_account:
+enter_email:
+enter_password:
+enter_fname:
+enter_lname:
+
+#### Select Deals
+select_deals:
+
+### The Observer Design Pattern<br>
 ![Observe](./assets/deliverable-05/designPattern2.PNG)<br>
+#### Discounts
+attach:
+getDiscounts:
+
+#### Account's Favorites
+favoriteDiscount:
+getFavDiscount:
+
+#### Hot Deals 
+updateDiscounts:
 
 ## Design Principles
 
