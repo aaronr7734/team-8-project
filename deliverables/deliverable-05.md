@@ -4,12 +4,26 @@
 
 ## Description
 
+StudentDiscountz is a web-based aggregator that centralizes Student-centric discounts, making it the go-to platform for budget-conscious scholars. Students sign up with their name (first and last,) an email address from an educational institution, and a password, and they're then granted access to a dashboard that allows them to view, filter, and bookmark discounts from various categories.
+
+At the heart of StudentDiscountz, Django forms the backbone of our server-side logic, managing data models, handling requests, and processing responses. We leverage Django's robust features to serve a RESTful API, which provides a seamless interface for data interaction. This API is the channel through which student information, discount details, and user preferences are efficiently transmitted. On the front-end, we utilize JavaScript, enriched with the Bootstrap framework, to create a dynamic and responsive user interface. This combination will eventually allow us to offer an intuitive and engaging experience for students.
 ## Architecture
+Monolithic Architecture<br>
+![Monolithic Architecture](./assets/deliverable-05/Architecture.PNG)
+We chose a Monolithic Architecture for its modular design; we figured this best fit our product. We decided to choose this architecture for its organized yet simplistic approach which allows us to better navigate, update, and debug our application. Each module has a clear responsibility, which simplifies unit testing and can lead to more robust software. The separation of the UI and API also allows for the possibility of different front-end implementations (web, mobile, desktop) to interact with the backend services in a consistent manner. We believe that the Monolithic architecture best reflects our design and thus was the best choice.
 
 ## Class Diagram
 
 ## Sequence Diagram
 
 ## Design Patterns
+Adapter Design Pattern<br>
+![Adapter](./assets/deliverable-05/designPattern1.PNG)<br>
+Observe Design Pattern<br>
+![Observe](./assets/deliverable-05/designPattern2.PNG)<br>
 
 ## Design Principles
+
+In our Django (back-end) project, the design primarily adheres to the Single Responsibility and Open/Closed SOLID principles. The Single Responsibility Principle is exemplified in the `Student` model, which is tasked solely with managing student data, avoiding the overlap of responsibilities. The `StudentManager` class showcases the Open/Closed Principle, as it extends Django's default UserManager, allowing for new user creation methods without needing to modify the existing code base. This approach facilitates adaptability and future enhancements while maintaining the integrity of the original UserManager class. None of the other principles were demonstrated on the back-end as far as we can tell.
+
+The front-end doesn't yet have enough code for us to evaluate whether or not any SOLID principles are exemplified.
