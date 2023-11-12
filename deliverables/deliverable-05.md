@@ -15,7 +15,8 @@ We chose a Monolithic Architecture for its modular design; we figured this best 
 ## Class Diagram
 
 ## Sequence Diagram
-
+Sequence Diagram<br>
+![Sequence Diagram](./assets/deliverable-05/sequence_diagram.png)
 For the sequence diagram, there are two actors, the user and system, which are used to demonstrate the use case of the user trying log in to the website and the system verifies if the user has an existing account or not. This use case is based off pre-conditions like the website is accessible, the student has internet access, and the user has the appropriate login credentials. The diagram starts off with the user initiating the log in by putting in their email and password. Next, the system verifies the credentials by searching through the database for an existing account. Then, if the user's account exists, then the system authenticates the user, logs in the users, stores a token within the system, and the system directs the user to their personalized dashboard. If the user's account was nonexistent, the system would notify the user that their log in attempt failed and prompts the user to check their credentials again. Therefore the post-conditions include the user's successful log in attempt and if the log in attempt failed which would display an error message. 
 
 
