@@ -22,7 +22,7 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 
 ## Design Patterns
 **The Facade Design Pattern**<br>
-![Facade](./assets/deliverable-05/facade_design.PNG)<br>
+![Facade](./assets/deliverable-05/facade_design.png)<br>
 **Search Service** <br> 
 search_discounts: <br>
 
