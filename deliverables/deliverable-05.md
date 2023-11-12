@@ -24,30 +24,30 @@ For the sequence diagram, there are two actors, the user, and system, which are 
 ### Design Pattern #1 - The Facade Design Pattern (Structural)
 ![Facade](./assets/deliverable-05/facade_design.png)<br>
 **Search Service** <br> 
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html 
 
 **Login** <br>
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
 
 **Sign Up** <br> 
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
 
 **Select Deals** <br>
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
 
 ###  Design Pattern #2 - The Observer Design Pattern (Behavioral)
-![Observe](./assets/deliverable-05/designPattern2.PNG)<br>
+![Observer](./assets/deliverable-05/observer_design.png)<br>
 **Discounts** <br>
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
 
 **Account's Favorites** <br>
 
 
 **Hot Deals** <br> 
-
+https://github.com/aaronr7734/team-8-project/blob/main/code/homepage.html
 
 ## Design Principles
 
 In our Django (back-end) project, the design primarily adheres to the Single Responsibility and Open/Closed SOLID principles. The Single Responsibility Principle is exemplified in the `Student` model, which is tasked solely with managing student data, avoiding the overlap of responsibilities. The `StudentManager` class showcases the Open/Closed Principle, as it extends Django's default UserManager, allowing for new user creation methods without needing to modify the existing code base. This approach facilitates adaptability and future enhancements while maintaining the integrity of the original UserManager class. None of the other principles were demonstrated on the back end as far as we can tell.
 
-For our front-end side, we use different SOLID principles throughout our interaction with the HTML and CSS aspects of the website. A primary example of this would be the Single Responsibility Principle where we directly made certain parts of our CSS file towards something in the HTML. For example, when it came to the login/sign-up buttons and links to other pages we used this principle by creating individual classes for them where one was labeled 'login' and the other was labeled 'sign-up' in the CSS file then used as a class in the HTML. Another principle we used was the Open/Closed Principle, 
+For our front-end side, we use different SOLID principles throughout our interaction with the HTML and CSS aspects of the website. A primary example of this would be the Single Responsibility Principle where we directly made certain parts of our CSS file towards something in the HTML. For example, when it came to the login/sign-up buttons and links to other pages we used this principle by creating individual classes for them where one was labeled `login` and the other was labeled `sign-up` in the CSS file then used as a class in the HTML. Another principle we used was the Open/Closed Principle, where we created a class in CSS called `discount-card`. The `discount-card` has an open concept since it is the framework for how we build the text and the box itself and then has a closed concept when we are directly using it for something. An example would be our laptop discount section on the website since we did an ID for it to directly be about the laptop discount making itself closed. Lastly, we found the Interface Segregation Principle being used since everything inside of our HTML and CSS is being used to perform the appearance we need for the overall website. 
