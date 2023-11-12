@@ -26,7 +26,7 @@ Elizabeth (Minute taker)
 
 ### **Aaron**:
 
-This week, I contributed to several diagrams for our deliverable by talking through them with the rest of the team. Additionally, I wrote the `system description`` and `design principles`` sections.
+This week, I contributed to several diagrams for our deliverable by talking through them with the rest of the team. Additionally, I wrote the ``system description`` and ``design principles`` sections.
 I also spent a good chunk of time trying to learn Javascript so I could provide code examples for using our REST API, but that hasn't been going too well. Front-end development isn't something I've ever been good at. I've been revisiting automated documentation and intend to have something up by Sunday.
 
 ### **Elizabeth**: 
@@ -36,19 +36,19 @@ This week, Chase and I worked together to create the sequence diagram for the up
 
 ### **Ceanna**:
 
-This week Jennie and I created the design pattern diagram for the deliverable. To start the process of creating the diagrams we decided to meet up together to be able to have a productive conversation on how the diagrams should look and which design patterns would work best for the diagrams. This led us to the decision to use the structural design category using the adapter model and then from the behavioral category we wanted to use the observer model. Then, on the Tuesday meeting we as a group decided to use the Architecture model, where I created the diagram in draw.io throughout the meeting. Once the meeting was completed and everyone agreed on the appearance of the diagram, I uploaded the diagram into the deliverable documentation. On the same note of the meeting, I recorded the notes throughout the meeting when we were not working on the diagram to keep track of what happened throughout the entirety of the meeting. After the meetings for this week, I decided to integrate some Bootstrap into our code and worked on the login and sign-up pages. Since my main goal was to fix the format of the pages and decided to build up my knowledge about Bootstrap. 
+This week Jennie and I created the design pattern diagram for the deliverable. To start the process of creating the diagrams we decided to meet up together to be able to have a productive conversation on how the diagrams should look and which design patterns would work best for the diagrams. This led us to the decision to use the structural design category using the adapter model and then from the behavioral category we wanted to use the observer model. Then, on the Tuesday meeting we as a group decided to use the Monolithic Architecture model, where I created the diagram in draw.io throughout the meeting. Once the meeting was completed and everyone agreed on the appearance of the diagram, I uploaded the diagram into the deliverable documentation. On the same note of the meeting, I recorded the notes throughout the meeting when we were not working on the diagram to keep track of what happened throughout the entirety of the meeting. After the meetings for this week, I decided to integrate some Bootstrap into our code and worked on the login and sign-up pages. Since my main goal was to fix the format of the pages and decided to build up my knowledge about Bootstrap. 
 
 ### **Jessica**: 
 This week I focused on finishing the class diagram for the report that is due on Sunday. This required me to change our existing diagram from one that fits our code better. I also began the research for the API and Django so I can start the code refactoring for next week. 
 
 
 ### **Chase**:
-This week I was focused on getting my deliverable work done early. I decided I wanted to avoid last week's situation and get ahead on what I needed to do. I accomplished this by starting the sequence diagram early; to complete the diagram itself in the beginning of the week. On top of this, I also helped design the architecture diagram and wrote the description for said architecture diagram. Once the deliverable work was done, I set out to continue working with Django so that I will be better prepared for next week. I ran a few tests and found a few more online sources to further my understanding and thus prepare for the next deliverable. 
+This week I was focused on getting my deliverable work done early. I decided I wanted to avoid last week's situation and get ahead on what I needed to do. I accomplished this by starting the sequence diagram early; to complete the diagram itself at the beginning of the week. On top of this, I also helped design the architecture diagram and wrote the description for said architecture diagram. Once the deliverable work was done, I set out to continue working with Django so that I would be better prepared for next week. I ran a few tests and found a few more online sources to further my understanding and thus prepare for the next deliverable. 
 
 
 ### **Jennie**: 
 
-This week Ceanna and I created the design pattern diagram for the deliverable. To do so, we decided to meet up outside of the meeting times to discuss what we wanted to use for the diagrams since we chose the adapter model from the structural design category and the observer model from the behavioral category. Then we went into our weekly Tuesday meeting, where we discussed the rest of the models that other group members worked on and were able to provide feedback. Since we spoke about it, this led to a rework for the architecture model since we decided to use the monolithic architecture instead since it works better with the concept we are using. Outside of the meetings, I worked on the HTML earlier in the week to try to line up our sketch for the home page since some parts of the original HTML did not match our sketch the previous week. 
+This week Ceanna and I created the design pattern diagram for the deliverable. To do so, we decided to meet up outside of the meeting times to discuss what we wanted to use for the diagrams since we chose the adapter model from the structural design category and the observer model from the behavioral category. Then we went into our weekly Tuesday meeting, where we discussed the rest of the models that other group members worked on and were able to provide feedback. Since we spoke about it, this led to a rework for the architecture model since we decided to use the Monolithic Architecture instead since it works better with the concept we are using. Outside of the meetings, I worked on the HTML earlier in the week to try to line up our sketch for the home page since some parts of the original HTML did not match our sketch the previous week. 
 
 ## 2. Project Retrospective
 ### **Appreciations**: 
@@ -59,7 +59,7 @@ This week Ceanna and I created the design pattern diagram for the deliverable. T
    Ceanna's Thoughts: I appreciate Elizabeth for bringing up the idea for us to use the model for the architect, I think that this model we pick is perfect for the system. 
    
 
-   Aaron's Thoughts: I appreciate Ceanna for still coming in-person to our second weekly meeting despite everyone else being remote.
+   Aaron's Thoughts: I appreciate Ceanna for still coming in person to our second weekly meeting despite everyone else being remote.
    
 
    Chase's Thoughts: I appreciate Elizabeth for helping me with the sequence diagram.
