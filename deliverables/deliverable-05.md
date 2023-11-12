@@ -9,7 +9,7 @@ StudentDiscountz is a web-based aggregator that centralizes Student-centric disc
 At the heart of StudentDiscountz, Django forms the backbone of our server-side logic, managing data models, handling requests, and processing responses. We leverage Django's robust features to serve a RESTful API, which provides a seamless interface for data interaction. This API is the channel through which student information, discount details, and user preferences are efficiently transmitted. On the front end, we utilize JavaScript, enriched with the Bootstrap framework, to create a dynamic and responsive user interface. This combination will eventually allow us to offer an intuitive and engaging experience for students.
 ## Architecture
 Monolithic Architecture<br>
-![Monolithic Architecture](./assets/deliverable-05/Architecture.PNG)
+![Monolithic Architecture](./assets/deliverable-05/Architecture.PNG) <br>
 We chose a Monolithic Architecture for its modular design; we figured this best fit our product. We decided to choose this architecture for its organized yet simplistic approach which allows us to better navigate, update, and debug our application. Each module has a clear responsibility, which simplifies unit testing and can lead to more robust software. The separation of the UI and API also allows for the possibility of different front-end implementations (web, mobile, desktop) to interact with the backend services consistently. We believe that the Monolithic architecture best reflects our design and thus was the best choice.
 
 ## Class Diagram
