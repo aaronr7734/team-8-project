@@ -31,6 +31,7 @@ Elizabeth (Minute taker)
 
 
 ### **Ceanna**:
+This week Jennie and I created the design pattern diagram. Her and I sat down and talked about what the best design pattern would work the best. We decided to use the structural design, adapter and the behavioral design observer. On the Tuesday meeting we all decided on the Architecture model, and then I created the diagram in drawio. I uploaded all the diagrams in the deliverable. I was in charge of notes for this week. Another thing that I did was completing the bootstrap into the code. I was working login and signing up. My main goal was to fix the format of the pages. I decided then to figure out how to use bootstrap in the code.
 
 
 ### **Jessica**: 
@@ -52,7 +53,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    Elizabeth's Thoughts: 
    
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: I appreciate Elizabeth for bringing up the idea for us to use the model for the architect, I think that this model we pick is perfect for the system. 
    
 
    Aaron's Thoughts: 
@@ -71,7 +72,8 @@ This week I was focused on getting my deliverable work done early. I decided I w
    Elizabeth's Thoughts: 
    
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We planned everything well this week, and we were able to have deliverable ready to go before sunday.
+
    
 
    Aaron's Thoughts: 
@@ -90,7 +92,8 @@ This week I was focused on getting my deliverable work done early. I decided I w
    Elizabeth's Thoughts: 
    
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: Aaron deleted my branch by accident, but he was able to help me get my branch back. 
+
    
 
    Aaron's Thoughts: 
@@ -109,7 +112,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    Elizabeth's Thoughts: 
    
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: There is not enough time in the days to get coding and other work done. I have things I want to get done. I feel that I need to research and code at the same time to get somewhere. 
    
 
    Aaron's Thoughts: 
@@ -128,7 +131,7 @@ This week I was focused on getting my deliverable work done early. I decided I w
    Elizabeth's Thoughts: 
    
    
-   Ceanna's Thoughts: 
+   Ceanna's Thoughts: We should set 2 hours out of the day to work on code, so that we are not rushing for code for the next deliverable.
    
 
    Aaron's Thoughts: 
