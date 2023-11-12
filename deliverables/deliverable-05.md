@@ -13,6 +13,7 @@ At the heart of StudentDiscountz, Django forms the backbone of our server-side l
 We chose a Monolithic Architecture for its modular design; we figured this best fit our product. We decided to choose this architecture for its organized yet simplistic approach which allows us to better navigate, update, and debug our application. Each module has a clear responsibility, which simplifies unit testing and can lead to more robust software. The separation of the UI and API also allows for the possibility of different front-end implementations (web, mobile, desktop) to interact with the backend services consistently. We believe that the Monolithic architecture best reflects our design and thus was the best choice.
 
 ## Class Diagram
+![Class Diagram](./assets/deliverable-05/classDiagram.png)
 
 ## Sequence Diagram
 ### Sequence Diagram
