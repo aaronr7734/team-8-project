@@ -36,7 +36,7 @@ https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py 
 
 ###  Design Pattern #2 - The Observer Design Pattern (Behavioral)
-![Observer](./assets/deliverable-05/observer_design.PNG)<br>
+![Observer](./assets/deliverable-05/observer_design.png)<br>
 **Discounts** <br>
 https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py
 
