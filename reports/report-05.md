@@ -1,4 +1,4 @@
-# Report for Week 8 Meeting
+# Report for Week 6 Meeting
 
 ## Group 8: College Discountz
 
