@@ -11,16 +11,16 @@ body {
 .headerTop {
     background-color: #003366;
     color: #fff;
-    padding: 25px;
+    padding: 30px;
 }
 
 .box-header{
     padding: 10px;
-    border: 10px solid white;
+    border: 10px solid #debd02;
     text-align: center;
     margin: 0 auto;
     width: max-content;
-    margin-top: -20px;
+    margin-top: -10px;
 
 }
 
@@ -98,7 +98,7 @@ nav {
 
 .search-bar {
     margin: 1rem 0;
-    padding: 0.5rem;
+    padding: 16px;
     width: 100%;
     box-sizing: border-box;
 }
@@ -120,33 +120,42 @@ nav {
     padding: 5px;
     margin: 5px;
     width: 150px;
-    background-color: #003366;
-    color: #fff;
+    background-color: #ffeb3b;
+    color: #000000;
     float: right;
     cursor: pointer;
     margin-right: 10px;
-    border: 5px solid white;
+    border: 5px solid #debd02;
     text-align: center;
     display: block;
     clear: both;
+
 }
+
+.sign-up:hover, .sign-up:focus{
+    background-color: #ffd900;
+}
+
 
 .login {
     border: 1px;
     padding: 5px;
     margin: 5px;
     width: 150px;
-    background-color: #003366;
-    color: #fff;
+    background-color: #ffeb3b;
+    color: #000000;
     float: right;
     cursor: pointer;
     margin-right: 10px;
-    border: 5px solid white;
+    border: 5px solid #debd02;
     text-align: center;
-    display: block; 
+    display: block;
     clear: both;
 }
 
+.login:hover, .login:focus{
+    background-color: #ffd900;
+}
 
 /*padding : 2rem */
 section {
@@ -166,7 +175,8 @@ footer {
 .filterbutton{
         background-color: #FFE133;
         color: black;
-        padding: 16px;
+        padding: 14px;
+        height: 60px;
         font-size: 16px;
         border: none;
         cursor: pointer;
@@ -236,7 +246,8 @@ footer {
     .cantfind{
         background-color: #FFE133;
         color: black;
-        padding: 10px 15px;
+        padding: 14px 14p;
+        
         text-align: center;
         text-decoration: none;
         font-size: 16px;
@@ -244,9 +255,11 @@ footer {
         border: none;
         cursor: pointer;
         margin-left: 5px;
+        height: 60px;
 
 
     }
     .signupBox{
         text-align: center;
     }
+

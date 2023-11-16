@@ -1,4 +1,4 @@
-# Report for Week 9 Meeting
+# Report for Week 7 Meeting
 
 ## Group 8: Student Discountz
 
