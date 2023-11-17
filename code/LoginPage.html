@@ -11,31 +11,46 @@
 
 </head>
 <body>
-    <header  class = "container-fluid bg-primary text-white broder py-6 ">
-         <!---->
-         <div class="m-4">
+    <header  class="headerTop">
+        
             <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
             <a class="sign-up" href="SignUpPage.html">Sign Up</a>
             <a class="sign-up" href="LoginPage.html">Log In</a>
-            <h1 class="h1title">Log In </h1>
-         </div>
+            <h1 class="box-header">Log In </h1>
+         
  
        
     </header>
 
+    <dir class="container border py-3 my-3">
+        <h3>
+            Weclome Back!!
+        </h3>
+    </dir>
+
     <div class="container border py-3 my-3">
-    <form class="signupBox">
-                <div class="mb-3">
-                    <label for="username">Username:</label>
-                    <input type="text" id="username" name="username" required><br><br>
-                </div>
-                <div class="mb-3">
-                    <label for="password">Password:</label>
-                    <input type="password" id="password" name="password" required><br><br>
-                </div>
-            <input type="submit" value="Login">
-    </form>
+        <form class="labelForm">
+            <div class="from-group">
+                <label for="username">Username:</label>
+                <input type="text" class="signupBox" id="username" name="username" placeholder="Username" required><br><br>
+            </div>
+            <div class="from-group">
+                <label for="password">Password:</label>
+                <input type="password"class="signupBox" id="password" name="password" placeholder="Password" required><br><br>
+            </div>
+                <input type="submit" value="Login">
+        </form>
+        <!--alread a user it will go to the login-->
+        <div class="askForLog" >
+            <p class="alreadyUserlog">Not a user yet?
+            <a href="SignUpPage.html">SIGN UP</a>
+            </p>
+        </div>
     </div>
+
+    <div class="footerNew">
+        <p>StudentDiscountz</p>
+     </div>
     
     <script src="login.js"></script>
     <!--Bootstap with the js-->
