@@ -13,11 +13,11 @@
         <header class="headerTop">
             <img class="img-logo" src="assets/nauLogo.png" alt="NAU LOGO" style="width:150px">
                 <a class="login" href="LoginPage.html">Log In</a>
-           
 
-            
+
+
                 <a class="sign-up" href="SignUpPage.html">Sign Up</a>
-            
+
 
             <h1 class="box-header">StudentDiscountz</h1>
 
@@ -27,7 +27,30 @@
         </header>
 
         <nav>
-        
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <a href="#" class="navbar-brand">
+                        <img src="images/logo.svg" height="28" alt="CoolBrand">
+                    </a>
+                    <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <div class="navbar-nav">
+                            <a href="#" class="nav-item nav-link active">Home</a>
+                            <a href="#" class="nav-item nav-link">Profile</a>
+                            <a href="#" class="nav-item nav-link">Messages</a>
+                            <a href="#" class="nav-item nav-link disabled" tabindex="-1">Reports</a>
+                        </div>
+                        <div class="navbar-nav ms-auto">
+                            <a href="#" class="nav-item nav-link">Login</a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+
+
             <!--filter button stuff-->
             <div class="searchfilter">
                 <div class="clicksearch">
@@ -36,45 +59,43 @@
                 <!--search bar will go here-->
                 <input type="text" class="search-bar" placeholder="Search for specific discounts...">
                 <div id="Filters" class="dropdown-blocks">
-                        <input type="text" placeholder="Search..." id="UserInput" onkeyup="filterFunction()">
-                        <div id="options">                     
-                            <a href="#Computer Science">Computer Science</a>
-                            <a href="#Art History">Art History</a>
-                            <a href="#Pre-Med">Pre-Med</a>
-                            <a href="#Business">Business Management</a>
-                            <a href="#Psychology">Psychology</a>
-                        </div>  
-                    
+                    <input type="text" placeholder="Search..." id="UserInput" onkeyup="filterFunction()">
+                    <div id="options">
+                        <a href="#Computer Science">Computer Science</a>
+                        <a href="#Art History">Art History</a>
+                        <a href="#Pre-Med">Pre-Med</a>
+                        <a href="#Business">Business Management</a>
+                        <a href="#Psychology">Psychology</a>
+                    </div>
+
                 </div>
                 <button class="cantfind">Can't find what you're looking for?</button>
             </div>
-        <script>
-            /*when user clicks on it, the drop down will appear*/
-            function ChosenOne() {
-                  document.getElementById("Filters").classList.toggle("show");
-            }
+            <script>/*when user clicks on it, the drop down will appear*/
+                function ChosenOne() {
+                    document.getElementById("Filters").classList.toggle("show");
+                }
 
-           /*this is where the filtering will happen*/
-           function filterFunction() {
-           var user, filter, a, element;
-           user = document.getElementById("UserInput");
-           filter = user.value.toUpperCase();
-           a = document.getElementsByTagName("a");
+                /*this is where the filtering will happen*/
+                function filterFunction() {
+                    var user, filter, a, element;
+                    user = document.getElementById("UserInput");
+                    filter = user.value.toUpperCase();
+                    a = document.getElementsByTagName("a");
 
-           for (element = 0; element < a.length; element++) {
-             var optionValue = a[element].textContent || a[element].innerText;
-             if (optionValue.toUpperCase().indexOf(filter) > -1) {
-                  a[element].style.display = "";
-             } else {
-                a[element].style.display = "none";
-             }
-           }
-         }
-        </script>
+                    for (element = 0; element < a.length; element++) {
+                        var optionValue = a[element].textContent || a[element].innerText;
+                        if (optionValue.toUpperCase().indexOf(filter) > -1) {
+                            a[element].style.display = "";
+                        } else {
+                            a[element].style.display = "none";
+                        }
+                    }
+                }</script>
         </nav>
         <!--vertical tabs-->
         <div class="container-fluid bg-light py-3 my-3">
-            
+
             <div class="deal-tabs">
                 <h2>Hot Deals</h2>
                 <hr>
@@ -120,36 +141,36 @@
         </div>
 
         <!-- <section>
-           
-      
+
+
               Discount cards
               <div id="laptop-discount" class="discount-card">
                   <a href="https://www.apple.com/us-edu/shop/buy-mac/macbook-air/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-7-core-gpu-256gb?afid=p238%7CsZJTeHzem-dc_mtid_1870765e38482_pcrid_534909278119_pgrid_126714323962_pntwk_g_pchan_online_pexid__&cid=aos-us-kwgo-pla-brand-edu--slid---product-MGN63LL/A-EDU">
                   <h3 class="discount-title">Exclusive Laptop Discount</h3>
                   <p class="discount-description">Get 20% off on all laptops with your student ID. Limited time offer!</p>
               </div>
-      
+
               <div id="gadget-deals" class="discount-card">
                   <a href="https://www.bestbuy.com/site/misc/back-to-school/pcmcat334100050000.c?id=pcmcat334100050000" >
                   <h3 class="discount-title">Gadget Deals</h3>
                   <p class="discount-description">Explore the latest gadgets at discounted prices. Don't miss out!</p>
               </div>
-      
+
               <div id="dorm-deals" class="discount-card">
                   <a href="https://www.target.com/c/on-to-college/sale/-/N-5q0g0Z5tdv0">
                   <h3 class="discount-title">Dorm Deals</h3>
                   <p class="discount-description">Furnish your dorm with our exclusive discounts on furniture and essentials.</p>
               </div>
-      
+
               <div id="book-deals" class="discount-card">
                   <a href="https://www.thriftbooks.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_search_brand&utm_adgroup=&utm_term=thriftbooks&utm_content=597822490930&gclid=CjwKCAjw1t2pBhAFEiwA_-A-NHybJBJVvlQ3imlEN97h7BO8ypyuFK5XzUKeaWQX-PEO0KgbtfBkXhoC0icQAvD_BwE">
                   <h3 class="discount-title">Book Deals</h3>
                   <p class="discount-description">Save big on textbooks and study materials. Limited stock available!</p>
               </div>
-              <!-- Add more discount cards as needed -->
-          <!-- </section>
-            --> 
-          
+              Add more discount cards as needed
+           </section>
+            -->
+
 
 
     </body>
