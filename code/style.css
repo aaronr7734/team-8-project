@@ -260,6 +260,29 @@ footer {
 
     }
     .signupBox{
+        text-align: left;
+        width: 100%;
+    }
+
+    .footerNew{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:#003366;
+        color: white;
         text-align: center;
     }
+    .askForLog{
+        text-align: center;
+
+    }
+    .lablesForm{
+        text-align: left;
+    }
+    .sentece{
+        text-align: center;
+    }
+
+    
 
