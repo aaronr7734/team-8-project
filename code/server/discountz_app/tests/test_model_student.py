@@ -1,5 +1,5 @@
 from django.test import TestCase
-from ..models import Student
+from discountz_app.models import Student
 from rest_framework import serializers
 from ..serializer import StudentSerializer
 from django.core.exceptions import ValidationError

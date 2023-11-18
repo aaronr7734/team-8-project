@@ -1,5 +1,5 @@
 from django.test import TestCase
-from ..models import Discount, Student, Category
+from discountz_app.models import Discount, Student, Category
 from django.utils import timezone
 import datetime
 
