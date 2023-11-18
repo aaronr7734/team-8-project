@@ -11,64 +11,68 @@
 
 </head>
 <body>
-    <header  class = "container-fluid bg-primary text-white broder py-6 ">
-         <!---->
-         <div class="m-4">
+    <header class="headerTop">
           <img class="img-logo"  src = "assets/nauLogo.png" alt="NAU Logo" style="width:150px">
             <a class="sign-up" href="SignUpPage.html">Sign Up</a>
             <a class="sign-up" href="LoginPage.html">Log In</a>
-            <h1 class="h1title">Sign Up</h1>
-         </div>
+            <h1 class="box-header">Sign Up</h1>
+ 
 
     </header>
-    
     <div class="container border py-3 my-3">
-      <form class="signupBox">
-        <div class="  mb-3">
-          <label for="first_name">First Name:</label>
-          <input type="text" id="first_name" name="first_name" required><br><br>
-        </div>
-
-        <div class=" mb-3">
-          <label for="last_name">Last Name:</label>
-        <input type="text" id="last_name" name="last_name" required><br><br>
-        </div>
-
-        <div class=" mb-3">
-          <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
-        </div>
-
-        <div class=" mb-3">
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required><br><br>
-        </div>
-
-        <div class="mb-3">
-           <label for="confirm_password">Confirm Password:</label>
-        <input type="password" id="confirm_password" name="confirm_password" required><br><br>
-        </div>
-
-       
-        
-        
-        
-        
-       
-        
-        
-        
-        
-       
-        
-        <button type="submit">Submit</button>
-    </form>
+      <h3 class="sentece">Weclome to the Student Discountz, make an account where you can save, comment and find new deals. Look for the next best deal! There is always something new! Sign up now!!!</h3>
     </div>
     
+    <div class="container border py-3 my-3">
+      <form class="labelForm">
+        <div class="from-group ">
+          <label for="first_name" >First Name: </label>
+              <input type="text" class="signupBox" id="first_name" name="first_name" placeholder="First Name" required><br><br>
+        </div>
+
+        <div class=" from-group ">
+          <label for="last_name" >Last Name: </label>
+          <input type="text" class="signupBox" id="last_name" name="last_name" placeholder="Last Name" required><br><br>
+        </div>
+
+        <div class=" from-group ">
+          <label for="email">Email: </label>
+        <input type="email" class="signupBox" id="email" name="email" placeholder="Email" required><br><br>
+        </div>
+
+        <div class="from-group">
+        <label for="password">Password: </label>
+        <input type="password" class="signupBox" id="password" name="password" placeholder="Password" required><br><br>
+        </div>
+
+        <div class="from-group">
+           <label for="confirm_password">Confirm Password: </label>
+        <input type="password"class="signupBox" id="confirm_password" name="confirm_password" placeholder="Confirm Password" required><br><br>
+        </div>
+            <button type="submit">Submit</button> <br>
+    
+        </form> 
+        <!--alread a user it will go to the login-->
+        <div class="askForLog" >
+        
+          <p class="alreadyUserlog">Already a user?
+          <a href="LoginPage.html">LOGIN</a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+    
+    
+    <!--Create a footer that will say the webstie-->
+     <div class="footerNew">
+        <p>StudentDiscountz</p>
+     </div>
     
     <script src="signUp.js"></script>
      <!--Bootstap with the js-->
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     
+     
 </body>
 </html>
