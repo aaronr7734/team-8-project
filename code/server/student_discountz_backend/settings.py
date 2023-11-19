@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['192.168.4.26',]
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -84,7 +83,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
-    }
+        'TEST': {
+            'NAME': BASE_DIR / 'test_db.sqlite3',
+        },
+    },
 }
 
 
