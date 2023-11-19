@@ -11,13 +11,17 @@ class CategoryModelTest(TestCase):
         """
         Set up data for testing the Category model. This method is run before each test.
         """
-        #Create categories with valid names
+        # Create categories with valid names
         self.category_food = Category.objects.create(name="Food")
         self.category_tech = Category.objects.create(name="Technology")
 
-        #Create some fictional discounts and assign them to categories
-        Discount.objects.create(name="Pizza Discount", category=self.category_food)
-        Discount.objects.create(name="Laptop Discount", category=self.category_tech)
+        # Create some fictional discounts
+        self.discount_pizza = Discount.objects.create(name="Pizza Discount")
+        self.discount_laptop = Discount.objects.create(name="Laptop Discount")
+
+        # Assign discounts to categories using the many-to-many relationship
+        self.discount_pizza.categories.add(self.category_food)
+        self.discount_laptop.categories.add(self.category_tech)
 
     def test_category_creation_with_valid_name(self):
         """
