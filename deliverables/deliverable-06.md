@@ -30,7 +30,7 @@
 **Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/188)\
 **Implemented:** Ceanna Jarrett\
 **Approved By:** Jessica Maldonado\
-**Print Screen:** N/A\
+**Print Screen:** N/A
 
 <span style="text-decoration:underline;">#212</span>
 **Requirement:** As a developer of Student Discountz, I redesigned the homepage so it looked more professional.\
@@ -47,7 +47,7 @@
 **Pull Request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/195)\
 **Implemented by:** Aaron Ramirez\
 **Approved by:** Jessica Maldonado\
-**Print Screen:** N/A\
+**Print Screen:** N/A
 
 <span style="text-decoration:underline;">#141</span>
 **Requirement:** As a developer, I want to utilize Bootstrap to make our frontend code more efficient.\
@@ -55,7 +55,7 @@
 **Pull request:** [https://github.com/aaronr7734/team-8-project/pull/188](https://github.com/aaronr7734/team-8-project/pull/188)\
 **Implemented by:** Ceanna Jarrett\
 **Approved by:** Jessica Maldonado\
-**Printed Screen:** N/A\
+**Printed Screen:** N/A
 
 
 
