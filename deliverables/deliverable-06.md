@@ -12,9 +12,9 @@
 **Implemented by:** Ceanna Jarrett\
 **Approved By:** Aaron Ramirez\
 **Print Screen:**
-![Tabs ](.assets/deliverable-06/login_pic.png)
+![Tabs ](./assets/deliverable-06/login_pic.png)
 
-![Tabs ](.assets/deliverable-06/signup_pic.png)
+![Tabs ](./assets/deliverable-06/signup_pic.png)
 
 <span style="text-decoration:underline;">#213</span>
 **Requirement:**  As a student, I would like to have a simple way of finding account options and major selections.\
@@ -23,7 +23,7 @@
 **Implemented:** Elizabeth Knight\
 **Approved By:** Jennie Butch\
 **Print Screen:**
-![Tabs](.assets/deliverable-06/navbar.png)
+![Tabs](./assets/deliverable-06/navbar.png)
 
 <span style="text-decoration:underline;">#189</span>
 **Requirement:** As a frequent user of the website, I want an easy way to access my account again when I return to the website to see my favorite deals.\
@@ -40,7 +40,7 @@
 **Implemented by:** Elizabeth Knight\
 **Approved by:** Jennie Butch\
 **Print Screen:**
-![Tabs](.assets/deliverable-06/homepage.png)\
+![Tabs](./assets/deliverable-06/homepage.png)\
 
 <span style="text-decoration:underline;">#203</span>
 **Requirement:** As a developer, I want to implement automated tests so I can be sure that the code is working.\
