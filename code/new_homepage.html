@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+ <html>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>StudentDiscountz</title>
+        <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+           <div class="container-fluid">
+              <a href="#" class="navbar-brand">StudentDiscountz</a>
+              <button type="button" class="navbar-toggler" data-toggle="collapse" data-bs-target="#navbarCollapse">
+                 <span class="navbar-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarCollapse">
+                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="LoginPage.html">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="SignUpPage.html">Sign Up</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+                           Majors of Study
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbar-dropdown">
+                            <li>
+                                <a class="dropdown-item" href="#">Computer Science</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">Art History</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">Pre-Med</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">Business</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">Psychology</a>
+                            </li>
+                        </ul>
+                    </li>
+                 </ul>
+              </div>
+           </div>
+           <form class="d-flex input-group w-auto">
+             <input type="search" class="form-control rounded" placeholder="..." aria-describedby="search-bar">
+             <button type="submit" class="btn btn-outline-light" id="search-bar">Search</button>
+           </form>
+        </nav>
+        <!--image placeholder-->
+        <div class="p-5 text-center bg-image" style="background-image: url(https://mdbcdn.b-cdn.net/img/new/slides/041.webp); height:400px;">
+           <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
+              <div class="d-flex justify-content-center align-items-center h-100">
+                <div class="text-white">
+                    <h1 class="mb-3">Welcome to StudentDiscountz!</h1>
+                    <a class="btn-outline-light btn-lg" href="#!" role="button">About Us</a>
+                </div>
+              </div>
+           </div>
+        </div>
+    </head>
+    <body>
+        <!--vertical tabs-->
+        <div class="container-fluid bg-light py-3 my-3">
+            
+            <div class="deal-tabs">
+                <h2>Hot Deals</h2>
+                <hr>
+                <div class="row">
+                    <div class="col-md-2">
+                        <ul class="nav nav-pills flex-column" id="current-tab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="gadget-deals-tab" data-toggle="tab" href="#gadget-deals" role="tab" aria-controls="gadget-deals" aria-selected="true">Gadget Deals</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="dorm-deals-tab" data-toggle="tab" href="#dorm-deals" role="tab" aria-controls="dorm-deals" aria-selected="false">Dorm Deals</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="book-deals-tab" data-toggle="tab" href="#book-deals" role="tab" aria-controls="book-deals" aria-selected="false">Book Deals</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="food-deals-tab" data-toggle="tab" href="#food-deals" role="tab" aria-controls="food-deals" aria-selected="false">Food Deals</a>
+                            </li>
+                        </ul>
+                    </div>
+                <div class="col-md-10">
+                        <div class="tab-content" id="deals-content">
+                          <div class="tab-pane fade show active" id="gadget-deals" role="tabpanel" aria-labelledby="gadget-deals-tab">
+                            <h2>Gadget Deals</h2>
+                        <div class="row">
+                       <div class="col-md-4">
+                          <div class="discount-card">
+                            <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                            <div class="discount-info">
+                              <p class="deal-description">This is a placeholder description</p>
+                              <a href="#" class="btn btn-primary">View Deal</a>
+                            </div>
+                         </div>
+                      </div>
+                    <div class="col-md-4">
+                         <div class="discount-card">
+                           <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                           <div class="discount-info">
+                             <p class="deal-description">This is a placeholder description</p>
+                             <a href="#" class="btn btn-primary">View Deal</a>
+                           </div>
+                        </div>
+                    </div>
+                   <div class="col-md-4">
+                        <div class="discount-card">
+                          <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                          <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                         </div>
+                       </div>
+                   </div>
+               </div>
+               
+           </div>
+
+         <div class="tab-pane fade" id="dorm-deals" role="tabpanel" aria-labelledby="dorm-deals-tab">
+             <h2>Dorm Deals</h2>
+             <div class="row">
+               <div class="col-md-4">
+                  <div class="discount-card">
+                    <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                      <div class="discount-info">
+                        <p class="deal-description">This is a placeholder description</p>
+                        <a href="#" class="btn btn-primary">View Deal</a>
+                      </div>
+                  </div>
+               </div>
+               <div class="col-md-4">
+                <div class="discount-card">
+                  <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                    <div class="discount-info">
+                      <p class="deal-description">This is a placeholder description</p>
+                      <a href="#" class="btn btn-primary">View Deal</a>
+                    </div>
+                </div>
+             </div>
+             <div class="col-md-4">
+                <div class="discount-card">
+                  <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                    <div class="discount-info">
+                      <p class="deal-description">This is a placeholder description</p>
+                      <a href="#" class="btn btn-primary">View Deal</a>
+                    </div>
+                </div>
+             </div>
+         </div>
+        </div>
+
+        <div class="tab-pane fade" id="book-deals" role="tabpanel" aria-labelledby="book-deals-tab">
+            <h2>Book Deals</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="tab-pane fade" id="food-deals" role="tabpanel" aria-labelledby="food-deals-tab">
+            <h2>Food Deals</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="discount-card">
+                        <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
+                        <div class="discount-info">
+                            <p class="deal-description">This is a placeholder description</p>
+                            <a href="#" class="btn btn-primary">View Deal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                   
+        <!-- Footer section -->
+    <footer class="footer mt-auto py-3 bg-dark text-white">
+        <div class="container text-center">
+            <p><a href="https://github.com/aaronr7734/team-8-project">Contact Us</a></p>
+        </div>
+    </footer>
+    </body>
+ </html>
