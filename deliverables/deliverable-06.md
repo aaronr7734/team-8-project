@@ -12,6 +12,7 @@
 **Implemented by:** Ceanna Jarrett\
 **Approved By:** Aaron Ramirez\
 **Print Screen:**
+
 ![Tabs ](./assets/deliverable-06/login_pic.png)
 
 ![Tabs ](./assets/deliverable-06/signup_pic.png)
@@ -23,6 +24,7 @@
 **Implemented:** Elizabeth Knight\
 **Approved By:** Jennie Butch\
 **Print Screen:**
+
 ![Tabs](./assets/deliverable-06/navbar.png)
 
 <span style="text-decoration:underline;">#189</span>
@@ -40,6 +42,7 @@
 **Implemented by:** Elizabeth Knight\
 **Approved by:** Jennie Butch\
 **Print Screen:**
+
 ![Tabs](./assets/deliverable-06/homepage.png)\
 
 <span style="text-decoration:underline;">#203</span>
