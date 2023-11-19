@@ -32,6 +32,7 @@ Elizabeth (Minute taker)
 This week, I took care of the notes for the meetings. We, as a group, talked about the deliverable and the report. We also discussed what we need to do for the website. Jessica and I worked together to hand out the jobs. For this, while working on the code, we as a group decided that the sign up page and the log in page need work. I went in and updated those two pages so that they are more connected to the other pages. Also this week, I helped Jessica with the javascript for the login and sign up pages. For the deliverable, I worked on the lessons learned part. I went into the details of what we learned as a group over the past couple of weeks.
 
 ### **Jessica**: 
+This week was heavily focused on the javascript implementations on the sign up and login pages. There was some issues with connecting the API and the users which is still being figured out. I also figured out a way to implement the C aspect which would be password security using the throw and catch errors. The main issue would just be implementing all this into the website which is what I have been trying to figure out
 
 ### **Chase**:
 This week I primarily focused on the deliverable. I was assigned to testing along with Aaron and so we wrote multiple tests for the multiple different classes and tested their functionality. This proved to be more difficult than I thought, as we ran into a few errors while testing and had trouble with the testing environment. This led to us not being able to fully test all aspects of the code. That being said, we were able to test the majority our code and iron out the bugs we found. I wrote the tests for notifications and categories and committed these changes to Aaron's branch so we could better collaborate. On top of this, I discussed our plans for the deliverable and the report with the entirety of the group as well as helped decide future backend endeavors. Overall I believe this was a productive yet challenging week.
@@ -54,7 +55,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Chase's Thoughts: I appreciate Aaron for all his help with the tests.
    
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: I appreciate Ceanna for being able to reformat the website in a great way
    
    
    Jennie's Thoughts: 
@@ -73,7 +74,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Chase's Thoughts: We successfully managed to complete most of the deliverable on time.
    
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: I think we finally developed a great routine using github with the reports and deliverables.
    
    
    Jennie's Thoughts: 
@@ -92,7 +93,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Chase's Thoughts: Production got a little crammed this week and I was unsure if we were gonna be able to complete it in time.
    
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: Mix in skill issues, being unfamiliar with API made logging users into the database hard.
    
    
    Jennie's Thoughts: 
@@ -111,7 +112,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Chase's Thoughts: I think time is our biggest barrier due to the fact that we are often cutting it close to deadlines and sometimes coming up short. Better time management would greatly benefit us.
    
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: The website seems a little rushed, I feel as though more time was spent planning then coding which would normally be ideal in an actual project but we cut close with time.
    
    
    Jennie's Thoughts: 
@@ -130,7 +131,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Chase's Thoughts: I would like to personally manage my time better as to further increase productivity while avoiding having to rush.
    
    
-   Jessica's Thoughts:
+   Jessica's Thoughts: I would like to have handled the backend portion better, I feel as though we came in really short.
    
    
    Jennie's Thoughts: 
