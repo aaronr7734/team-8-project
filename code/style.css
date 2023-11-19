@@ -261,7 +261,10 @@ footer {
 
     }
     .signupBox{
-        text-align: left;
+        text-align: center;
+       
+    }
+    .textbox{
         width: 100%;
     }
 
@@ -270,7 +273,7 @@ footer {
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color:#003366;
+        background-color: gray;
         color: white;
         text-align: center;
     }
