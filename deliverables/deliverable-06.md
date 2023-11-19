@@ -12,7 +12,8 @@
 **Implemented by:** Ceanna Jarrett\
 **Approved By:** Aaron Ramirez\
 **Print Screen:**
-![Tabs](.assets/deliverable-06/login_pic.png)
+![Login Screenshot](https://github.com/aaronr7734/team-8-project/raw/main/.assets/deliverable-06/login_pic.png)
+
 ![Tabs](.assets/deliverable-06/signup_pic.png)
 
 <span style="text-decoration:underline;">#213</span>
