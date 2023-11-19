@@ -60,14 +60,15 @@ nav {
 }
 
 .discount-card {
-  background-color: #fff;
-  width: 300px;
-  height: 100px;
-  border: 1px solid #ccc;
-  margin: 10px;
-  padding: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+    background-color: #fff;
+    width: 300px;
+    height: 400px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 200px;
+  }
 
 .hotdeals-card{
   background-color: #fff;
@@ -284,5 +285,18 @@ footer {
         text-align: center;
     }
 
+.navbar-dark .navbar-nav .nav-link.dropdown-toggle:hover {
+    background-color: transparent; 
+}
+
+
+  
+.navbar-dark .navbar-nav .nav-link.dropdown-toggle:focus {
+    background-color: black; 
+}
+
+.discount-description{
+    margin-bottom: 200px;
+}
     
 
