@@ -51,8 +51,8 @@
 
 <span style="text-decoration:underline;">#141</span>
 **Requirement:** As a developer, I want to utilize Bootstrap to make our frontend code more efficient.\
-**Issue:** [changing the login page to bootstrap · Issue #141 · aaronr7734/team-8-project (github.com)](https://github.com/aaronr7734/team-8-project/issues/141)\
-**Pull request:** [https://github.com/aaronr7734/team-8-project/pull/188](https://github.com/aaronr7734/team-8-project/pull/188)\
+**Issue:** [Issue](https://github.com/aaronr7734/team-8-project/issues/141)\
+**Pull request:** [Pull Request](https://github.com/aaronr7734/team-8-project/pull/188)\
 **Implemented by:** Ceanna Jarrett\
 **Approved by:** Jessica Maldonado\
 **Printed Screen:** N/A
