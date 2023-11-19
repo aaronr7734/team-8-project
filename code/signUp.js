@@ -11,11 +11,10 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Passwords don't match!");
             return;
         }
-
         // Remove the confirm_password field before sending
         delete data.confirm_password;
 
-        fetch('https://studentdiscountz.org/api/register',{
+        fetch('https://studentdiscountz.org/api/register/',{
             method: 'POST',
             headers: {
                 'Content-Type':'application/json'
@@ -28,9 +27,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 return Promise.reject(res.json());
             }
         })
+        
         .then(data => {
             alert("Account successfully created!");
-            window.location.href = "LoginPage.html";
+            window.location.href = "index.html";
         })
         .catch(errorPromise => {
             errorPromise.then(errorData => {
