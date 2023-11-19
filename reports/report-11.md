@@ -34,7 +34,7 @@ This week, I took care of the notes for the meetings. We, as a group, talked abo
 ### **Jessica**: 
 
 ### **Chase**:
-This week I primarily focused on the deliverable. I was assigned to testing along with Aaron and so we wrote multiple tests for the multiple different classes and tested their functionality. This proved to be more difficult than I thought, as we ran into a few errors while testing and had trouble with the testing environment. That being said, we were able to test our code and iron out the bugs we found. I wrote the tests for notifications and categories. On top of this, I discussed our plans for the deliverable and the report with the entirety of the group as well as helped decide future backend endeavors. Overall I believe this was a productive yet challenging week.
+This week I primarily focused on the deliverable. I was assigned to testing along with Aaron and so we wrote multiple tests for the multiple different classes and tested their functionality. This proved to be more difficult than I thought, as we ran into a few errors while testing and had trouble with the testing environment. This led to us not being able to fully test all aspects of the code. That being said, we were able to test the majority our code and iron out the bugs we found. I wrote the tests for notifications and categories and committed these changes to Aaron's branch so we could better collaborate. On top of this, I discussed our plans for the deliverable and the report with the entirety of the group as well as helped decide future backend endeavors. Overall I believe this was a productive yet challenging week.
 
 ### **Jennie**: 
 
@@ -70,7 +70,7 @@ This week I primarily focused on the deliverable. I was assigned to testing alon
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: We successfully managed to complete all aspects of the deliverable.
+   Chase's Thoughts: We successfully managed to complete most of the deliverable on time.
    
    
    Jessica's Thoughts:
