@@ -6,12 +6,10 @@ Here you'll find classes that interact with the database,
 structuring the way the data is stored and retrieved.
 """
 
-from django.db import models
 from django.core.validators import EmailValidator
 from django.contrib.auth.models import AbstractUser, Group, Permission, UserManager as DefaultUserManager
 from . import validator
 
-from django.contrib.auth.models import AbstractUser, UserManager as DefaultUserManager
 from django.db import models
 
 class StudentManager(DefaultUserManager):
