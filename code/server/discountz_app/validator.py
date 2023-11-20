@@ -6,6 +6,8 @@ More will be added as time permits.
 """
 
 from django.core.exceptions import ValidationError
+
+
 def validate_edu_email(email_address):
     """
     Validates that the provided email address ends in .edu.
@@ -15,13 +17,14 @@ def validate_edu_email(email_address):
 
     Raises:
         ValidationError: If the email address does not end in .edu.
-    
+
     Returns:
         None: if validation succeeds, nothing is returned.
         Exception is raised otherwise.
     """
-    if not email_address.endswith('.edu'):
-        raise ValidationError('Email address must end in .edu')
+    if not email_address.endswith(".edu"):
+        raise ValidationError("Email address must end in .edu")
+
 
 def validate_only_letters(value):
     """
@@ -32,10 +35,10 @@ def validate_only_letters(value):
 
     Raises:
         ValidationError: If the string contains anything other than letters.
-    
+
     Returns:
         None: if validation succeeds, nothing is returned.
         Exception is raised otherwise.
     """
     if not value.isalpha():
-        raise ValidationError('String must contain only letters')
+        raise ValidationError("String must contain only letters")
