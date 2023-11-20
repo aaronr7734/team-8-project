@@ -75,6 +75,7 @@ The test itself can be found [here.](https://github.com/aaronr7734/team-8-projec
 ![A terminal window displaying the results of Django database migrations and unit tests for a project. Migrations are marked as 'OK', and test results show 'ok' for six tests, indicating they've passed. The summary line states 'Ran 6 tests in 0.004s', and the last lines indicate the test database has been destroyed.](./assets/deliverable-06/automated_test.png)
 
 ## Demo
+[Video Link](https://youtu.be/dyd2h42NhM8)
 
 ## Code Quality
 
