@@ -3,6 +3,7 @@
 **Team:** 8 - StudentDiscountz
 
 ## Introduction
+StudentDiscountz is a website for students trying to save some money with designated scholarly discounts. The website's key feature centralizes student-specific discounts which enables users to be able to locate items they need for a cheaper price. The search bar feature which can be found on the home page allows users to look for specific discounts in their areas of interest. If a student would like more specific discounts, then the filter feature lets users be able to search for items in a particular category. Rather than losing their progress if a user wishes to log off, the website features an account system which allows users to narrow down what type of discounts they like. The home page allows users to have a more general sense of discounts offered, and even split some discounts by category. This allows deals like technology and dorm supplies to be separated for the ease of use for the user. Overall, StudentDiscountz simplifies the student shopping experience with centralized discounts, a user-friendly search and filter system, and a convenient login feature for personalized preferences.
 
 ## Requirements
 
