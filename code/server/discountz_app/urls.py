@@ -10,16 +10,23 @@ Attributes:
 
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-from .views import StudentViewSet, DiscountViewSet, CategoryViewSet, NotificationViewSet, CustomLoginView, register_view
+from .views import (
+    StudentViewSet,
+    DiscountViewSet,
+    CategoryViewSet,
+    NotificationViewSet,
+    CustomLoginView,
+    register_view,
+)
 
 router = DefaultRouter()
-router.register(r'students', StudentViewSet, basename='student')
-router.register(r'discounts', DiscountViewSet, basename='discount')
-router.register(r'categories', CategoryViewSet, basename='category')
-router.register(r'notifications', NotificationViewSet, basename='notification')
+router.register(r"students", StudentViewSet, basename="student")
+router.register(r"discounts", DiscountViewSet, basename="discount")
+router.register(r"categories", CategoryViewSet, basename="category")
+router.register(r"notifications", NotificationViewSet, basename="notification")
 
 urlpatterns = [
-    path('login/', CustomLoginView.as_view(), name='custom-login'),
-    path('register/', register_view, name='register'),
-    path('', include(router.urls)),
+    path("login/", CustomLoginView.as_view(), name="custom-login"),
+    path("register/", register_view, name="register"),
+    path("", include(router.urls)),
 ]
