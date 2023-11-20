@@ -3,7 +3,7 @@
 **Team:** 8 - StudentDiscountz
 
 ## Introduction
-StudentDiscountz is a website for students trying to save some money with designated scholarly discounts. The website's key feature centralizes student-specific discounts which enables users to be able to locate items they need for a cheaper price. The search bar feature which can be found on the home page allows users to look for specific discounts in their areas of interest. If a student would like more specific discounts, then the filter feature lets users be able to search for items in a particular category. Rather than losing their progress if a user wishes to log off, the website features an account system which allows users to narrow down what type of discounts they like. The home page allows users to have a more general sense of discounts offered, and even split some discounts by category. This allows deals like technology and dorm supplies to be separated for the ease of use for the user. Overall, StudentDiscountz simplifies the student shopping experience with centralized discounts, a user-friendly search and filter system, and a convenient login feature for personalized preferences.
+StudentDiscountz is a website for students trying to save some money with designated scholarly discounts. The website's key feature centralizes student-specific discounts which enables users to be able to locate items they need for a cheaper price. The search bar feature which can be found on the home page allows users to look for specific discounts in their areas of interest. If a student would like more specific discounts, then the filter feature lets users be able to search for items in a particular category. Rather than losing their progress if a user wishes to log off, the website features an account system that allows users to narrow down what type of discounts they like. The home page allows users to have a more general sense of discounts offered and even split some discounts by category. This allows deals like technology and dorm supplies to be separated for ease of use for the user. Overall, StudentDiscountz simplifies the student shopping experience with centralized discounts, a user-friendly search and filter system, and a convenient login feature for personalized preferences.
 
 ## Requirements
 
@@ -66,7 +66,7 @@ StudentDiscountz is a website for students trying to save some money with design
 
 ## Tests
 
-For our automated tests, we primarily used Django's built-in testing Framework, which is based on Python's built-in unittest module. It was difficult for us, and we don't have complete code coverage because we didn't have enough time to familiarize ourselves with the DRF test framework to test our views.  We also spent massive chunks of time trying to fix bugs in our code which were actually issues with how we wrote the automated tests.
+For our automated tests, we primarily used Django's built-in testing Framework, which is based on Python's built-in unit test module. It was difficult for us, and we didn't have complete code coverage because we didn't have enough time to familiarize ourselves with the DRF test framework to test our views.  We also spent massive chunks of time trying to fix bugs in our code which were issues with how we wrote the automated tests.
 
 All of our automated tests can be found [Here.](https://github.com/aaronr7734/team-8-project/tree/main/code/server/discountz_app/automated_tests)
 The class being tested can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/models.py#L41)
@@ -84,7 +84,9 @@ However, we encountered challenges regarding our docstrings. Black does not enfo
 
 Aside from style concerns, we emphasized modularity in our code. This approach was not only aimed at enhancing code quality but also a practical decision due to our team's limited experience with Git, specifically in handling merge conflicts.
 
-Our policies and best practices were mostly uncodified, discussed and agreed upon verbally rather than documented. This approach reflected the spoken decision-making process within our team.
+Our policies and best practices were mostly uncodified, discussed, and agreed upon verbally rather than documented. This approach reflected the spoken decision-making process within our team.
+
+For our frontend development, the collaboration within the team was centered around utilizing Bootstrap to enhance the efficiency of our HTML and CSS that already existed. To ensure code quality, our team followed a set of agreed set of practices and standards. We ended up establishing a coding style that defined the way we named things, indentation, and overall formatting. This helped maintain consistency across the board, making it more readable and understandable for the team members. In addition to style, we implemented version control using Git, allowing for collaboration and tracking changes. Constant review of our front-end code was a key method we used to make sure we were all on the same page. This method also helped us figure out anything features we wanted to add or any bugs we found along the way.
 
 ## Lessons Learned
 With our website's second release, we've made a bunch of new changes. Starting with the homepage, we've got a more professional header now. Also, we added a "Hot Deal" section with all sorts of discounts.
