@@ -28,7 +28,7 @@ Elizabeth (Minute taker)
 
 This week involved engaging in a variety of tasks. I teamed up with Chase to work on integrating automated tests into our project.  I also contributed to the project's deliverable by writing sections on code quality and testing. Lastly, I wrote the "about us" page for the site.
 
-### *Elizabeth**: 
+### **Elizabeth**: 
 For this week, I mostly focused on the progress of the website where I took time to improve the homepage. I added a sticky navigation tab, a placeholder image for our logo, and also put in stand-in discount cards for the hot deals section. I made sure to add the links to the sign-in and login page to the navbar so that the user would be able to see those options. I will continue to make improvements to the homepage throughout next week so that our page doesn't look too empty. I also worked on the deliverable as I was assigned the implemented requirements section. Having previous experience with this section, it wasn't too bad to do. 
 
 ### **Ceanna**:
