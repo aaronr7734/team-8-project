@@ -1,7 +1,8 @@
 from django.test import TestCase
-from ..models import Discount, Student, Category
+from discountz_app.models import Discount, Student, Category
 from django.utils import timezone
 import datetime
+
 
 class DiscountModelTest(TestCase):
     """
@@ -15,9 +16,7 @@ class DiscountModelTest(TestCase):
         This involves creating a dummy student and categories for associating with discounts.
         """
         self.student_hermione = Student.objects.create(
-            first_name="Hermione",
-            last_name="Granger",
-            email="hermione@hogwarts.edu"
+            first_name="Hermione", last_name="Granger", email="hermione@hogwarts.edu"
         )
 
         self.category_magic = Category.objects.create(name="Magic Supplies")
@@ -30,7 +29,7 @@ class DiscountModelTest(TestCase):
             url="https://www.ollivanders.co.uk",
             location="Diagon Alley",
             date_added=timezone.now(),
-            added_by=self.student_hermione
+            added_by=self.student_hermione,
         )
         self.discount_wands.categories.set([self.category_magic])
 
@@ -44,7 +43,9 @@ class DiscountModelTest(TestCase):
         """
         Test the string representation of a Discount instance.
         """
-        self.assertEqual(str(self.discount_wands), "Ollivanders: Wizard's Wand Discount")
+        self.assertEqual(
+            str(self.discount_wands), "Ollivanders: Wizard's Wand Discount"
+        )
 
     def test_discount_categories_association(self):
         """
@@ -63,4 +64,3 @@ class DiscountModelTest(TestCase):
         Test that the get_students_who_bookmarked method returns an empty QuerySet initially.
         """
         self.assertFalse(self.discount_wands.get_students_who_bookmarked().exists())
-

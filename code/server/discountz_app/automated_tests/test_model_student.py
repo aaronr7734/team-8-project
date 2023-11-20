@@ -1,8 +1,9 @@
 from django.test import TestCase
-from ..models import Student
+from discountz_app.models import Student
 from rest_framework import serializers
-from ..serializer import StudentSerializer
+from discountz_app.serializer import StudentSerializer
 from django.core.exceptions import ValidationError
+
 
 class StudentModelTest(TestCase):
     """
@@ -16,9 +17,7 @@ class StudentModelTest(TestCase):
         """
         # Create a student with valid data for use in multiple tests.
         self.student_luke = Student.objects.create(
-            first_name="Luke",
-            last_name="Skywalker",
-            email="luke@rebels.edu"
+            first_name="Luke", last_name="Skywalker", email="luke@rebels.edu"
         )
 
     def test_student_creation_with_valid_data(self):
@@ -29,7 +28,7 @@ class StudentModelTest(TestCase):
         self.assertIsInstance(self.student_luke, Student)
 
     # We had a method to test email uniqueness, but it broke because
-    # the username field is our email field, and Django does 
+    # the username field is our email field, and Django does
     # not allow multiple users with the same username.
 
     def test_email_validation_for_edu_domain(self):
@@ -39,14 +38,13 @@ class StudentModelTest(TestCase):
         """
 
         student_data = {
-            'first_name': 'Tony',
-            'last_name': 'Stark',
-            'email': 'tony@starkindustries.com'
+            "first_name": "Tony",
+            "last_name": "Stark",
+            "email": "tony@starkindustries.com",
         }
         serializer = StudentSerializer(data=student_data)
         with self.assertRaises(serializers.ValidationError):
             serializer.is_valid(raise_exception=True)
-
 
     def test_get_full_name_method(self):
         """
@@ -77,4 +75,3 @@ class StudentModelTest(TestCase):
         original_login_time = self.student_luke.last_logged_in
         self.student_luke.save()  # Trigger update to last_logged_in field
         self.assertNotEqual(self.student_luke.last_logged_in, original_login_time)
-
