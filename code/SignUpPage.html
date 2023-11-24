@@ -75,15 +75,31 @@
 </head>
 <body>
    
-
+  <!--
     <div class="container border py-3 my-3">
       <form class="signupBox">
-        <div class="  mb-3">
+        <div class="mb-3">
+          <p>Create a Free Account Now!</p>
+        </div>
+      
+        <div class="  mb-1">
           <label for="first_name" class="textbox">First Name:</label>
           <input type="text" id="first_name" name="first_name" required><br><br>
         </div>
-
-        <div class=" mb-3">
+       
+        
+        
+        <div class="row">
+          <label for="first_name" class="col-sm-2 col-form-label">First Name:</label>
+        </div>
+        <div class="row">
+          <div class="col-sm-2 offset-sm-2">
+            <input type="text" class="form-control" id="first_name" name="first_name" required>
+          </div>
+        </div>
+        
+        
+        <div class=" mb-1">
           <label for="last_name" class="textbox">Last Name:</label>
         <input type="text" id="last_name" name="last_name" required><br><br>
         </div>
@@ -107,11 +123,39 @@
 
         <button type="submit">Submit</button>
     </form>
-    <div class="askForLog" >
-      <p class="alreadyUserlog">Already a user?
-      <a href="LoginPage.html">SIGN UP</a>
-      </p>
+  -->
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center mb-4">Sign Up</h2>
+            <p class="text-center mb-3">Create a free account or <a href="LoginPage.html">Login</a></p>
+            <form>
+                <div class="form-group">
+                    <label for="firstname">First Name</label>
+                    <input type="text" class="form-control" id="firstname" placeholder="Enter your first name" required>
+                </div>
+                <div class="form-group">
+                    <label for="lastname">Last Name</label>
+                    <input type="text" class="form-control" id="lastname" placeholder="Enter your last name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+                </div>
+                <p>*Must include a letter, number, special character and must be more than 8 characters in length</p>
+                <div class="form-group">
+                  <label for="confirmPassword">Confirm Password</label>
+                  <input type="password" class="form-control" id="confirmPassword" placeholder="Confirm your password" required>
+              </div>
+                <button type="submit" class="btn btn-primary btn-block">Submit</button>
+            </form>
+        </div>
     </div>
+</div>
 
     </div>
 
