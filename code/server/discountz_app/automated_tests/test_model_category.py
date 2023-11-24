@@ -1,5 +1,6 @@
 from django.test import TestCase
-from ..models import Category, Discount  
+from ..models import Category, Discount
+
 
 class CategoryModelTest(TestCase):
     """

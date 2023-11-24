@@ -26,6 +26,8 @@ Elizabeth (Minute taker)
 
 ### **Aaron**:
 
+This week involved engaging in a variety of tasks. I teamed up with Chase to work on integrating automated tests into our project.  I also contributed to the project's deliverable by writing sections on code quality and testing. Lastly, I wrote the "about us" page for the site.
+
 ### **Elizabeth**: 
 For this week, I mostly focused on the progress of the website where I took time to improve the homepage. I added a sticky navigation tab, a placeholder image for our logo, and also put in stand-in discount cards for the hot deals section. I made sure to add the links to the sign-in and login page to the navbar so that the user would be able to see those options. I will continue to make improvements to the homepage throughout next week so that our page doesn't look too empty. I also worked on the deliverable as I was assigned the implemented requirements section. Having previous experience with this section, it wasn't too bad to do. 
 
@@ -50,7 +52,7 @@ For this week, I mostly focused on the deliverable and the progress of the websi
    Ceanna's Thoughts:  I appreciate Aaron and Chase for taking care of the testing of the website. 
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I appreciate Chase for helping me write Automated tests, Jess for working with my poorly written JavaScript, and Ceanna for always being available to answer front-end questions.
    
 
    Chase's Thoughts: I appreciate Aaron for all his help with the tests.
@@ -69,8 +71,7 @@ For this week, I mostly focused on the deliverable and the progress of the websi
    Ceanna's Thoughts:  I think we succeeded in splitting up the work, and this allowed us to practice pair programming this week. 
    
 
-   Aaron's Thoughts: 
-   
+   Aaron's Thoughts: We kind of implemented pair programming which helped streamline communication between the groups of pairs.    
 
    Chase's Thoughts: We successfully managed to complete most of the deliverable on time.
    
@@ -88,7 +89,7 @@ For this week, I mostly focused on the deliverable and the progress of the websi
    Ceanna's Thoughts:  This week, there was a fault in our communication. We all had one idea but it would get lost in communication. I did make a spelling mistake that might have been contributing to the wrong time, but it was figured out.
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: There are too many questions that people ask on Discord that aren't responded to by the right people.
    
 
    Chase's Thoughts: Production got a little cramped this week and I was unsure if we were gonna be able to complete it in time.
@@ -107,7 +108,7 @@ For this week, I mostly focused on the deliverable and the progress of the websi
    Ceanna's Thoughts: There is not enough time to do everything we want to do for the website. Also, our knowledge of what we know is something that hurts us from what we want to do. 
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I got sick on Thursday so I spent way too much time this weekend sleeping.
    
 
    Chase's Thoughts: I think time is our biggest barrier because we are often cutting it close to deadlines and sometimes coming up short. Better time management would greatly benefit us.
@@ -126,7 +127,7 @@ For this week, I mostly focused on the deliverable and the progress of the websi
    Ceanna's Thoughts: Next week, we should try and keep communicating as best as we can. If there is something that we are unsure about we need to ask right away before it gets lost in translation. 
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I feel like everyone's just in survival mode at this point. I don't see any significant changes happening any time soon.
    
 
    Chase's Thoughts: I would like to personally manage my time better to further increase productivity while avoiding having to rush.
