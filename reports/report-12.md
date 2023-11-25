@@ -37,7 +37,7 @@ This week, we had a meeting with everyone. We talked about communication and how
 
 
 ### **Jessica**: 
-
+This week we really broke down what we needed for the rest of the project since the projects final is coming up for presentation. This week was a lot of research on my part trying to get the sign up page and login page to work with one another. Since I am still unfamiliar with the API this has been challenging but I am looking into alternative options with jquery. I also started the implementation of the c aspect which we changed from the original plan.
 
 ### **Chase**:
 This week I primarily focused on research. We decided to use Selenium for our acceptance tests and so I researched and installed selenium so that I may develop further acceptance tests. I plan to better my understanding of these tests so that I can help ensure the functionalities of the website. I also began looking into developing the search capabilities for our website. I researched and experimented with our current database in an attempt to develop code that could pull data from said database. The intent is to use the keywords entered by the user in the search and reference the database for matches. While I have not quite figured it out yet, I should be able to relatively soon. I believe this week was productive as the research I conducted should prove to make the programming for next week more efficient. I am hoping that because of this, I will be able to come up with more acceptance tests and create the fully functional search application.
@@ -61,7 +61,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Chase's Thoughts: I appreciate Elizabeth for helping me with Selenium.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I apprciate the whole team this week for being able to talk through professional communication.
    
    
    Jennie's Thoughts: 
@@ -81,7 +81,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Chase's Thoughts: I think we are using our time more efficiently this week.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think assignmnet distribution was great this week.
    
    
    Jennie's Thoughts: 
@@ -100,7 +100,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Chase's Thoughts: I did not code much this week and instead spent more time researching and experimenting.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: Managing the task I had to get things done on time was a challenge.
    
    
    Jennie's Thoughts: 
@@ -120,7 +120,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Chase's Thoughts: I think we still have a lot to get done in very little time and I'm worried about getting everything done.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: I think trying to implement a c function on a website was very difficult.
    
    
    Jennie's Thoughts: 
@@ -140,7 +140,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Chase's Thoughts: We should research further in advance so that we have more time to code.
    
    
-   Jessica's Thoughts: 
+   Jessica's Thoughts: Next time we can look at the website as a whole and see what needs to be done.
    
    
    Jennie's Thoughts: 
