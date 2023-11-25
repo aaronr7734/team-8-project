@@ -39,6 +39,7 @@ The research has been useful in understanding how our data retrieval process can
 
 
 ### **Chase**:
+This week I primarily focused on research. We decided to use Selenium for our acceptance tests and so I researched and installed selenium so that I may develop further acceptance tests. I plan to better my understanding of these tests so that I can help ensure the functionalities of the website. I also began looking into developing the search capabilities for our website. I researched and experimented with our current database in an attempt to develop code that could pull data from said database. The intent is to use the keywords entered by the user in the search and reference the database for matches. While I have not quite figured it out yet, I should be able to relatively soon. I believe this week was productive as the research I conducted should prove to make the programming for next week more efficient. I am hoping that because of this, I will be able to come up with more acceptance tests and create the fully functional search application.
 
 
 ### **Jennie**: 
@@ -56,7 +57,7 @@ The research has been useful in understanding how our data retrieval process can
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I appreciate Elizabeth for helping me with Selenium.
    
    
    Jessica's Thoughts: 
@@ -76,7 +77,7 @@ The research has been useful in understanding how our data retrieval process can
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I think we are using our time more efficiently this week.
    
    
    Jessica's Thoughts: 
@@ -95,7 +96,7 @@ The research has been useful in understanding how our data retrieval process can
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I did not code much this week and instead spent more time researching and experimenting.
    
    
    Jessica's Thoughts: 
@@ -115,7 +116,7 @@ The research has been useful in understanding how our data retrieval process can
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: I think we still have a lot to get done in very little time and I'm worried about getting everything done.
    
    
    Jessica's Thoughts: 
@@ -135,7 +136,7 @@ The research has been useful in understanding how our data retrieval process can
    Aaron's Thoughts: 
    
 
-   Chase's Thoughts: 
+   Chase's Thoughts: We should research further in advance so that we have more time to code.
    
    
    Jessica's Thoughts: 
