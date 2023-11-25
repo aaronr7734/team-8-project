@@ -33,6 +33,7 @@ The research has been useful in understanding how our data retrieval process can
 
 
 ### **Ceanna**:
+This week, we had a meeting with everyone. We talked about communication and how to break down the jobs for the next deliverable. We also talked about what we each need to code for the next two weeks. Because of the holidays we were not able to code the most this week. However I was able to code javascript and jquery for the discounts on the website. There is some trial and error to make it work. I log into the server so I can become familiar with the server. So that I will be able to test it. I am working on this code with Jennie and Elizabeth. Jennie helped me with the login page and the sign up page. For the deliverable I am working with Elizabeth and Chase on the acceptance test. I looked into all the different testing softwares, and we decided to use Selenium. We are going to work more of it over the next week. At the same time we are going to code to make sure that the website is up to date. 
 
 
 ### **Jessica**: 
@@ -51,7 +52,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Elizabeth's Thoughts: I appreciate Ceanna and Jennie for helping me with the jQuery aspect of the website.
    
    
-   Ceanna's Thoughts:  
+   Ceanna's Thoughts: I appreciate Elizbeth for working on the login and the sign up pages for the acceptance testing. 
    
 
    Aaron's Thoughts: 
@@ -71,7 +72,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Elizabeth's Thoughts: I think that we had a more successful time assigning the work more evenly this time.
    
    
-   Ceanna's Thoughts:  
+   Ceanna's Thoughts: I think that we are going a lot better in the communication area for our team. We are working as a team to make sure that everyone is on the same page, and making sure that on one is behind. 
    
 
    Aaron's Thoughts: 
@@ -90,7 +91,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Elizabeth's Thoughts: Since Thanksgiving was this week, it was harder to get work done and on time.
    
    
-   Ceanna's Thoughts:  
+   Ceanna's Thoughts: I am having a hard time with fetch and post in javascript. There are too many things that need to happen to make it work. The work needs to break down to the logic of what we are doing.
    
 
    Aaron's Thoughts: 
@@ -110,7 +111,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Elizabeth's Thoughts: I think time is the main barrier that we're dealing with right now since the holidays got in the way of progress.
    
    
-   Ceanna's Thoughts:  
+   Ceanna's Thoughts: I had a hard time trying to figure out where the api link for fetch was. The names on the github of the server and the api are different. It took a couple of hours to figure out where the link was supposed to go.
    
 
    Aaron's Thoughts: 
@@ -130,7 +131,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Elizabeth's Thoughts: I think that next time we could dedicate more time to getting more progress done with the website.
    
    
-   Ceanna's Thoughts:  
+   Ceanna's Thoughts: I think in our next meeting we need to figure out the same details of the website, so that when it comes to the big features in the website. We can figure it out.
    
 
    Aaron's Thoughts: 
