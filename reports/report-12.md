@@ -25,7 +25,7 @@ Elizabeth (Minute taker)
 ## 1. Summary of Activities
 
 ### **Aaron**:
-
+This week, I researched and learned the basics of writing tests using the Django REST Framework's automated testing module. I began work on some tests that create student accounts, bookmark discounts, etc, as required by Deliverable 7. Additionally, I helped a few teammates get logged into the server so they can update the website and test Javascript on their own.
 
 ### **Elizabeth**: 
 For this week, I updated the picture on our homepage for the website in order to make it better reflect the team's current goal. I also worked on my portion of the deliverabler by adding and fully installling Selenium to my local machine and made tests to check if the login and sign-up pages work properly. I have plans to update the tests I have now and create new ones later in the week so that I can ensure that more of the website's functionalities are also working. Additionally, I have researched the basics of jQuery so that I can better understand the API functions on the frontend side of our website. I can say that while I researched, jQuery seems to be very straightforward with its syntax.\
@@ -55,7 +55,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Ceanna's Thoughts: I appreciate Elizbeth for working on the login and the sign up pages for the acceptance testing. 
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I appreciate the whole team for coming in on Tuesday to discuss issues professionally. I feel like we're finally headed in the right direction.
    
 
    Chase's Thoughts: I appreciate Elizabeth for helping me with Selenium.
@@ -75,7 +75,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Ceanna's Thoughts: I think that we are going a lot better in the communication area for our team. We are working as a team to make sure that everyone is on the same page, and making sure that on one is behind. 
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: Communication was great, we did a good job assigning tasks, and things are overall feeling better than they ever have.
    
 
    Chase's Thoughts: I think we are using our time more efficiently this week.
@@ -94,7 +94,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Ceanna's Thoughts: I am having a hard time with fetch and post in javascript. There are too many things that need to happen to make it work. The work needs to break down to the logic of what we are doing.
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: Holidays and being sick have made it harder to get work done.
    
 
    Chase's Thoughts: I did not code much this week and instead spent more time researching and experimenting.
@@ -114,7 +114,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Ceanna's Thoughts: I had a hard time trying to figure out where the api link for fetch was. The names on the github of the server and the api are different. It took a couple of hours to figure out where the link was supposed to go.
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I have nothing to say here that hasn't already been said.
    
 
    Chase's Thoughts: I think we still have a lot to get done in very little time and I'm worried about getting everything done.
@@ -134,7 +134,7 @@ This week I primarily focused on research. We decided to use Selenium for our ac
    Ceanna's Thoughts: I think in our next meeting we need to figure out the same details of the website, so that when it comes to the big features in the website. We can figure it out.
    
 
-   Aaron's Thoughts: 
+   Aaron's Thoughts: I think for our next few meetings we need to use them as work time so we can all work in the same space.
    
 
    Chase's Thoughts: We should research further in advance so that we have more time to code.
