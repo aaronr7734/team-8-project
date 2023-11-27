@@ -68,6 +68,8 @@
         </div>
     </head>
     <body>
+        <!--Javascript for discounts-->
+        <script src="DiscountsJavaScipt.js"></script>
         <!--vertical tabs-->
         <div class="container-fluid bg-light py-3 my-3">
             
@@ -97,11 +99,12 @@
                             <h2>Gadget Deals</h2>
                         <div class="row">
                        <div class="col-md-4">
-                          <div class="discount-card">
+                          <div class="discount-card" id="name">
                             <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
                             <div class="discount-info">
-                              <p class="deal-description">This is a placeholder description</p>
-                              <a href="#" class="btn btn-primary">View Deal</a>
+                              <p class="deal-description" id="description">This is a placeholder description</p>
+                              <p class="deal-description" id="business_name"></p>
+                              <a href="#" class="btn btn-primary" id="url">View Deal</a>
                             </div>
                          </div>
                       </div>
