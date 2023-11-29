@@ -329,5 +329,17 @@ footer {
     z-index: 1; /* Set a higher z-index to place it above the background */
 }
 
+.navbar-dark .navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+.navbar-dark .navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item:focus{
+    background-color: #999a9b;
+    color: #0b0000;
+}
+
+.navbar-dark .navbar-nav .nav-item.dropdown:hover .nav-link.dropdown-toggle,
+.navbar-dark .navbar-nav .nav-item.dropdown:focus .nav-link.dropdown-toggle{
+     background-color: #071117;
+}
+
+
 
 
