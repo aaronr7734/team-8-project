@@ -17,7 +17,7 @@
               <div class="collapse navbar-collapse" id="navbarCollapse">
                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="LoginPage.html">Login</a>
@@ -68,6 +68,8 @@
         </div>
     </head>
     <body>
+        <!--Javascript for discounts-->
+        <script src="DiscountsJavaScipt.js"></script>
         <!--vertical tabs-->
         <div class="container-fluid bg-light py-3 my-3">
             
@@ -97,11 +99,12 @@
                             <h2>Gadget Deals</h2>
                         <div class="row">
                        <div class="col-md-4">
-                          <div class="discount-card">
+                          <div class="discount-card" id="name">
                             <img src="pngtree.jpg" alt="gadget-image" class="img-fluid">
                             <div class="discount-info">
-                              <p class="deal-description">This is a placeholder description</p>
-                              <a href="#" class="btn btn-primary">View Deal</a>
+                              <p class="deal-description" id="description">This is a placeholder description</p>
+                              <p class="deal-description" id="business_name"></p>
+                              <a href="#" class="btn btn-primary" id="url">View Deal</a>
                             </div>
                          </div>
                       </div>
