@@ -303,3 +303,43 @@ footer {
 }
     
 
+.login-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.background-image-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://raw.githubusercontent.com/aaronr7734/team-8-project/main/code/assets/flag.png');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.login-content {
+    position: relative; /* Ensure it's positioned relative to its containing block */
+    z-index: 1; /* Set a higher z-index to place it above the background */
+}
+
+.navbar-dark .navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+.navbar-dark .navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item:focus{
+    background-color: #999a9b;
+    color: #0b0000;
+}
+
+.navbar-dark .navbar-nav .nav-item.dropdown:hover .nav-link.dropdown-toggle,
+.navbar-dark .navbar-nav .nav-item.dropdown:focus .nav-link.dropdown-toggle{
+     background-color: #071117;
+}
+
+
+
+
