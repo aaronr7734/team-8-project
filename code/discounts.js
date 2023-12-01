@@ -66,6 +66,7 @@ function createDiscountHtml(discount) {
 }
 
 $(document).ready(function () {
+  console.log("Script loaded"); // For debugging
   // Initialize the process of fetching and displaying discounts when the webpage loads
   fetchDiscountsForCategory("gadget-deals", 8);
   fetchDiscountsForCategory("dorm-deals", 9);
