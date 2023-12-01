@@ -9,7 +9,7 @@ string html_addition(string html, string text) {
     size_t body_pos = html.find("<body>");
 
     // error handling if body tag is missing, returns original html
-    if (body_pos == string::npos) {
+    if (body_pos == -1) {
         return html;
     }
 
@@ -33,6 +33,7 @@ int main() {
         return 1;
     }
 
+    //reading file contents
     string htmlContent((istreambuf_iterator<char>(input)), istreambuf_iterator<char>());
 
     cout << "Enter HTML body additions: " << endl;
