@@ -7,7 +7,7 @@ $(function (){
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
         success: function(data){
-        $.each(discounts, function(index, item){
+        $.each(data, function(index, item){
             $discounts.append('<p>' + item.name + '</p>');
             $discounts.append('<p>' + item.description + '</p>');
             $discounts.append('<p>' + item.url + '</p>');
