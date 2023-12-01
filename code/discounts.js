@@ -33,14 +33,6 @@ function selectRandomDiscounts(discounts, count) {
   }
 }
 
-function selectRandomDiscounts(discounts, count) {
-  // Shuffle the array of discounts
-  var shuffledDiscounts = discounts.sort(() => 0.5 - Math.random());
-
-  // Select the first 'count' number of elements
-  return shuffledDiscounts.slice(0, count);
-}
-
 // Function to update the HTML content of a category tab with selected discounts
 function updateCategoryTabWithDiscounts(categoryName, discounts) {
   var tabContent = $("#" + categoryName); // Updated selector
@@ -75,9 +67,9 @@ function createDiscountHtml(discount) {
 
 $(document).ready(function () {
   // Initialize the process of fetching and displaying discounts when the webpage loads
-  fetchDiscountsForCategory("gadget-deals-tab", 8);
-  fetchDiscountsForCategory("dorm-deals-tab", 9);
-  fetchDiscountsForCategory("book-deals-tab", 10);
-  fetchDiscountsForCategory("food-deals-tab", 11);
-  fetchDiscountsForCategory("fun-deals-tab", 12);
+  fetchDiscountsForCategory("gadget-deals", 8);
+  fetchDiscountsForCategory("dorm-deals", 9);
+  fetchDiscountsForCategory("book-deals", 10);
+  fetchDiscountsForCategory("food-deals", 11);
+  fetchDiscountsForCategory("fun-deals", 12);
 });
