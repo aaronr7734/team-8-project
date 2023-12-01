@@ -4,8 +4,12 @@ $(function (){
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
         success: function(discounts){
-            $.each(discounts, function(name, desciption, url, business_name, location){
-                $discounts.append('<li>' + discounts.name + discounts.desciption + discounts.url + desciption.location + '</li>');
+            $.each(discounts, function(name, description, url, business_name, location){
+                $discounts.append('<p>' + discounts.name + '</p>');
+                $discounts.append('<p>' +discounts.description + '</p>');
+                $discounts.append('<p>' + discounts.url + '</p>');
+                $discounts.append('<p>' + discounts.location + '</p>');
+                
 
             });
 
