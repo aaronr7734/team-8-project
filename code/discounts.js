@@ -1,6 +1,6 @@
 $(function (){
     var $discounts = $('#discounts')
-    //var $name = $('#nameID')
+    var $name = $('#nameID')
    // var $locationJs = $('#locationJs')
     //var $urlJs = $('#urlJs')
     $.ajax({
@@ -14,9 +14,21 @@ $(function (){
             $discounts.append('<p>' + description.location + '</p>');
 
 
-        });
+         });
+        } ,  
+        success: function(name){
+            $.each(name, function(index, description){
+                $name.append('<p>' + description.name + '</p>');
+                $name.append('<p>' +description.description + '</p>');
+                $name.append('<p>' + description.url + '</p>');
+                $name.append('<p>' + description.location + '</p>');
+    
+    
+            });
+
       
-    }
+        }
+
     });  
     
 });
