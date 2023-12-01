@@ -51,9 +51,18 @@ function createDiscountHtml(discount) {
   return (
     '<div class="discount-card">' +
     '<img src="' +
-    discount.imageUrl +
+    discount.image +
     '" alt="Discount Image" class="img-fluid">' +
     '<div class="discount-info">' +
+    '<h4 class="deal-name">' +
+    discount.name +
+    "</h4>" +
+    '<p class="deal-business">' +
+    discount.business_name +
+    "</p>" +
+    '<p class="deal-location">' +
+    discount.location +
+    "</p>" +
     '<p class="deal-description">' +
     discount.description +
     "</p>" +
@@ -66,7 +75,6 @@ function createDiscountHtml(discount) {
 }
 
 $(document).ready(function () {
-  console.log("Script loaded"); // For debugging
   // Initialize the process of fetching and displaying discounts when the webpage loads
   fetchDiscountsForCategory("gadget-deals", 8);
   fetchDiscountsForCategory("dorm-deals", 9);
