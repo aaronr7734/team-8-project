@@ -1,7 +1,7 @@
 $(function (){
-    var $discounts = $('#discounts')
+    var $discounts = $('#discountsTwo')
    
-    var discountsId = 1;
+    var discountsId = 2;
     //var $name = $('#nameID')
    // var $locationJs = $('#locationJs')
     //var $urlJs = $('#urlJs')
@@ -25,11 +25,3 @@ $(function (){
     });  
     
 });
-
-
-
-
-
-
-
-
