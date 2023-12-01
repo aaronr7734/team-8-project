@@ -1,30 +1,37 @@
-// I only know the very basics of javascript
-// So I'm not sure if this is the best way to do this.
-document.addEventListener("DOMContentLoaded", function() {
-    const loginFormEl = document.querySelector('.signupBox'); 
+function loginForm() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value; 
 
-    loginFormEl.addEventListener('submit', event => {
-        event.preventDefault(); 
+    const userData = {
+        username: username,
+        password: password,
+    };
 
-        const formData = new FormData(loginFormEl);
-        const loginData = Object.fromEntries(formData);
-
-        fetch('https://studentdiscountz.org/api/login', {
+        fetch('https://studentdiscountz.org/api/register/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify(loginData)
-        }).then(res => res.json())
-        .then(data => {
-            if (data.token) {
-                // Redirect to home page.
-                window.location.href = "https://studentdiscountz.org/";
-            } else {
-                // Show error // this is the part I'm not sure is safe.
-                alert(JSON.stringify(data));
-            }
+            body: JSON.stringify(userData),
         })
-        .catch(error => console.log(error));
-    });
-});
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data.success) {
+                    alert("Account Successfully Logged in!");
+                    window.location.href = 'index.html';
+                } else {
+                    alert('Error. ' + data.message);
+                    console.error('Error: ', data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Fetch error:', error);
+                alert('Login Up Incomplete');
+            });
+        }
+n
