@@ -8,7 +8,7 @@ function fetchDiscountsForCategory(categoryName, categoryId) {
       "/discounts_in_category/",
     success: function (discounts) {
       // Randomly select six discounts to display
-      var selectedDiscounts = selectRandomDiscounts(discounts, 6);
+      var selectedDiscounts = selectRandomDiscounts(discounts, 3);
 
       // Update the HTML for the given category tab
       updateCategoryTabWithDiscounts(categoryName, selectedDiscounts);
