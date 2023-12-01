@@ -27,7 +27,7 @@ $(function (){
 });
 
 $(function (){
-    var $discounts = $('#discounts')
+    var $discounts = $('#discountsTwo')
    
     var discountsId = 2;
     //var $name = $('#nameID')
