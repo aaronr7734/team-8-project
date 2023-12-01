@@ -7,8 +7,8 @@ $(function (){
             $.each(discounts, function(name, description, url, business_name, location){
                 $discounts.append('<p>' + description.name + '</p>');
                 $discounts.append('<p>' +description.description + '</p>');
-                $discounts.append('<p>' + description.url + '</p>');
-                $discounts.append('<a href=">' + description.location + '" class="btn btn-primary" >' + '</a>');
+                $discounts.append('<p>' + description.location + '</p>');
+                $discounts.append('<a href=">' + description.url + '" class="btn btn-primary" >' + '</a>');
                 
 
             });
