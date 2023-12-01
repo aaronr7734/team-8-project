@@ -2,7 +2,7 @@ $(function (){
     var $discounts = $('#discounts')
     var $name = $('#nameID')
     var $locationJs = $('#locationJs')
-    var urlJs = $('#urljs')
+    var $urlJs = $('#urlJs')
     $.ajax({
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
