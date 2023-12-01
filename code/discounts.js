@@ -1,5 +1,5 @@
 $(function (){
-    
+    var $discounts = $('#discounts')
     $.ajax({
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
