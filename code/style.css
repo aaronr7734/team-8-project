@@ -97,24 +97,6 @@ nav {
     color: #333;
 }
 
-.search-bar {
-    margin: 1rem 0;
-    padding: 16px;
-    width: 100%;
-    box-sizing: border-box;
-}
-/*box of logo size*/
-.img-logo{
-
-    border: 1px;
-    padding: 5px;
-    margin: 5px;
-    width: 200px;
-
-    background-color: #003366;
-    color: #fff;
-
-}
 /*sign up box*/
 .sign-up {
     border: 1px;
@@ -164,11 +146,20 @@ section {
     flex: 1;
 }
 
-footer {
-    background-color: #003366;
-    color: #fff;
-    padding: 1rem;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Faded background color */
+    color: white;
     text-align: center;
+    padding: 10px; /* Adjust padding as needed */
+}
+
+.footer a {
+    color: white;
+    text-decoration: none; /* Optional: Remove underline from the link */
 }
 
 
@@ -229,37 +220,9 @@ footer {
 
     .show{display: block;}
 
-    .searchfilter{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        position: relative;
+    
 
-    }
-/*justify-content: space-between;*/
-    .clicksearch{
-        display: flex;
-        align-items: center;
-        margin-right:10px;
-
-    }
-
-    .cantfind{
-        background-color: #FFE133;
-        color: black;
-        padding: 14px 14p;
-        
-        text-align: center;
-        text-decoration: none;
-        font-size: 16px;
-        display:inline-block;
-        border: none;
-        cursor: pointer;
-        margin-left: 5px;
-        height: 60px;
-
-
-    }
+    
     .signupBox{
         text-align: center;
        
@@ -268,15 +231,6 @@ footer {
         width: 100%;
     }
 
-    .footerNew{
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        background-color: rgba(0, 0, 0, 0.6);
-        color: white;
-        text-align: center;
-    }
     .askForLog{
         text-align: center;
 
@@ -341,5 +295,11 @@ footer {
 }
 
 
+h2.text-center.mb-4 {
+    color: #343a40;
+}
 
+label {
+    font-weight: bold;
+}
 
