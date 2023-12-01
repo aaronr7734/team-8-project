@@ -299,5 +299,7 @@ h2.text-center.mb-4 {
     color: #343a40;
 }
 
-
+label {
+    font-weight: bold;
+}
 
