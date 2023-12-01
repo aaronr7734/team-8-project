@@ -1,27 +1,61 @@
-$(function () {
-    var $discounts = $('#discounts');
-    var discountIdsToShow = [1, 2, 3]; // Change these IDs to the ones you want to display
-
+$(function (){
+    var $discounts = $('#discounts')
+   
+    var discountsId = 1;
+    //var $name = $('#nameID')
+   // var $locationJs = $('#locationJs')
+    //var $urlJs = $('#urlJs')
     $.ajax({
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
-        success: function (discounts) {
-            // Loop through each ID in the array
-            discountIdsToShow.forEach(function (discountId) {
-                // Find the discount with the current ID
-                var selectedDiscount = discounts.find(function (discount) {
-                    return discount.id === discountId;
-                });
+        success: function(discounts){
+        var selectedDiscounts = discounts.find(function (discount){
+            return discount.id  === discountsId;
+        })
+        if(selectedDiscounts){
+            $discounts.append('<p>' + selectedDiscounts.name + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.description + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.url + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.location + '</p>');
 
-                if (selectedDiscount) {
-                    // Display the selected discount
-                    $discounts.append('<p> ' + selectedDiscount.name + '</p>');
-                    $discounts.append('<p> ' + selectedDiscount.description + '</p>');
-                    $discounts.append('<p> ' + selectedDiscount.url + '</p>');
-                    $discounts.append('<p>' + selectedDiscount.location + '</p>');
-                    $discounts.append('<hr>'); // Add a horizontal line between discounts
-                }
-            });
         }
-    });
+       
+        }
+
+    });  
+    
 });
+
+$(function (){
+    var $discounts = $('#discounts')
+   
+    var discountsId = 2;
+    //var $name = $('#nameID')
+   // var $locationJs = $('#locationJs')
+    //var $urlJs = $('#urlJs')
+    $.ajax({
+        type: 'GET',
+        url: 'https://studentdiscountz.org/api/discounts/',
+        success: function(discounts){
+        var selectedDiscounts = discounts.find(function (discount){
+            return discount.id  === discountsId;
+        })
+        if(selectedDiscounts){
+            $discounts.append('<p>' + selectedDiscounts.name + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.description + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.url + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.location + '</p>');
+
+        }
+       
+        }
+
+    });  
+    
+});
+
+
+
+
+
+
