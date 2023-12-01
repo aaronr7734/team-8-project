@@ -124,6 +124,7 @@ class Discount(models.Model):
         categories (ManyToMany): The categories the discount belongs to.
         date_added (DateTime) The date the discount was added to the platform.
         added_by: (ForeignKey) The admin who added the discount.
+        image (ImageField): Optional. An image to visually represent the discount.
     """
 
     name = models.CharField(max_length=150)
@@ -135,6 +136,12 @@ class Discount(models.Model):
     date_added = models.DateTimeField(auto_now_add=True)
     added_by = models.ForeignKey(
         Student, on_delete=models.SET_NULL, null=True, blank=True
+    )
+    image = models.ImageField(
+        upload_to='discount_images/', 
+        blank=True, 
+        null=True,
+        help_text="Optional: Upload an image representing the discount."
     )
 
     def get_students_who_bookmarked(self):

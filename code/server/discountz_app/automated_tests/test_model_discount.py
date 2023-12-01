@@ -29,7 +29,7 @@ class DiscountModelTest(TestCase):
             url="https://www.ollivanders.co.uk",
             location="Diagon Alley",
             date_added=timezone.now(),
-            added_by=self.student_hermione,
+
         )
         self.discount_wands.categories.set([self.category_magic])
 
