@@ -7,7 +7,7 @@ $(function (){
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
         success: function(discounts){
-        $.each(discounts, function(index, description){
+        $('tr td:nth-child(2)').each(discounts, function(index, description){
             $discounts.append('<p>' + description.name + '</p>');
             $discounts.append('<p>' +description.description + '</p>');
             $discounts.append('<p>' + description.url + '</p>');
@@ -15,18 +15,7 @@ $(function (){
 
 
          });
-        } ,  
-        success: function(name){
-            $.each(name, function(index, description){
-                $name.append('<p>' + description.name + '</p>');
-                $name.append('<p>' +description.description + '</p>');
-                $name.append('<p>' + description.url + '</p>');
-                $name.append('<p>' + description.location + '</p>');
-    
-    
-            });
-
-      
+        
         }
 
     });  
