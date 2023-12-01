@@ -12,10 +12,10 @@ $(function (){
             return discount.id  === discountsId;
         })
         if(selectedDiscounts){
-            $discounts.append('<p>' + description.name + '</p>');
-            $discounts.append('<p>' + description.description + '</p>');
-            $discounts.append('<p>' + description.url + '</p>');
-            $discounts.append('<p>' + description.location + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.name + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.description + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.url + '</p>');
+            $discounts.append('<p>' + selectedDiscounts.location + '</p>');
 
         }
        
