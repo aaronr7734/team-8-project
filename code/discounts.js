@@ -1,6 +1,7 @@
 $(function (){
     var $discounts = $('#discounts')
-    var discountsId = 1;
+   
+    var discountsId = [1,2,3] ;
     //var $name = $('#nameID')
    // var $locationJs = $('#locationJs')
     //var $urlJs = $('#urlJs')
