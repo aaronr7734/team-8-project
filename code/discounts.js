@@ -27,7 +27,7 @@ $(function (){
         },
         success: function(urlJs){
             $.each(discounts, function(data){
-                 $urlJs.append('<a href=">' + date.url + '" class="btn btn-primary" >' + '</a>');
+                 $urlJs.append('<a href=">' + date.url + '" class="btn btn-primary" > </a>');
                     
     
                 });
