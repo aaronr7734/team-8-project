@@ -15,7 +15,7 @@ $(function (){
         if(selectedDiscounts){
             $discounts.append('<p>' + selectedDiscounts.name + '</p>');
             $discounts.append('<p>' + selectedDiscounts.description + '</p>');
-            $discounts.append('<p> <a href "' + selectedDiscounts.url + '" target="_blank"> Website </a></p>');
+            $discounts.append('<p> <a href "' + selectedDiscounts.url + '" target="_blank"> View Deal </a></p>');
             $discounts.append('<p>' + selectedDiscounts.location + '</p>');
 
         }
