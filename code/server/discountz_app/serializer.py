@@ -108,6 +108,7 @@ class DiscountSerializer(serializers.ModelSerializer):
             "url",
             "location",
             "date_added",
+            "image",
         ]
 
 
