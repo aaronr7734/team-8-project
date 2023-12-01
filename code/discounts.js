@@ -8,7 +8,7 @@ $(function (){
                 $discounts.append('<p>' + description.name + '</p>');
                 $discounts.append('<p>' +description.description + '</p>');
                 $discounts.append('<p>' + description.url + '</p>');
-                $discounts.append('<p>' + description.location + '</p>');
+                $discounts.append('<a href=">' + description.location + '" class="btn btn-primary" >' + '</a>');
                 
 
             });
