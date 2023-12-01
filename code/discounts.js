@@ -1,12 +1,20 @@
-$(document).ready(function () {
-    $.get("https://studentdiscountz.org/api/discounts/", 
-    function(data, status) {
-        console.log(data, status);
-    });
-    $.post("https://studentdiscountz.org/api/discounts/", {user: "la", body: "0"}, 
-    function(data, status) {
-        console.log(data, status); 
+$(function (){
+    
+    $.ajax({
+        type: 'GET',
+        url: 'https://studentdiscountz.org/api/discounts/',
+        success: function(discounts){
+            $.each(discounts, function(name, desciption, url, business_name, location){
+                $discounts.append('<li>' + discounts.name + discounts.desciption + discounts.url + desciption.location + '</li>');
+
+            });
+
+        }
     });
 });
+
+
+
+
 
 
