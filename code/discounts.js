@@ -60,9 +60,6 @@ function createDiscountHtml(discount) {
     '<p class="deal-business">' +
     discount.business_name +
     "</p>" +
-    '<p class="deal-location">' +
-    discount.location +
-    "</p>" +
     '<p class="deal-description">' +
     discount.description +
     "</p>" +
