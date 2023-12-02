@@ -16,7 +16,7 @@ $(function (){
             $discounts.append('<p class="deal-description">' + selectedDiscounts.name + '</p>');
             $discounts.append('<p class="deal-description">' + selectedDiscounts.description + '</p>');
             $discounts.append('<p class="deal-description">' + selectedDiscounts.location + '</p>');
-            $discounts.append('<p > <a href="' + selectedDiscounts.url + '" class="btn btn-primary" > View Deal </a></p>' );
+            $discounts.append('<p class > <a href="' + selectedDiscounts.url + '"  class="btn btn-primary" > View Deal </a></p>' );
             
 
         }
@@ -26,6 +26,15 @@ $(function (){
     });  
     
 });
+
+
+
+
+
+
+
+
+
 
 
 
