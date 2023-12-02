@@ -2,9 +2,7 @@ $(function (){
     var $discounts = $('#discountsTwo')
    
     var discountsId = 2;
-    //var $name = $('#nameID')
-   // var $locationJs = $('#locationJs')
-    //var $urlJs = $('#urlJs')
+    
     $.ajax({
         type: 'GET',
         url: 'https://studentdiscountz.org/api/discounts/',
@@ -13,10 +11,13 @@ $(function (){
             return discount.id  === discountsId;
         })
         if(selectedDiscounts){
-            $discounts.append('<p>' + selectedDiscounts.name + '</p>');
-            $discounts.append('<p>' + selectedDiscounts.description + '</p>');
-            $discounts.append('<p>' + selectedDiscounts.url + '</p>');
-            $discounts.append('<p>' + selectedDiscounts.location + '</p>');
+            $discounts.append('<p class="deal-description"> <img src="' + selectedDiscounts.image + '" alt="gadget-image" class="img-fluid"> </p>');
+
+            $discounts.append('<p class="deal-description">' + selectedDiscounts.name + '</p>');
+            $discounts.append('<p class="deal-description">' + selectedDiscounts.description + '</p>');
+            $discounts.append('<p class="deal-description">' + selectedDiscounts.location + '</p>');
+            $discounts.append('<p > <a href="' + selectedDiscounts.url + '" class="btn btn-primary" > View Deal </a></p>' );
+            
 
         }
        
@@ -25,3 +26,11 @@ $(function (){
     });  
     
 });
+
+
+
+
+
+
+
+
