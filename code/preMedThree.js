@@ -1,7 +1,7 @@
 $(function (){
-    var $discounts = $('#discountsTwo')
+    var $discounts = $('#preMedThree')
    
-    var discountsId = 2;
+    var discountsId = 27;
     
     $.ajax({
         type: 'GET',
@@ -11,12 +11,12 @@ $(function (){
             return discount.id  === discountsId;
         })
         if(selectedDiscounts){
-            //$discounts.append('<p class="deal-description"> <img src="' + selectedDiscounts.image + '" alt="gadget-image" class="img-fluid"> </p>');
+            $discounts.append('<p class="deal-description"> <img src="' + selectedDiscounts.image + '" alt="gadget-image" class="img-fluid"> </p>');
 
             $discounts.append('<p class="deal-description">' + selectedDiscounts.name + '</p>');
             $discounts.append('<p class="deal-description">' + selectedDiscounts.description + '</p>');
             $discounts.append('<p class="deal-description">' + selectedDiscounts.location + '</p>');
-            $discounts.append('<p class > <a href="' + selectedDiscounts.url + '"  class="btn btn-primary" > View Deal </a></p>' );
+            $discounts.append('<p > <a href="' + selectedDiscounts.url + '" class="btn btn-primary" > View Deal </a></p>' );
             
 
         }
@@ -26,15 +26,6 @@ $(function (){
     });  
     
 });
-
-
-
-
-
-
-
-
-
 
 
 
