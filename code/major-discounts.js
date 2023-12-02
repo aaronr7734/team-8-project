@@ -34,7 +34,9 @@ function createDiscountHtml(discount) {
     '<p class="deal-description">' +
     discount.description +
     "</p>" +
-    '<a href="#" class="btn btn-primary" target="_blank">View Deal</a>' +
+    '<a href="' +
+    discount.url +
+    '" class="btn btn-primary" target="_blank">View Deal</a>' +
     "</div>" +
     "</div>" +
     "</div>"
