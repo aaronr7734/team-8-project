@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import time
 
-# Replace 'path/to/msedgedriver' with the absolute path to your downloaded Microsoft Edge Driver executable
+# The path to your downloaded Microsoft Edge Driver executable
 edge_driver_path = 'Documents/CS386/myenv/Scripts/activate/edgedriver_win64/msedgedriver.exe'
 
 # Create EdgeOptions object and set the executable path
@@ -47,7 +47,7 @@ try:
     )
     login_submit_button.click()
 
-    # Introduce a delay after submitting the form (5 seconds in this example)
+    # Delay after submitting the form
     time.sleep(5)
 
     print("Logged in successfully!")
