@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException, TimeoutException
 import time
 
-# Replace 'path/to/msedgedriver' with the absolute path to your downloaded Microsoft Edge Driver executable
+# The path to my downloaded Microsoft Edge Driver executable
 edge_driver_path = 'Documents/CS386/myenv/Scripts/activate/edgedriver_win64/msedgedriver.exe'
 
 # Create EdgeOptions object and set the executable path
@@ -24,7 +24,7 @@ def click_deal_section(deal_id):
 
     # Use JavaScript to click the element
     driver.execute_script("arguments[0].click();", deal_tab)
-
+    
     print(f"Clicked on {deal_id} tab")
     time.sleep(1)
 
@@ -56,6 +56,7 @@ for option_text, page_url in dropdown_options_mapping.items():
         option.click()
         print(f"Clicked on dropdown option: {option_text}")
         time.sleep(1)
+        
         # Navigate back to the main page
         driver.get("https://www.studentdiscountz.org") 
 
@@ -63,7 +64,8 @@ for option_text, page_url in dropdown_options_mapping.items():
         majors_dropdown = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "navbar-dropdown")))
         majors_dropdown.click()
         time.sleep(1)
-
+        
+   # Error handling
     except StaleElementReferenceException:
         print(f"StaleElementReferenceException occurred. Retrying...")
         option = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, option_text)))
@@ -75,6 +77,7 @@ for option_text, page_url in dropdown_options_mapping.items():
 
     # Click on the "Login" link
 try:
+    # Find the "Login" link and click on it
     login_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, "Login")))
     login_link.click()
     print("Clicked on the Login link")
@@ -86,6 +89,7 @@ except TimeoutException as e:
 
 # Click on the "Sign Up" link
 try:
+     # Find the "Sign Up" link and click on it
     signup_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, "Sign Up")))
     signup_link.click()
     print("Clicked on the Sign Up link")
