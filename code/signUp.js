@@ -4,7 +4,11 @@ function signUpForm() {
   const email = document.getElementById('email').value;
   const password = document.getElementById('password').value;
   const confirmPassword = document.getElementById('confirmPassword').value;
+  const form = document.getElementById('Signup');
 
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+});
   if (password !== confirmPassword) {
     alert('Passwords do not match. Please try again');
     return;
@@ -17,8 +21,6 @@ function signUpForm() {
     password,
   };
 
-console.log(JSON.stringify(userData));
-
   fetch('https://studentdiscountz.org/api/register/', {
     method: 'POST',
     headers: {
@@ -29,18 +31,11 @@ console.log(JSON.stringify(userData));
     .then(response => response.json())
     .then(data => {
        alert('Account Successfully Created!');
+      setTimeout(function () {
+       window.location.href = 'index.html';
+     }, 1000);
     })
     .catch(error => {
       alert('Sign Up Incomplete');
     });
 }
-
-const form = document.getElementById('Signup');
-form.addEventListener('submit', function (event) {
-  event.preventDefault();
-
-  setTimeout(function () {
-    window.location.href = 'index.html';
-  }, 2000);
-});
-
