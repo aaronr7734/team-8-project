@@ -29,18 +29,10 @@ console.log(JSON.stringify(userData));
     .then(response => response.json())
     .then(data => {
        alert('Account Successfully Created!');
+       window.location.href='index.html';
     })
     .catch(error => {
       alert('Sign Up Incomplete');
     });
 }
-
-const form = document.getElementById('Signup');
-form.addEventListener('submit', function (event) {
-  event.preventDefault();
-
-  setTimeout(function () {
-    window.location.href = 'index.html';
-  }, 2000);
-});
 
