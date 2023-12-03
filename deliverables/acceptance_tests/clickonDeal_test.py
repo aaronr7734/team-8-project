@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-# Replace 'path/to/msedgedriver' with the absolute path to your downloaded Microsoft Edge Driver executable
+# The path to your downloaded Microsoft Edge Driver executable
 edge_driver_path = 'Documents/CS386/myenv/Scripts/activate/edgedriver_win64/msedgedriver.exe'
 
 # Create EdgeOptions object and set the executable path
