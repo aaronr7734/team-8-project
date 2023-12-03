@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-# Replace 'path/to/msedgedriver' with the absolute path to your downloaded Microsoft Edge Driver executable
+# The path to your downloaded Microsoft Edge Driver executable
 edge_driver_path = 'Documents/CS386/myenv/Scripts/activate/edgedriver_win64/msedgedriver.exe'
 
 # Create EdgeOptions object and set the executable path
@@ -42,7 +42,7 @@ try:
         EC.presence_of_element_located((By.ID, 'confirmPassword'))
     )
 
-    # Replace with your desired sign-up information
+    # Type in sign-up information
     firstname_input.send_keys("Fakefirstname")
     lastname_input.send_keys("Fakelastname")
     email_input.send_keys("Fake.user@email.edu")
@@ -51,7 +51,7 @@ try:
 
     # Submit the sign-up form
     print("Waiting for submit button to be clickable")
-
+    
     signup_submit_button = WebDriverWait(driver, 30).until(
     EC.presence_of_element_located((By.XPATH, '//button[text()="Submit"]'))
     )
