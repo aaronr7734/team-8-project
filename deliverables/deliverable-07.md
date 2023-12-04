@@ -55,7 +55,7 @@ Were there any pages that you found confusing or less helpful?
 4. “Made it simple to navigate and everything was on display”
 5. “To my knowledge no there wasn’t.”
 
-### Satisfaction: ###
+## Satisfaction: 
 The final task of “Satisfaction” included an overall evaluation of the user's experience of the website in general. This not only included the visual appearance of the website's pages but also their functionality and overall usability of the website. The main objective was to see if this was a website and product that they would consider using again in the future or if not, what improvements would they like to see to consider visiting again. 
 
 ### General Process: ###
@@ -77,7 +77,7 @@ How likely are you to recommend our website to a fellow student?
 “As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
 
 
-### Reflection: ###
+## Reflection:
 The observations recorded from the user experience and interactions were both positive and constructive. The overall navigation of the website was great between the three users tested. They made note that everything was well laid out and easy to navigate. However, the website did seem to lack a lot of information and looked to be in the too early stages for some users to visit the website again. Rather than changing the website, adding more information and creating a more interactive service for users would enhance the overall experience. The learning curve of the system is relatively low, there were no issues with functionalities and navigation. The tasks the users were given were all performed with no issues and they seemed to do everything with ease. The users seemed to like the layout of the website the best which is great but in the future, if we do decide to add more discounts, that should be the main emphasis and generally what the user focuses on more. Though the layout of the website is fantastic, there was some major dissatisfaction with the amount of discounts which is what our value proposition is heavily focused on. The main focus was centralizing student-specific discounts which is what we are slowly accomplishing. 
 
 
