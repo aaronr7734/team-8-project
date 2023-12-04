@@ -9,8 +9,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <title>Login</title>
-</head>
-<body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
           <a href="index.html" class="navbar-brand">StudentDiscountz</a>
@@ -54,6 +52,8 @@
            </div>
         </div>
      </nav>
+</head>
+<body>
    <div class="login-background"> 
         <div class="background-image-container"></div>
         <div class="login-content">
@@ -61,7 +61,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-6">
                         <h2 class="text-center mb-4"><br><label>Login</label></h2>
-                        <form>
+                        <form id="login">
                             <div class="form-group">
                                 <label for="email">Email</label>
                                 <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
@@ -71,7 +71,7 @@
                                 <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
                             </div>
                             <p style="color:#000000"><label>*Must include a letter, number, special character and must be more than 8 characters in length</label></p>
-                            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+                            <button type="submit" class="btn btn-primary btn-block" onclick="LoginForm()">Submit</button>
                         </form>
                         <p class="text-center mb-3"><br><label>New to StudentDiscountz? <a href="SignUpPage.html" style="color: black;">Join Now</label></a></p>
                     </div>
