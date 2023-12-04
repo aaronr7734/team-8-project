@@ -15,7 +15,7 @@ The example we'll be showcasing for this deliverable primarily tests a function-
 The function-based view tested was  our register_view, which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py#L41)
 The test itself can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/mock_object_tests.py#L46)
 
-```bash```
+```bash
 python manage.py test discountz_app.automated_tests.mock_object_tests
 Found 2 test(s).
 Creating test database for alias 'default'...
@@ -27,6 +27,7 @@ Ran 2 tests in 0.251s
 
 OK
 Destroying test database for alias 'default'...
+```
 
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
 
