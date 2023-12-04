@@ -26,7 +26,7 @@ System check identified no issues (0 silenced).
 Ran 2 tests in 0.251s                                                                                                                                                             
                                                                                                                                                                                   
 OK                                                                                                                                                                                
-Destroying test database for alias 'default'... ```
+Destroying test database for alias 'default'...
 
 
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
