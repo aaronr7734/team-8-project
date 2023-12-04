@@ -7,6 +7,28 @@ StudentDiscountz is a website for students trying to save some money with design
 
 ## Verification
 
+As with deliverable 6, we used Django's built-in test framework, which is based on Python's unittest.
+Apart from hardcoded API requests to fetch specific discounts, our site only uses the registration and login endpoints of our API, so that's what we've focused our tests on.
+
+All of our automated tests can be found [Here.](https://github.com/aaronr7734/team-8-project/tree/main/code/server/discountz_app/automated_tests)
+The example we'll be showcasing for this deliverable primarily tests a function-based view, but it also indirectly tests our custom register serializer class which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/serializer.py#L48)
+The function-based view tested was  our register_view, which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py#L41)
+The test itself can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/mock_object_tests.py#L46)
+
+```bash
+python manage.py test discountz_app.automated_tests.mock_object_tests                                                                                 
+Found 2 test(s).                                                                                                                                                                  
+Creating test database for alias 'default'...                                                                                                                                     
+Destroying old test database for alias 'default'...                                                                                                                               
+System check identified no issues (0 silenced).                                                                                                                                   
+..                                                                                                                                                                                
+----------------------------------------------------------------------                                                                                                            
+Ran 2 tests in 0.251s                                                                                                                                                             
+                                                                                                                                                                                  
+OK                                                                                                                                                                                
+Destroying test database for alias 'default'... ```
+
+
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
 
 For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific web
@@ -105,22 +127,22 @@ Were there any pages that you found confusing or less helpful?
 The final task of “Satisfaction” included an overall evaluation of the user's experience of the website in general. This not only included the visual appearance of the website's pages but also their functionality and overall usability of the website. The main objective was to see if this was a website and product that they would consider using again in the future or if not, what improvements would they like to see to consider visiting again. 
 
 ### General Process: ###
-Ask the user to reflect on their overall experience while browsing the website. 
-Record results 
+1. Ask the user to reflect on their overall experience while browsing the website. 
+2. Record results 
 
 ### Questions: ###
-What are your thoughts on the visual appeal of our website?
-Are there any additional features or content you would like to see on our website?
-Were all the website features and functionalities easy to use?
-On a scale of 1 to 10, how would you rate your overall experience with our website?
-How likely are you to recommend our website to a fellow student?
+1. What are your thoughts on the visual appeal of our website?
+2. Are there any additional features or content you would like to see on our website?
+3. Were all the website features and functionalities easy to use?
+4. On a scale of 1 to 10, how would you rate your overall experience with our website?
+5. How likely are you to recommend our website to a fellow student?
 
 ### Data Collected: ###
-“Gives me a modern feel to today's websites which are up to date”
-“Perhaps maybe professional promotional videos to show off the site.”
-“Yes, there were no issues while I was navigating through the website”
-“Personally, I would give the website an 8. It has a very clean look and there were no major issues while I was going through the whole process of logging in and signing up”
-“As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
+1. “Gives me a modern feel to today's websites which are up to date”
+2. “Perhaps maybe professional promotional videos to show off the site.”
+3. “Yes, there were no issues while I was navigating through the website”
+4. “Personally, I would give the website an 8. It has a very clean look and there were no major issues while I was going through the whole process of logging in and signing up”
+5. “As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
 
 
 ## Reflection:
