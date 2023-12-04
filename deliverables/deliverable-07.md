@@ -54,3 +54,30 @@ Were there any pages that you found confusing or less helpful?
 3. “I would say the majors of study because you really dive in on what’s available”
 4. “Made it simple to navigate and everything was on display”
 5. “To my knowledge no there wasn’t.”
+
+### Satisfaction: ###
+The final task of “Satisfaction” included an overall evaluation of the user's experience of the website in general. This not only included the visual appearance of the website's pages but also their functionality and overall usability of the website. The main objective was to see if this was a website and product that they would consider using again in the future or if not, what improvements would they like to see to consider visiting again. 
+
+### General Process: ###
+Ask the user to reflect on their overall experience while browsing the website. 
+Record results 
+
+### Questions: ###
+What are your thoughts on the visual appeal of our website?
+Are there any additional features or content you would like to see on our website?
+Were all the website features and functionalities easy to use?
+On a scale of 1 to 10, how would you rate your overall experience with our website?
+How likely are you to recommend our website to a fellow student?
+
+### Data Collected: ###
+“Gives me a modern feel to today's websites which are up to date”
+“Perhaps maybe professional promotional videos to show off the site.”
+“Yes, there were no issues while I was navigating through the website”
+“Personally, I would give the website an 8. It has a very clean look and there were no major issues while I was going through the whole process of logging in and signing up”
+“As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
+
+
+### Reflection: ###
+The observations recorded from the user experience and interactions were both positive and constructive. The overall navigation of the website was great between the three users tested. They made note that everything was well laid out and easy to navigate. However, the website did seem to lack a lot of information and looked to be in the too early stages for some users to visit the website again. Rather than changing the website, adding more information and creating a more interactive service for users would enhance the overall experience. The learning curve of the system is relatively low, there were no issues with functionalities and navigation. The tasks the users were given were all performed with no issues and they seemed to do everything with ease. The users seemed to like the layout of the website the best which is great but in the future, if we do decide to add more discounts, that should be the main emphasis and generally what the user focuses on more. Though the layout of the website is fantastic, there was some major dissatisfaction with the amount of discounts which is what our value proposition is heavily focused on. The main focus was centralizing student-specific discounts which is what we are slowly accomplishing. 
+
+
