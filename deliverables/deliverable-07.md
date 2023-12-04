@@ -7,6 +7,28 @@ StudentDiscountz is a website for students trying to save some money with design
 
 ## Verification
 
+As with deliverable 6, we used Django's built-in test framework, which is based on Python's unittest.
+Apart from hardcoded API requests to fetch specific discounts, our site only uses the registration and login endpoints of our API, so that's what we've focused our tests on.
+
+All of our automated tests can be found [Here.](https://github.com/aaronr7734/team-8-project/tree/main/code/server/discountz_app/automated_tests)
+The example we'll be showcasing for this deliverable primarily tests a function-based view, but it also indirectly tests our custom register serializer class which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/serializer.py#L48)
+The function-based view tested was  our register_view, which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py#L41)
+The test itself can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/mock_object_tests.py#L46)
+
+```bash
+python manage.py test discountz_app.automated_tests.mock_object_tests                                                                                 
+Found 2 test(s).                                                                                                                                                                  
+Creating test database for alias 'default'...                                                                                                                                     
+Destroying old test database for alias 'default'...                                                                                                                               
+System check identified no issues (0 silenced).                                                                                                                                   
+..                                                                                                                                                                                
+----------------------------------------------------------------------                                                                                                            
+Ran 2 tests in 0.251s                                                                                                                                                             
+                                                                                                                                                                                  
+OK                                                                                                                                                                                
+Destroying test database for alias 'default'... ```
+
+
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
 
 For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific web
