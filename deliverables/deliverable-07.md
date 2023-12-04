@@ -28,7 +28,6 @@ Ran 2 tests in 0.251s
 OK                                                                                                                                                                                
 Destroying test database for alias 'default'... ```
 
-
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
 
 For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific web
