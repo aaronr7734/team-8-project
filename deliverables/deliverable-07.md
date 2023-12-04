@@ -15,7 +15,7 @@ The example we'll be showcasing for this deliverable primarily tests a function-
 The function-based view tested was  our register_view, which can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/views.py#L41)
 The test itself can be found [here.](https://github.com/aaronr7734/team-8-project/blob/main/code/server/discountz_app/automated_tests/mock_object_tests.py#L46)
 
-```bash
+```bash```
 python manage.py test discountz_app.automated_tests.mock_object_tests
 Found 2 test(s).
 Creating test database for alias 'default'...
@@ -30,10 +30,10 @@ Destroying test database for alias 'default'...
 
 ## Acceptance Test (Elizabeth, Chase, Ceanna)
 
-For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific web
-drivers for the different browsers that we each use. We have five automated tests in total, that each test different aspects of our website, which include
-logging in, signing in, navigating to our GitHub through the Contact Us page, clicking on the different majors through the dropdown and clicking on their 
-'View Deal' buttons and navigating through the different deal tabs on our homepage. 
+For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific
+web drivers for the different browsers that we each use. We have five automated tests in total, that each test different aspects of our website, which
+include logging in, signing in, navigating to our GitHub through the Contact Us page, clicking on the different majors through the dropdown and clicking on
+their'View Deal' buttons and navigating through the different deal tabs on our homepage. 
 
 1. Logging in
    Link to test: [login_test.py](./acceptance_tests/login_test.py)
