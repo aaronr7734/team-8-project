@@ -127,22 +127,22 @@ Were there any pages that you found confusing or less helpful?
 The final task of “Satisfaction” included an overall evaluation of the user's experience of the website in general. This not only included the visual appearance of the website's pages but also their functionality and overall usability of the website. The main objective was to see if this was a website and product that they would consider using again in the future or if not, what improvements would they like to see to consider visiting again. 
 
 ### General Process: ###
-Ask the user to reflect on their overall experience while browsing the website. 
-Record results 
+1. Ask the user to reflect on their overall experience while browsing the website. 
+2. Record results 
 
 ### Questions: ###
-What are your thoughts on the visual appeal of our website?
-Are there any additional features or content you would like to see on our website?
-Were all the website features and functionalities easy to use?
-On a scale of 1 to 10, how would you rate your overall experience with our website?
-How likely are you to recommend our website to a fellow student?
+1. What are your thoughts on the visual appeal of our website?
+2. Are there any additional features or content you would like to see on our website?
+3. Were all the website features and functionalities easy to use?
+4. On a scale of 1 to 10, how would you rate your overall experience with our website?
+5. How likely are you to recommend our website to a fellow student?
 
 ### Data Collected: ###
-“Gives me a modern feel to today's websites which are up to date”
-“Perhaps maybe professional promotional videos to show off the site.”
-“Yes, there were no issues while I was navigating through the website”
-“Personally, I would give the website an 8. It has a very clean look and there were no major issues while I was going through the whole process of logging in and signing up”
-“As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
+1. “Gives me a modern feel to today's websites which are up to date”
+2. “Perhaps maybe professional promotional videos to show off the site.”
+3. “Yes, there were no issues while I was navigating through the website”
+4. “Personally, I would give the website an 8. It has a very clean look and there were no major issues while I was going through the whole process of logging in and signing up”
+5. “As of right now, it is less likely until more discounts are added and more majors are added as well, but I am very likely to share the idea of the website because it’s great”
 
 
 ## Reflection:
