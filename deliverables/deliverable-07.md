@@ -29,7 +29,7 @@ OK
 Destroying test database for alias 'default'...
 ```
 
-## Acceptance Test (Elizabeth, Chase, Ceanna)
+## Acceptance Tests
 
 For the acceptance testing process of our website, we decided to use the Selenium framework utilizing Python, which also required us to download specific
 web drivers for the different browsers that we each use. We have five automated tests in total, that each test different aspects of our website, which
